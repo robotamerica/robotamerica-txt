@@ -1,12 +1,328 @@
 <!doctype html>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>robotamerica txt mirror</title>
-<pre>
-robotamerica txt mirror
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>robotamerica · markdown mirror</title>
+  <style>
+    :root{
+      --bg:#0b0f0c;
+      --panel:#0f1511;
+      --ink:#e8efe9;
+      --muted:#a9b7ad;
+      --line:#1c2a21;
+      --link:#9fe870;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", "Roboto Mono", monospace;
+    }
+    html,body{height:100%}
+    body{
+      margin:0;
+      background:var(--bg);
+      color:var(--ink);
+      font-family:var(--mono);
+    }
+    a{color:var(--link); text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{
+      display:grid;
+      grid-template-columns: 340px 1fr;
+      height:100vh;
+    }
+    .nav{
+      border-right:1px solid var(--line);
+      background:var(--panel);
+      padding:14px 12px;
+      overflow:auto;
+    }
+    .nav h1{
+      font-size:14px;
+      margin:0 0 10px 0;
+      font-weight:700;
+      letter-spacing:.02em;
+    }
+    .nav .meta{
+      font-size:12px;
+      color:var(--muted);
+      line-height:1.45;
+      margin-bottom:12px;
+    }
+    .nav input{
+      width:100%;
+      box-sizing:border-box;
+      padding:10px 10px;
+      border:1px solid var(--line);
+      background:#0b120e;
+      color:var(--ink);
+      border-radius:10px;
+      outline:none;
+      margin:10px 0 12px 0;
+      font-family:var(--mono);
+    }
+    .nav .group{
+      margin:14px 0;
+    }
+    .nav .group-title{
+      color:var(--muted);
+      font-size:12px;
+      margin:0 0 8px 0;
+      text-transform:lowercase;
+      letter-spacing:.04em;
+    }
+    .list{
+      list-style:none;
+      padding:0;
+      margin:0;
+    }
+    .list li{
+      padding:6px 6px;
+      border-radius:10px;
+      display:flex;
+      gap:8px;
+      align-items:baseline;
+    }
+    .list li:hover{ background:#0b120e; }
+    .chip{
+      color:var(--muted);
+      font-size:11px;
+      border:1px solid var(--line);
+      padding:2px 6px;
+      border-radius:999px;
+      white-space:nowrap;
+    }
+    .title{
+      font-size:12px;
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+      flex:1;
+    }
+    .viewer{
+      overflow:auto;
+      padding:16px;
+    }
+    .topbar{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      justify-content:space-between;
+      margin-bottom:10px;
+      padding-bottom:10px;
+      border-bottom:1px solid var(--line);
+    }
+    .path{
+      font-size:12px;
+      color:var(--muted);
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+      max-width:70%;
+    }
+    .actions{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:flex-end;
+    }
+    .btn{
+      border:1px solid var(--line);
+      background:#0b120e;
+      color:var(--ink);
+      padding:8px 10px;
+      border-radius:10px;
+      font-size:12px;
+      font-family:var(--mono);
+      cursor:pointer;
+    }
+    .btn:hover{ border-color:#2a3c31; }
+    pre{
+      margin:0;
+      white-space:pre-wrap;
+      word-break:break-word;
+      line-height:1.55;
+      font-size:13px;
+      padding:14px;
+      border:1px solid var(--line);
+      border-radius:14px;
+      background:#070b08;
+    }
+    @media (max-width: 860px){
+      .wrap{ grid-template-columns: 1fr; }
+      .nav{ height: 42vh; border-right:none; border-bottom:1px solid var(--line); }
+      .path{ max-width:55%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <aside class="nav">
+      <h1>robotamerica · markdown mirror</h1>
+      <div class="meta">
+        click a file to view raw <code>.md</code><br/>
+        direct links work (and <code>curl</code> too)
+      </div>
 
-- index (markdown): ./index.md
-- whole site (markdown): ./site.md
-- posts: ./posts/
-- pages: ./pages/
-</pre>
+      <input id="q" placeholder="filter… (e.g., 'poetics', 'manifesto')" />
+
+      <div class="group">
+        <div class="group-title">entry points</div>
+        <ul class="list" id="entry"></ul>
+      </div>
+
+      <div class="group">
+        <div class="group-title">pages</div>
+        <ul class="list" id="pages"></ul>
+      </div>
+
+      <div class="group">
+        <div class="group-title">posts</div>
+        <ul class="list" id="posts"></ul>
+      </div>
+    </aside>
+
+    <main class="viewer">
+      <div class="topbar">
+        <div class="path" id="path">loading…</div>
+        <div class="actions">
+          <a class="btn" id="openRaw" href="./site.md">open raw</a>
+          <button class="btn" id="copyLink">copy link</button>
+        </div>
+      </div>
+
+      <pre id="content">loading…</pre>
+    </main>
+  </div>
+
+<script>
+  const ENTRY = [
+    { label: "index.md (directory)", file: "index.md", tag: "md" },
+    { label: "site.md (whole site)", file: "site.md", tag: "md" },
+  ];
+
+
+  async function loadManifest() {
+    const res = await fetch("./index.md", { cache: "no-store" });
+    if (!res.ok) throw new Error("Could not fetch index.md manifest");
+    const txt = await res.text();
+
+
+    const linkRe = /\[([^\]]+)\]\((pages|posts)\/([^)]+)\)/g;
+    const pages = [];
+    const posts = [];
+    let m;
+    while ((m = linkRe.exec(txt)) !== null) {
+      const filename = m[1];       // foo.md
+      const kind = m[2];           // pages|posts
+      const rel = `${kind}/${m[3]}`; // pages/foo.md or posts/foo.md
+      const item = { label: filename.replace(/\.md$/,""), file: rel, tag: kind.slice(0,-1) };
+      if (kind === "pages") pages.push(item);
+      else posts.push(item);
+    }
+
+    // Sort posts/pages alphabetically by label
+    pages.sort((a,b)=>a.label.localeCompare(b.label));
+    posts.sort((a,b)=>a.label.localeCompare(b.label));
+
+    return { pages, posts };
+  }
+
+  function el(tag, attrs={}, children=[]) {
+    const n = document.createElement(tag);
+    for (const [k,v] of Object.entries(attrs)) {
+      if (k === "class") n.className = v;
+      else if (k === "html") n.innerHTML = v;
+      else n.setAttribute(k, v);
+    }
+    for (const c of children) n.appendChild(c);
+    return n;
+  }
+
+  function renderList(root, items) {
+    root.innerHTML = "";
+    for (const it of items) {
+      const li = el("li", {}, [
+        el("span", { class:"chip" }, [document.createTextNode(it.tag)]),
+        el("a", { class:"title", href:`#${it.file}`, title: it.file }, [document.createTextNode(it.label)]),
+      ]);
+      root.appendChild(li);
+    }
+  }
+
+  async function showFile(relPath) {
+    const pathEl = document.getElementById("path");
+    const contentEl = document.getElementById("content");
+    const openRaw = document.getElementById("openRaw");
+
+    pathEl.textContent = relPath;
+    openRaw.href = `./${relPath}`;
+
+    try {
+      const res = await fetch(`./${relPath}`, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const txt = await res.text();
+      contentEl.textContent = txt;
+    } catch (e) {
+      contentEl.textContent =
+`could not load: ${relPath}
+
+- confirm the file exists under /docs
+- confirm github pages is set to main + /docs
+- try opening raw: ${location.origin}${location.pathname.replace(/\/$/, "")}/${relPath}
+
+error: ${e.message}`;
+    }
+  }
+
+  function currentTarget() {
+    const h = (location.hash || "").replace(/^#/, "");
+    return h || "site.md";
+  }
+
+  function applyFilter(items, q) {
+    if (!q) return items;
+    q = q.toLowerCase();
+    return items.filter(it => (it.label + " " + it.file).toLowerCase().includes(q));
+  }
+
+  async function main() {
+    // Render entry list immediately
+    renderList(document.getElementById("entry"), ENTRY);
+
+    // Load manifest-derived lists
+    let pages = [];
+    let posts = [];
+    try {
+      const manifest = await loadManifest();
+      pages = manifest.pages;
+      posts = manifest.posts;
+    } catch (e) {
+      // still allow viewing site.md even if manifest fails
+      pages = [];
+      posts = [];
+    }
+
+    const q = document.getElementById("q");
+    function rerender() {
+      renderList(document.getElementById("pages"), applyFilter(pages, q.value));
+      renderList(document.getElementById("posts"), applyFilter(posts, q.value));
+    }
+    q.addEventListener("input", rerender);
+    rerender();
+
+    // Respond to hash navigation
+    window.addEventListener("hashchange", () => showFile(currentTarget()));
+    await showFile(currentTarget());
+
+    // Copy “deep link” to current file
+    document.getElementById("copyLink").addEventListener("click", async () => {
+      const url = `${location.origin}${location.pathname}#${currentTarget()}`;
+      try {
+        await navigator.clipboard.writeText(url);
+      } catch (_) {}
+    });
+  }
+
+  main();
+</script>
+</body>
+</html>
