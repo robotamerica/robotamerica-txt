@@ -3,15 +3,14 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>robotamerica · markdown mirror</title>
+  <title>robotamerica · md mirror</title>
   <style>
     :root{
       --bg:#0b0f0c;
-      --panel:#0f1511;
       --ink:#e8efe9;
-      --muted:#a9b7ad;
-      --line:#1c2a21;
-      --link:#9fe870;
+      --muted:#a7b3aa;
+      --line:#1a241d;
+      --link:#a8ff7a;
       --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", "Roboto Mono", monospace;
     }
     html,body{height:100%}
@@ -20,306 +19,283 @@
       background:var(--bg);
       color:var(--ink);
       font-family:var(--mono);
+      font-size:14px;
+      line-height:1.55;
     }
     a{color:var(--link); text-decoration:none}
     a:hover{text-decoration:underline}
+
     .wrap{
       display:grid;
-      grid-template-columns: 340px 1fr;
+      grid-template-columns: 320px 1fr;
       height:100vh;
     }
-    .nav{
+
+    /* left: plain index */
+    nav{
       border-right:1px solid var(--line);
-      background:var(--panel);
-      padding:14px 12px;
+      padding:14px;
       overflow:auto;
     }
-    .nav h1{
-      font-size:14px;
+    nav .hdr{
       margin:0 0 10px 0;
+      font-size:14px;
       font-weight:700;
       letter-spacing:.02em;
     }
-    .nav .meta{
-      font-size:12px;
-      color:var(--muted);
-      line-height:1.45;
-      margin-bottom:12px;
-    }
-    .nav input{
-      width:100%;
-      box-sizing:border-box;
-      padding:10px 10px;
-      border:1px solid var(--line);
-      background:#0b120e;
-      color:var(--ink);
-      border-radius:10px;
-      outline:none;
-      margin:10px 0 12px 0;
-      font-family:var(--mono);
-    }
-    .nav .group{
-      margin:14px 0;
-    }
-    .nav .group-title{
+    nav .sub{
+      margin:0 0 12px 0;
       color:var(--muted);
       font-size:12px;
-      margin:0 0 8px 0;
+    }
+    .group{
+      margin:14px 0 0 0;
+    }
+    .group-title{
+      margin:0 0 6px 0;
+      color:var(--muted);
+      font-size:12px;
       text-transform:lowercase;
       letter-spacing:.04em;
     }
-    .list{
+    ul{
       list-style:none;
       padding:0;
       margin:0;
     }
-    .list li{
-      padding:6px 6px;
-      border-radius:10px;
-      display:flex;
-      gap:8px;
-      align-items:baseline;
-    }
-    .list li:hover{ background:#0b120e; }
-    .chip{
-      color:var(--muted);
-      font-size:11px;
-      border:1px solid var(--line);
-      padding:2px 6px;
-      border-radius:999px;
+    li{
+      padding:4px 0;
       white-space:nowrap;
-    }
-    .title{
-      font-size:12px;
       overflow:hidden;
       text-overflow:ellipsis;
-      white-space:nowrap;
-      flex:1;
     }
-    .viewer{
+    li::before{ content:"* "; color:var(--muted); }
+    .small{
+      color:var(--muted);
+      font-size:12px;
+    }
+
+    /* right: markdown viewer, still plain */
+    main{
+      padding:14px;
       overflow:auto;
-      padding:16px;
     }
-    .topbar{
-      display:flex;
-      gap:12px;
-      align-items:center;
-      justify-content:space-between;
-      margin-bottom:10px;
+    .topline{
+      color:var(--muted);
+      font-size:12px;
       padding-bottom:10px;
       border-bottom:1px solid var(--line);
-    }
-    .path{
-      font-size:12px;
-      color:var(--muted);
+      margin-bottom:12px;
+      white-space:nowrap;
       overflow:hidden;
       text-overflow:ellipsis;
-      white-space:nowrap;
-      max-width:70%;
     }
-    .actions{
-      display:flex;
-      gap:10px;
-      flex-wrap:wrap;
-      align-items:center;
-      justify-content:flex-end;
+
+    /* “fancy markdown” but restrained */
+    .md{
+      max-width: 900px;
     }
-    .btn{
-      border:1px solid var(--line);
-      background:#0b120e;
-      color:var(--ink);
-      padding:8px 10px;
-      border-radius:10px;
-      font-size:12px;
+    .md h1,.md h2,.md h3{
+      font-size:14px;
+      font-weight:700;
+      margin:16px 0 8px;
+    }
+    .md h1{ margin-top:0; }
+    .md p{ margin:0 0 10px; }
+    .md ul,.md ol{
+      margin:0 0 10px 0;
+      padding-left:16px;
+    }
+    .md ul{ list-style:disc; }
+    .md ol{ list-style:decimal; }
+    .md blockquote{
+      margin:0 0 10px;
+      padding-left:12px;
+      border-left:2px solid var(--line);
+      color:var(--muted);
+    }
+    .md hr{
+      border:0;
+      border-top:1px solid var(--line);
+      margin:14px 0;
+    }
+    .md code{
       font-family:var(--mono);
-      cursor:pointer;
+      font-size:0.95em;
     }
-    .btn:hover{ border-color:#2a3c31; }
-    pre{
-      margin:0;
-      white-space:pre-wrap;
-      word-break:break-word;
-      line-height:1.55;
-      font-size:13px;
-      padding:14px;
+    .md pre{
       border:1px solid var(--line);
-      border-radius:14px;
-      background:#070b08;
+      padding:10px;
+      overflow:auto;
+      margin:0 0 12px;
+      background:transparent;
     }
+    .md pre code{
+      display:block;
+      white-space:pre;
+    }
+
     @media (max-width: 860px){
       .wrap{ grid-template-columns: 1fr; }
-      .nav{ height: 42vh; border-right:none; border-bottom:1px solid var(--line); }
-      .path{ max-width:55%; }
+      nav{ height: 42vh; border-right:none; border-bottom:1px solid var(--line); }
     }
   </style>
+
+  <!-- markdown renderer (small + reliable) -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <div class="wrap">
-    <aside class="nav">
-      <h1>robotamerica · markdown mirror</h1>
-      <div class="meta">
-        click a file to view raw <code>.md</code><br/>
-        direct links work (and <code>curl</code> too)
-      </div>
-
-      <input id="q" placeholder="filter… (e.g., 'poetics', 'manifesto')" />
+    <nav>
+      <div class="hdr">robotamerica · md mirror</div>
+      <div class="sub">a plain index + a markdown viewer</div>
 
       <div class="group">
-        <div class="group-title">entry points</div>
-        <ul class="list" id="entry"></ul>
+        <div class="group-title">entry</div>
+        <ul id="entry"></ul>
       </div>
 
       <div class="group">
         <div class="group-title">pages</div>
-        <ul class="list" id="pages"></ul>
+        <ul id="pages"><li class="small">loading…</li></ul>
       </div>
 
       <div class="group">
         <div class="group-title">posts</div>
-        <ul class="list" id="posts"></ul>
-      </div>
-    </aside>
-
-    <main class="viewer">
-      <div class="topbar">
-        <div class="path" id="path">loading…</div>
-        <div class="actions">
-          <a class="btn" id="openRaw" href="./site.md">open raw</a>
-          <button class="btn" id="copyLink">copy link</button>
-        </div>
+        <ul id="posts"><li class="small">loading…</li></ul>
       </div>
 
-      <pre id="content">loading…</pre>
+      <div class="group">
+        <div class="group-title">raw</div>
+        <ul>
+          <li><a href="./index.md">index.md</a></li>
+          <li><a href="./site.md">site.md</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <main>
+      <div class="topline" id="where">loading…</div>
+      <div class="md" id="view">loading…</div>
     </main>
   </div>
 
 <script>
+  // minimal config: no “extras”, just good markdown
+  marked.setOptions({
+    gfm: true,
+    breaks: false,
+    headerIds: false,
+    mangle: false
+  });
+
   const ENTRY = [
-    { label: "index.md (directory)", file: "index.md", tag: "md" },
-    { label: "site.md (whole site)", file: "site.md", tag: "md" },
+    { label: "site (whole site)", file: "site.md" },
+    { label: "index (directory)", file: "index.md" },
   ];
 
+  function esc(s){ return (s||"").replace(/[&<>"']/g, c=>({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c])); }
 
-  async function loadManifest() {
-    const res = await fetch("./index.md", { cache: "no-store" });
-    if (!res.ok) throw new Error("Could not fetch index.md manifest");
-    const txt = await res.text();
-
-
-    const linkRe = /\[([^\]]+)\]\((pages|posts)\/([^)]+)\)/g;
-    const pages = [];
-    const posts = [];
-    let m;
-    while ((m = linkRe.exec(txt)) !== null) {
-      const filename = m[1];       // foo.md
-      const kind = m[2];           // pages|posts
-      const rel = `${kind}/${m[3]}`; // pages/foo.md or posts/foo.md
-      const item = { label: filename.replace(/\.md$/,""), file: rel, tag: kind.slice(0,-1) };
-      if (kind === "pages") pages.push(item);
-      else posts.push(item);
-    }
-
-    // Sort posts/pages alphabetically by label
-    pages.sort((a,b)=>a.label.localeCompare(b.label));
-    posts.sort((a,b)=>a.label.localeCompare(b.label));
-
-    return { pages, posts };
-  }
-
-  function el(tag, attrs={}, children=[]) {
-    const n = document.createElement(tag);
-    for (const [k,v] of Object.entries(attrs)) {
-      if (k === "class") n.className = v;
-      else if (k === "html") n.innerHTML = v;
-      else n.setAttribute(k, v);
-    }
-    for (const c of children) n.appendChild(c);
-    return n;
-  }
-
-  function renderList(root, items) {
-    root.innerHTML = "";
-    for (const it of items) {
-      const li = el("li", {}, [
-        el("span", { class:"chip" }, [document.createTextNode(it.tag)]),
-        el("a", { class:"title", href:`#${it.file}`, title: it.file }, [document.createTextNode(it.label)]),
-      ]);
-      root.appendChild(li);
+  function renderList(el, items, prefix=""){
+    el.innerHTML = "";
+    for(const it of items){
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.textContent = it.label;
+      a.href = `#${prefix}${it.file}`;
+      a.title = `${prefix}${it.file}`;
+      li.appendChild(a);
+      el.appendChild(li);
     }
   }
 
-  async function showFile(relPath) {
-    const pathEl = document.getElementById("path");
-    const contentEl = document.getElementById("content");
-    const openRaw = document.getElementById("openRaw");
-
-    pathEl.textContent = relPath;
-    openRaw.href = `./${relPath}`;
-
-    try {
-      const res = await fetch(`./${relPath}`, { cache: "no-store" });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const txt = await res.text();
-      contentEl.textContent = txt;
-    } catch (e) {
-      contentEl.textContent =
-`could not load: ${relPath}
-
-- confirm the file exists under /docs
-- confirm github pages is set to main + /docs
-- try opening raw: ${location.origin}${location.pathname.replace(/\/$/, "")}/${relPath}
-
-error: ${e.message}`;
-    }
+  async function fetchText(rel){
+    const res = await fetch(`./${rel}`, { cache: "no-store" });
+    if(!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.text();
   }
 
-  function currentTarget() {
-    const h = (location.hash || "").replace(/^#/, "");
+  function currentTarget(){
+    const h = (location.hash||"").replace(/^#/, "");
     return h || "site.md";
   }
 
-  function applyFilter(items, q) {
-    if (!q) return items;
-    q = q.toLowerCase();
-    return items.filter(it => (it.label + " " + it.file).toLowerCase().includes(q));
+  async function show(rel){
+    const where = document.getElementById("where");
+    const view = document.getElementById("view");
+    where.textContent = `file: ${rel}`;
+
+    try{
+      const md = await fetchText(rel);
+
+      // Render markdown to HTML (links become live automatically)
+      const html = marked.parse(md);
+
+      // Keep links within the mirror “live”:
+      // - if a link points to ./posts/foo.md or ./pages/bar.md, intercept → load in viewer
+      // - otherwise, open normally (same tab)
+      view.innerHTML = html;
+
+      view.querySelectorAll("a[href]").forEach(a => {
+        const href = a.getAttribute("href") || "";
+        // normalize common cases
+        const h = href.replace(/^\.\/+/, "");
+        if (h.endsWith(".md") && (h.startsWith("posts/") || h.startsWith("pages/") || h === "site.md" || h === "index.md")) {
+          a.addEventListener("click", (e) => {
+            e.preventDefault();
+            location.hash = `#${h}`;
+          });
+        }
+      });
+
+    }catch(e){
+      view.innerHTML = `<pre>${esc(
+`could not load: ${rel}
+
+check:
+- file exists under /docs
+- github pages is set to main + /docs
+
+error: ${e.message}`
+      )}</pre>`;
+    }
   }
 
-  async function main() {
-    // Render entry list immediately
+  async function loadManifest(){
+    // Parse docs/index.md for links like: [foo.md](posts/foo.md) — https://...
+    const txt = await fetchText("index.md");
+    const re = /\[([^\]]+)\]\((pages|posts)\/([^)]+)\)/g;
+
+    const pages = [];
+    const posts = [];
+    let m;
+    while((m = re.exec(txt)) !== null){
+      const filename = m[1];          // foo.md
+      const kind = m[2];              // pages|posts
+      const rel = `${kind}/${m[3]}`;  // pages/foo.md
+      const label = filename.replace(/\.md$/,"");
+      (kind === "pages" ? pages : posts).push({ label, file: rel });
+    }
+
+    pages.sort((a,b)=>a.label.localeCompare(b.label));
+    posts.sort((a,b)=>a.label.localeCompare(b.label));
+    return { pages, posts };
+  }
+
+  async function main(){
     renderList(document.getElementById("entry"), ENTRY);
 
-    // Load manifest-derived lists
-    let pages = [];
-    let posts = [];
-    try {
-      const manifest = await loadManifest();
-      pages = manifest.pages;
-      posts = manifest.posts;
-    } catch (e) {
-      // still allow viewing site.md even if manifest fails
-      pages = [];
-      posts = [];
+    try{
+      const { pages, posts } = await loadManifest();
+      renderList(document.getElementById("pages"), pages);
+      renderList(document.getElementById("posts"), posts);
+    }catch(_){
+      document.getElementById("pages").innerHTML = `<li class="small">manifest missing</li>`;
+      document.getElementById("posts").innerHTML = `<li class="small">manifest missing</li>`;
     }
 
-    const q = document.getElementById("q");
-    function rerender() {
-      renderList(document.getElementById("pages"), applyFilter(pages, q.value));
-      renderList(document.getElementById("posts"), applyFilter(posts, q.value));
-    }
-    q.addEventListener("input", rerender);
-    rerender();
-
-    // Respond to hash navigation
-    window.addEventListener("hashchange", () => showFile(currentTarget()));
-    await showFile(currentTarget());
-
-    // Copy “deep link” to current file
-    document.getElementById("copyLink").addEventListener("click", async () => {
-      const url = `${location.origin}${location.pathname}#${currentTarget()}`;
-      try {
-        await navigator.clipboard.writeText(url);
-      } catch (_) {}
-    });
+    window.addEventListener("hashchange", () => show(currentTarget()));
+    await show(currentTarget());
   }
 
   main();
