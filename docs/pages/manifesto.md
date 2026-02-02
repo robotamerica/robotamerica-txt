@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/manifesto/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -63,3 +63,7 @@ just a kōan:
 ## 9. digital garden
 
 this is just one bed in my **digital garden**. a milpa of ideas and thoughts. a seed among many. a seedbank.
+
+## 10. look into the mirror
+
+everything can be stripped down to the bare essentials. [here](https://robotamerica.github.io/robotamerica-txt/) is a stripped-down version of this site as pure text and markdown. it is a naked site acting as a backup (a mirror) for what you see here.

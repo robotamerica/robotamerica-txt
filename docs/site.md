@@ -1,7 +1,7 @@
 # robotamerica — whole site (markdown mirror)
 
 - seed: https://robotameri.ca/archive/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 This is a machine-generated Markdown mirror of robotameri.ca.
 
@@ -15,7 +15,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -68,7 +68,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/links/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -96,7 +96,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tools/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -354,7 +354,7 @@ instead i’m maintaining a **small, intentional computing ecology** where each 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/manifesto/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -417,6 +417,10 @@ just a kōan:
 
 this is just one bed in my **digital garden**. a milpa of ideas and thoughts. a seed among many. a seedbank.
 
+## 10. look into the mirror
+
+everything can be stripped down to the bare essentials. [here](https://robotamerica.github.io/robotamerica-txt/) is a stripped-down version of this site as pure text and markdown. it is a naked site acting as a backup (a mirror) for what you see here.
+
 
 ---
 
@@ -425,7 +429,7 @@ this is just one bed in my **digital garden**. a milpa of ideas and thoughts. a 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -466,7 +470,7 @@ this is just one bed in my **digital garden**. a milpa of ideas and thoughts. a 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-my-blogging-workflow/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -537,7 +541,7 @@ i suppose i am more of an archivist or collector than i am a writer. this is lik
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/specialfish/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -569,7 +573,7 @@ i truly cherish spaces like special.fish. if you've been looking for a quiet and
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -672,7 +676,7 @@ Folk politics, folk the system! Careful care and kindness can carry us on.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -743,7 +747,7 @@ the practice of **conceptual coding and dev dérive** is the practice of moving 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-internet-is-becoming-a-digital-desert/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -765,7 +769,7 @@ shine on beautiful robots. happy new year!
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/intermittent-posting/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -797,7 +801,7 @@ as for writers (bloggers or whatever), we need stop pretending to be the new yor
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/experimental-blogging/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -862,7 +866,7 @@ the internet should be a creative space. it should be a space that encourages cr
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/digital-ecologies/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -918,7 +922,7 @@ this of course, is not an exhaustive list of solutions and ideas, nor is it a me
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-first-grove/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -1146,7 +1150,7 @@ the philosophy that ai should actively heal, support, and enrich ecological and 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solar-punk-ai-manifesto/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -1321,7 +1325,7 @@ Technology and AI must become a tool for ecological, social, and mental regenera
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarsocial/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -1464,7 +1468,7 @@ it’s not just for disruption. it’s for **re-rooting**.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-digital-gardens/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
@@ -1539,7 +1543,7 @@ the web can be wild and poetic again. but it takes intention and the patience of
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-poet-technologist/
-- generated: 2026-02-02 15:41 UTC
+- generated: 2026-02-02 16:24 UTC
 
 ---
 
