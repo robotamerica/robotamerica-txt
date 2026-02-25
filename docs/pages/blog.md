@@ -1,11 +1,9 @@
 # robotamerica — text mirror
 
-- source: https://robotameri.ca/archive/
+- source: https://robotameri.ca/blog/
 - generated: 2026-02-25 19:05 UTC
 
 ---
-
-# archive
 
 * *24 Feb, 2026*
   [analogue love](https://robotameri.ca/analogue-love/)
@@ -41,23 +39,31 @@
   [digital ecologies](https://robotameri.ca/digital-ecologies/)
 * *02 Oct, 2025*
   [the first grove 🌳](https://robotameri.ca/the-first-grove/)
-
-  founding guide for building a decentralised, solar-powered network of small, ecological ai nodes that grow like living systems rather than corporate machines.
 * *27 Sep, 2025*
   [a solarpunk ai manifesto](https://robotameri.ca/solar-punk-ai-manifesto/)
-
-  how we can create truly green ai.
 * *24 Sep, 2025*
   [solarsocial](https://robotameri.ca/solarsocial/)
-
-  a dreamy architecture for solarsocial media. using the sun to slow down social media.
 * *22 Sep, 2025*
   [the poetics of digital gardens](https://robotameri.ca/the-poetics-of-digital-gardens/)
-
-  rewilding the web through the poetic act of digital gardening
 * *20 Sep, 2025*
   [a poet-technologist](https://robotameri.ca/a-poet-technologist/)
 
-  a bit of my philosophy and the perspective this logbook will take
-
-## random picks
+[#potofhoney](https://robotameri.ca/blog/?q=pot-of-honey)
+[#ai](https://robotameri.ca/blog/?q=ai)
+[#blogging](https://robotameri.ca/blog/?q=blogging)
+[#commons tech](https://robotameri.ca/blog/?q=commons%20tech)
+[#decentralisation](https://robotameri.ca/blog/?q=decentralisation)
+[#decentralised ai](https://robotameri.ca/blog/?q=decentralised%20ai)
+[#digital ecology](https://robotameri.ca/blog/?q=digital%20ecology)
+[#digital gardens](https://robotameri.ca/blog/?q=digital%20gardens)
+[#ecology](https://robotameri.ca/blog/?q=ecology)
+[#experimental blogging](https://robotameri.ca/blog/?q=experimental%20blogging)
+[#fictional nonfiction](https://robotameri.ca/blog/?q=fictional%20nonfiction)
+[#poetry](https://robotameri.ca/blog/?q=poetry)
+[#post-social media](https://robotameri.ca/blog/?q=post-social%20media)
+[#social media](https://robotameri.ca/blog/?q=social%20media)
+[#solar energy](https://robotameri.ca/blog/?q=solar%20energy)
+[#solarpunk](https://robotameri.ca/blog/?q=solarpunk)
+[#solarsocial](https://robotameri.ca/blog/?q=solarsocial)
+[#technology](https://robotameri.ca/blog/?q=technology)
+[#writing](https://robotameri.ca/blog/?q=writing)

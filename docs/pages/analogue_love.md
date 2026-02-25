@@ -1,13 +1,17 @@
 # robotamerica — text mirror
 
-- source: https://robotameri.ca/analogue-love/
+- source: https://robotameri.ca/analogue_love
 - generated: 2026-02-25 19:05 UTC
 
 ---
 
-# analogue love
+# analogue love 💌
 
-*24 Feb, 2026*
+---
+
+**note:** this comes from my post analogue love￼. i’m turning it into a living page i’ll keep updating over time 😊. i’ll be adding more to my analogue cabinet as i go.
+
+---
 
 it is true, i spend a lot of time online; however, i am also an analogue creature. and although my hands are soft, i like to put them to work. below is a little cabinet of analogue activities i engage in to give you an idea of how i keep busy offline (in the supposedly real world):
 
