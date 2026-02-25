@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/experimental-blogging/
-- generated: 2026-02-02 16:24 UTC
+- generated: 2026-02-25 18:53 UTC
 
 ---
 
@@ -56,4 +56,4 @@ i find daily inspirations through digital dérive or the aimless wandering away 
 the internet should be a creative space. it should be a space that encourages creativity: creative forms of communication and the free and open sharing of knowledge. i think experimental blogging is one way to help open the web back up, make it fun, and take some of it back from the greedy large corporations hellbent on dulling this place down and filling it with trashy advertisements and ai slop. it is one way to resist the enshitification of everything, so let's get out there and experiment away 🏴.
 
 [#blogging](https://robotameri.ca/blog/?q=blogging)
-[#experimental blogging](https://robotameri.ca/blog/?q=experimental blogging)
+[#experimental blogging](https://robotameri.ca/blog/?q=experimental%20blogging)

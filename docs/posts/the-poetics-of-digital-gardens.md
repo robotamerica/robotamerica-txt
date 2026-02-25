@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-digital-gardens/
-- generated: 2026-02-02 16:24 UTC
+- generated: 2026-02-25 18:53 UTC
 
 ---
 
@@ -63,7 +63,7 @@ we need to tend the space between words and worlds, leaving room for nature and 
 the web can be wild and poetic again. but it takes intention and the patience of a gardener. plant your thoughts and ideas. make poetry. we got this!
 
 [#decentralisation](https://robotameri.ca/blog/?q=decentralisation)
-[#digital ecology](https://robotameri.ca/blog/?q=digital ecology)
-[#digital gardens](https://robotameri.ca/blog/?q=digital gardens)
+[#digital ecology](https://robotameri.ca/blog/?q=digital%20ecology)
+[#digital gardens](https://robotameri.ca/blog/?q=digital%20gardens)
 [#poetry](https://robotameri.ca/blog/?q=poetry)
-[#post-social media](https://robotameri.ca/blog/?q=post-social media)
+[#post-social media](https://robotameri.ca/blog/?q=post-social%20media)

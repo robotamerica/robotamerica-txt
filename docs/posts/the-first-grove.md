@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-first-grove/
-- generated: 2026-02-02 16:24 UTC
+- generated: 2026-02-25 18:53 UTC
 
 ---
 
@@ -215,8 +215,8 @@ the act of founding a new grove, beginning with one or more nodes and gradually 
 
 the philosophy that ai should actively heal, support, and enrich ecological and social systems—not exploit or dominate them.
 
-[#commons tech](https://robotameri.ca/blog/?q=commons tech)
-[#decentralised ai](https://robotameri.ca/blog/?q=decentralised ai)
+[#commons tech](https://robotameri.ca/blog/?q=commons%20tech)
+[#decentralised ai](https://robotameri.ca/blog/?q=decentralised%20ai)
 [#ecology](https://robotameri.ca/blog/?q=ecology)
-[#fictional nonfiction](https://robotameri.ca/blog/?q=fictional nonfiction)
+[#fictional nonfiction](https://robotameri.ca/blog/?q=fictional%20nonfiction)
 [#solarpunk](https://robotameri.ca/blog/?q=solarpunk)

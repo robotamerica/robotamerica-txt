@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solar-punk-ai-manifesto/
-- generated: 2026-02-02 16:24 UTC
+- generated: 2026-02-25 18:53 UTC
 
 ---
 
@@ -10,6 +10,10 @@
 *27 Sep, 2025*
 
 *technology for earth, community, and future*
+
+---
+
+**note:** there is a revised version of this post [here](https://robotameri.ca/a-revised-solarpunk-ai-manifesto/) that uses more reliable data and sources to support my argument. my main argument has not changed, but the way i arrive there has. keeping this to show the evolution of my thought and approach.
 
 ---
 

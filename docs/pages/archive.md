@@ -1,12 +1,28 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-02-02 16:24 UTC
+- generated: 2026-02-25 18:53 UTC
 
 ---
 
 # archive
 
+* *24 Feb, 2026*
+  [analogue love](https://robotameri.ca/analogue-love/)
+* *23 Feb, 2026*
+  [a soft stack ecology 🌱 (what is that?)](https://robotameri.ca/a-soft-stack-ecology-what-is-that/)
+* *19 Feb, 2026*
+  [a [revised] solarpunk ai manifesto](https://robotameri.ca/a-revised-solarpunk-ai-manifesto/)
+* *17 Feb, 2026*
+  [the joy and intimacy of journaling (with neovim)](https://robotameri.ca/the-joy-and-intimacy-of-journaling-with-neovim/)
+* *14 Feb, 2026*
+  [the curious case for lowercase writing](https://robotameri.ca/the-curious-case-for-lowercase-writing/)
+* *09 Feb, 2026*
+  [list ▴ archive ▴ index :: but do so publicly](https://robotameri.ca/list-archive-index-but-do-so-publicly/)
+* *06 Feb, 2026*
+  [conscious media consumption](https://robotameri.ca/conscious-media-consumption/)
+* *05 Feb, 2026*
+  [a little bash wrapper for mpv or conscious media consumption part 1](https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/)
 * *01 Feb, 2026*
   [re: My blogging workflow](https://robotameri.ca/re-my-blogging-workflow/)
 * *29 Jan, 2026*

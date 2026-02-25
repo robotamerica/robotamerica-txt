@@ -1,9 +1,11 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/manifesto/
-- generated: 2026-02-02 16:24 UTC
+- generated: 2026-02-25 18:53 UTC
 
 ---
+
+# manifesto
 
 ## preamble
 
@@ -15,7 +17,7 @@ blog is dead. long live the logbook: a log is something you keep. a blog is some
 
 ## 2. lowercase is lowercase
 
-why lowercase? capitalisation inherits a grammar of control. lowercase is an act of soft sabotage. it’s a mode of play. it’s a refusal to formalize. i write how i live: with open syntax and partial punctuations expressed throughout my experiences.
+why lowercase? capitalisation inherits from a style of control. lowercase is an act of soft sabotage. it’s a mode of play. it’s a refusal to formalize. i write how i live: with open syntax and partial punctuations expressed throughout my experiences.
 
 lowercase isn’t lazy. it’s intentional. it’s an aesthetic. it’s anti-hierarchical. it’s anticapitalist.
 

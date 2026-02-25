@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarsocial/
-- generated: 2026-02-02 16:24 UTC
+- generated: 2026-02-25 18:53 UTC
 
 ---
 
@@ -129,9 +129,9 @@ it’s not just for disruption. it’s for **re-rooting**.
 **build something that listens to the sun.**
 
 [#decentralisation](https://robotameri.ca/blog/?q=decentralisation)
-[#digital ecology](https://robotameri.ca/blog/?q=digital ecology)
+[#digital ecology](https://robotameri.ca/blog/?q=digital%20ecology)
 [#ecology](https://robotameri.ca/blog/?q=ecology)
-[#social media](https://robotameri.ca/blog/?q=social media)
-[#solar energy](https://robotameri.ca/blog/?q=solar energy)
+[#social media](https://robotameri.ca/blog/?q=social%20media)
+[#solar energy](https://robotameri.ca/blog/?q=solar%20energy)
 [#solarpunk](https://robotameri.ca/blog/?q=solarpunk)
 [#solarsocial](https://robotameri.ca/blog/?q=solarsocial)
