@@ -1,0 +1,37 @@
+name: daily mirror update
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC daily
+  workflow_dispatch:        # allow manual trigger from Actions tab
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install deps
+        run: pip install requests beautifulsoup4 markdownify
+
+      - name: run mirror
+        run: python mirror.py
+
+      - name: commit if changed
+        run: |
+          git config user.name "robotamerica"
+          git config user.email "robotamerica@gmail.com"
+          git add docs/
+          git diff --cached --quiet && echo "no changes" || git commit -m "mirror: $(date -u '+%Y-%m-%d')"
+
+      - name: push
+        run: git push
