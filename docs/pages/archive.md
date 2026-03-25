@@ -1,12 +1,54 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
 # archive
 
+* *24 Mar, 2026*
+  [my work-based toolkit 🧰](https://robotameri.ca/my-work-based-toolkit/)
+* *24 Mar, 2026*
+  [robotamerica abridged](https://robotameri.ca/robotamerica-abridged/)
+* *23 Mar, 2026*
+  [why lists? well, why not?](https://robotameri.ca/why-lists-well-why-not/)
+* *22 Mar, 2026*
+  [morning folk 🌞](https://robotameri.ca/morning-folk/)
+* *21 Mar, 2026*
+  [the techno-animist](https://robotameri.ca/the-techno-animist/)
+* *20 Mar, 2026*
+  [the carrier bag](https://robotameri.ca/the-carrier-bag/)
+* *19 Mar, 2026*
+  [the craft](https://robotameri.ca/the-craft/)
+* *19 Mar, 2026*
+  [the plot](https://robotameri.ca/the-plot/)
+* *17 Mar, 2026*
+  [a new aesthetic and feel](https://robotameri.ca/a-new-aesthetic-and-feel/)
+* *11 Mar, 2026*
+  [html poetics](https://robotameri.ca/html-poetics/)
+* *10 Mar, 2026*
+  [diaryland memories](https://robotameri.ca/diaryland-memories/)
+* *09 Mar, 2026*
+  [information fatigue first aid ⛑️](https://robotameri.ca/information-fatigue-first-aid/)
+* *08 Mar, 2026*
+  [a guestbook experiment](https://robotameri.ca/a-guestbook-experiment/)
+* *07 Mar, 2026*
+  [interrupt the feed](https://robotameri.ca/interrupt-the-feed/)
+* *06 Mar, 2026*
+  [i made a digital garden](https://robotameri.ca/i-made-a-digital-garden/)
+* *03 Mar, 2026*
+  [how termux saved me from my doomscrolling addiction](https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/)
+* *02 Mar, 2026*
+  [on craft [ or how i set my type by hand, but also use ai ] or a mindful reaction to 'AI is NOT better than you'](https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/)
+* *01 Mar, 2026*
+  [on not knowing](https://robotameri.ca/on-not-knowing/)
+* *28 Feb, 2026*
+  [tool farming 🛠️🌱](https://robotameri.ca/tool-farming/)
+* *27 Feb, 2026*
+  [iamai](https://robotameri.ca/iamai/)
+* *26 Feb, 2026*
+  [ritual, routine, reward, remorse, and rejoice](https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/)
 * *24 Feb, 2026*
   [analogue love](https://robotameri.ca/analogue-love/)
 * *23 Feb, 2026*

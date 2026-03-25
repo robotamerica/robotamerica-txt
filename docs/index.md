@@ -2,19 +2,40 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-02-25 19:11 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
 ## pages
 - [blog.md](pages/blog.md) — https://robotameri.ca/blog/
-- [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
-- [tools.md](pages/tools.md) — https://robotameri.ca/tools/
-- [links.md](pages/links.md) — https://robotameri.ca/links/
-- [analogue_love.md](pages/analogue_love.md) — https://robotameri.ca/analogue_love
 - [archive.md](pages/archive.md) — https://robotameri.ca/archive/
+- [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
+- [links.md](pages/links.md) — https://robotameri.ca/links/
+- [tools.md](pages/tools.md) — https://robotameri.ca/tools/
+- [analogue-love.md](pages/analogue-love.md) — https://robotameri.ca/analogue-love/
 
 ## posts
+- [my-work-based-toolkit.md](posts/my-work-based-toolkit.md) — https://robotameri.ca/my-work-based-toolkit/
+- [robotamerica-abridged.md](posts/robotamerica-abridged.md) — https://robotameri.ca/robotamerica-abridged/
+- [why-lists-well-why-not.md](posts/why-lists-well-why-not.md) — https://robotameri.ca/why-lists-well-why-not/
+- [morning-folk.md](posts/morning-folk.md) — https://robotameri.ca/morning-folk/
+- [the-techno-animist.md](posts/the-techno-animist.md) — https://robotameri.ca/the-techno-animist/
+- [the-carrier-bag.md](posts/the-carrier-bag.md) — https://robotameri.ca/the-carrier-bag/
+- [the-craft.md](posts/the-craft.md) — https://robotameri.ca/the-craft/
+- [the-plot.md](posts/the-plot.md) — https://robotameri.ca/the-plot/
+- [a-new-aesthetic-and-feel.md](posts/a-new-aesthetic-and-feel.md) — https://robotameri.ca/a-new-aesthetic-and-feel/
+- [html-poetics.md](posts/html-poetics.md) — https://robotameri.ca/html-poetics/
+- [diaryland-memories.md](posts/diaryland-memories.md) — https://robotameri.ca/diaryland-memories/
+- [information-fatigue-first-aid.md](posts/information-fatigue-first-aid.md) — https://robotameri.ca/information-fatigue-first-aid/
+- [a-guestbook-experiment.md](posts/a-guestbook-experiment.md) — https://robotameri.ca/a-guestbook-experiment/
+- [interrupt-the-feed.md](posts/interrupt-the-feed.md) — https://robotameri.ca/interrupt-the-feed/
+- [i-made-a-digital-garden.md](posts/i-made-a-digital-garden.md) — https://robotameri.ca/i-made-a-digital-garden/
+- [how-termux-saved-me-from-my-doomscrolling-addiction.md](posts/how-termux-saved-me-from-my-doomscrolling-addiction.md) — https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/
+- [on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai.md](posts/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai.md) — https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/
+- [on-not-knowing.md](posts/on-not-knowing.md) — https://robotameri.ca/on-not-knowing/
+- [tool-farming.md](posts/tool-farming.md) — https://robotameri.ca/tool-farming/
+- [iamai.md](posts/iamai.md) — https://robotameri.ca/iamai/
+- [ritual-routine-reward-remorse-and-rejoice.md](posts/ritual-routine-reward-remorse-and-rejoice.md) — https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/
 - [analogue-love.md](posts/analogue-love.md) — https://robotameri.ca/analogue-love/
 - [a-soft-stack-ecology-what-is-that.md](posts/a-soft-stack-ecology-what-is-that.md) — https://robotameri.ca/a-soft-stack-ecology-what-is-that/
 - [a-revised-solarpunk-ai-manifesto.md](posts/a-revised-solarpunk-ai-manifesto.md) — https://robotameri.ca/a-revised-solarpunk-ai-manifesto/

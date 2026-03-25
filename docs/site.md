@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-02-25 19:11 UTC
+- generated: 2026-03-25 07:06 UTC
 
 This is a machine-generated Markdown mirror of robotameri.ca.
 
@@ -16,10 +16,52 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-02-25 19:11 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
+* *24 Mar, 2026*
+  [my work-based toolkit 🧰](https://robotameri.ca/my-work-based-toolkit/)
+* *24 Mar, 2026*
+  [robotamerica abridged](https://robotameri.ca/robotamerica-abridged/)
+* *23 Mar, 2026*
+  [why lists? well, why not?](https://robotameri.ca/why-lists-well-why-not/)
+* *22 Mar, 2026*
+  [morning folk 🌞](https://robotameri.ca/morning-folk/)
+* *21 Mar, 2026*
+  [the techno-animist](https://robotameri.ca/the-techno-animist/)
+* *20 Mar, 2026*
+  [the carrier bag](https://robotameri.ca/the-carrier-bag/)
+* *19 Mar, 2026*
+  [the craft](https://robotameri.ca/the-craft/)
+* *19 Mar, 2026*
+  [the plot](https://robotameri.ca/the-plot/)
+* *17 Mar, 2026*
+  [a new aesthetic and feel](https://robotameri.ca/a-new-aesthetic-and-feel/)
+* *11 Mar, 2026*
+  [html poetics](https://robotameri.ca/html-poetics/)
+* *10 Mar, 2026*
+  [diaryland memories](https://robotameri.ca/diaryland-memories/)
+* *09 Mar, 2026*
+  [information fatigue first aid ⛑️](https://robotameri.ca/information-fatigue-first-aid/)
+* *08 Mar, 2026*
+  [a guestbook experiment](https://robotameri.ca/a-guestbook-experiment/)
+* *07 Mar, 2026*
+  [interrupt the feed](https://robotameri.ca/interrupt-the-feed/)
+* *06 Mar, 2026*
+  [i made a digital garden](https://robotameri.ca/i-made-a-digital-garden/)
+* *03 Mar, 2026*
+  [how termux saved me from my doomscrolling addiction](https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/)
+* *02 Mar, 2026*
+  [on craft [ or how i set my type by hand, but also use ai ] or a mindful reaction to 'AI is NOT better than you'](https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/)
+* *01 Mar, 2026*
+  [on not knowing](https://robotameri.ca/on-not-knowing/)
+* *28 Feb, 2026*
+  [tool farming 🛠️🌱](https://robotameri.ca/tool-farming/)
+* *27 Feb, 2026*
+  [iamai](https://robotameri.ca/iamai/)
+* *26 Feb, 2026*
+  [ritual, routine, reward, remorse, and rejoice](https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/)
 * *24 Feb, 2026*
   [analogue love](https://robotameri.ca/analogue-love/)
 * *23 Feb, 2026*
@@ -65,23 +107,151 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 
 [#potofhoney](https://robotameri.ca/blog/?q=pot-of-honey)
 [#ai](https://robotameri.ca/blog/?q=ai)
+[#art](https://robotameri.ca/blog/?q=art)
 [#blogging](https://robotameri.ca/blog/?q=blogging)
+[#bpnichol](https://robotameri.ca/blog/?q=bpnichol)
+[#carrier-bag](https://robotameri.ca/blog/?q=carrier-bag)
 [#commons tech](https://robotameri.ca/blog/?q=commons%20tech)
+[#craft](https://robotameri.ca/blog/?q=craft)
 [#decentralisation](https://robotameri.ca/blog/?q=decentralisation)
 [#decentralised ai](https://robotameri.ca/blog/?q=decentralised%20ai)
 [#digital ecology](https://robotameri.ca/blog/?q=digital%20ecology)
 [#digital gardens](https://robotameri.ca/blog/?q=digital%20gardens)
 [#ecology](https://robotameri.ca/blog/?q=ecology)
+[#esteban-valdes](https://robotameri.ca/blog/?q=esteban-valdes)
 [#experimental blogging](https://robotameri.ca/blog/?q=experimental%20blogging)
 [#fictional nonfiction](https://robotameri.ca/blog/?q=fictional%20nonfiction)
+[#gathering](https://robotameri.ca/blog/?q=gathering)
+[#gertrude-stein](https://robotameri.ca/blog/?q=gertrude-stein)
+[#le-guin](https://robotameri.ca/blog/?q=le-guin)
+[#letterpress](https://robotameri.ca/blog/?q=letterpress)
+[#mimeograph](https://robotameri.ca/blog/?q=mimeograph)
+[#plot-logic](https://robotameri.ca/blog/?q=plot-logic)
 [#poetry](https://robotameri.ca/blog/?q=poetry)
 [#post-social media](https://robotameri.ca/blog/?q=post-social%20media)
+[#small-tech](https://robotameri.ca/blog/?q=small-tech)
 [#social media](https://robotameri.ca/blog/?q=social%20media)
 [#solar energy](https://robotameri.ca/blog/?q=solar%20energy)
 [#solarpunk](https://robotameri.ca/blog/?q=solarpunk)
 [#solarsocial](https://robotameri.ca/blog/?q=solarsocial)
+[#sylvia-wynter](https://robotameri.ca/blog/?q=sylvia-wynter)
 [#technology](https://robotameri.ca/blog/?q=technology)
+[#tools](https://robotameri.ca/blog/?q=tools)
+[#weblog](https://robotameri.ca/blog/?q=weblog)
+[#william-morris](https://robotameri.ca/blog/?q=william-morris)
 [#writing](https://robotameri.ca/blog/?q=writing)
+[#zine](https://robotameri.ca/blog/?q=zine)
+
+
+---
+
+## https://robotameri.ca/archive/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/archive/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# archive
+
+* *24 Mar, 2026*
+  [my work-based toolkit 🧰](https://robotameri.ca/my-work-based-toolkit/)
+* *24 Mar, 2026*
+  [robotamerica abridged](https://robotameri.ca/robotamerica-abridged/)
+* *23 Mar, 2026*
+  [why lists? well, why not?](https://robotameri.ca/why-lists-well-why-not/)
+* *22 Mar, 2026*
+  [morning folk 🌞](https://robotameri.ca/morning-folk/)
+* *21 Mar, 2026*
+  [the techno-animist](https://robotameri.ca/the-techno-animist/)
+* *20 Mar, 2026*
+  [the carrier bag](https://robotameri.ca/the-carrier-bag/)
+* *19 Mar, 2026*
+  [the craft](https://robotameri.ca/the-craft/)
+* *19 Mar, 2026*
+  [the plot](https://robotameri.ca/the-plot/)
+* *17 Mar, 2026*
+  [a new aesthetic and feel](https://robotameri.ca/a-new-aesthetic-and-feel/)
+* *11 Mar, 2026*
+  [html poetics](https://robotameri.ca/html-poetics/)
+* *10 Mar, 2026*
+  [diaryland memories](https://robotameri.ca/diaryland-memories/)
+* *09 Mar, 2026*
+  [information fatigue first aid ⛑️](https://robotameri.ca/information-fatigue-first-aid/)
+* *08 Mar, 2026*
+  [a guestbook experiment](https://robotameri.ca/a-guestbook-experiment/)
+* *07 Mar, 2026*
+  [interrupt the feed](https://robotameri.ca/interrupt-the-feed/)
+* *06 Mar, 2026*
+  [i made a digital garden](https://robotameri.ca/i-made-a-digital-garden/)
+* *03 Mar, 2026*
+  [how termux saved me from my doomscrolling addiction](https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/)
+* *02 Mar, 2026*
+  [on craft [ or how i set my type by hand, but also use ai ] or a mindful reaction to 'AI is NOT better than you'](https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/)
+* *01 Mar, 2026*
+  [on not knowing](https://robotameri.ca/on-not-knowing/)
+* *28 Feb, 2026*
+  [tool farming 🛠️🌱](https://robotameri.ca/tool-farming/)
+* *27 Feb, 2026*
+  [iamai](https://robotameri.ca/iamai/)
+* *26 Feb, 2026*
+  [ritual, routine, reward, remorse, and rejoice](https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/)
+* *24 Feb, 2026*
+  [analogue love](https://robotameri.ca/analogue-love/)
+* *23 Feb, 2026*
+  [a soft stack ecology 🌱 (what is that?)](https://robotameri.ca/a-soft-stack-ecology-what-is-that/)
+* *19 Feb, 2026*
+  [a [revised] solarpunk ai manifesto](https://robotameri.ca/a-revised-solarpunk-ai-manifesto/)
+* *17 Feb, 2026*
+  [the joy and intimacy of journaling (with neovim)](https://robotameri.ca/the-joy-and-intimacy-of-journaling-with-neovim/)
+* *14 Feb, 2026*
+  [the curious case for lowercase writing](https://robotameri.ca/the-curious-case-for-lowercase-writing/)
+* *09 Feb, 2026*
+  [list ▴ archive ▴ index :: but do so publicly](https://robotameri.ca/list-archive-index-but-do-so-publicly/)
+* *06 Feb, 2026*
+  [conscious media consumption](https://robotameri.ca/conscious-media-consumption/)
+* *05 Feb, 2026*
+  [a little bash wrapper for mpv or conscious media consumption part 1](https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/)
+* *01 Feb, 2026*
+  [re: My blogging workflow](https://robotameri.ca/re-my-blogging-workflow/)
+* *29 Jan, 2026*
+  [special.fish 🎏](https://robotameri.ca/specialfish/)
+* *15 Jan, 2026*
+  [Folk the System: Caring for One Another in Hard Times](https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/)
+* *14 Jan, 2026*
+  [conceptual coding and the dev dérive: a philosophical distancing from vibe coding (yep, in that pejorative sense)](https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/)
+* *31 Dec, 2025*
+  [the internet is becoming a digital desert](https://robotameri.ca/the-internet-is-becoming-a-digital-desert/)
+* *13 Nov, 2025*
+  [intermittent posting](https://robotameri.ca/intermittent-posting/)
+* *21 Oct, 2025*
+  [experimental blogging](https://robotameri.ca/experimental-blogging/)
+* *15 Oct, 2025*
+  [digital ecologies](https://robotameri.ca/digital-ecologies/)
+* *02 Oct, 2025*
+  [the first grove 🌳](https://robotameri.ca/the-first-grove/)
+
+  founding guide for building a decentralised, solar-powered network of small, ecological ai nodes that grow like living systems rather than corporate machines.
+* *27 Sep, 2025*
+  [a solarpunk ai manifesto](https://robotameri.ca/solar-punk-ai-manifesto/)
+
+  how we can create truly green ai.
+* *24 Sep, 2025*
+  [solarsocial](https://robotameri.ca/solarsocial/)
+
+  a dreamy architecture for solarsocial media. using the sun to slow down social media.
+* *22 Sep, 2025*
+  [the poetics of digital gardens](https://robotameri.ca/the-poetics-of-digital-gardens/)
+
+  rewilding the web through the poetic act of digital gardening
+* *20 Sep, 2025*
+  [a poet-technologist](https://robotameri.ca/a-poet-technologist/)
+
+  a bit of my philosophy and the perspective this logbook will take
+
+## random picks
 
 
 ---
@@ -91,11 +261,11 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/manifesto/
-- generated: 2026-02-25 19:11 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
-# manifesto
+# robotamerica manifesto
 
 ## preamble
 
@@ -154,11 +324,41 @@ just a kōan:
 
 ## 9. digital garden
 
-this is just one bed in my **digital garden**. a milpa of ideas and thoughts. a seed among many. a seedbank.
+this is just one bed in my [**digital garden**](https://kmsgarden.com). a milpa of ideas and thoughts. a seed among many. a seedbank.
 
 ## 10. look into the mirror
 
 everything can be stripped down to the bare essentials. [here](https://robotamerica.github.io/robotamerica-txt/) is a stripped-down version of this site as pure text and markdown. it is a naked site acting as a backup (a mirror) for what you see here.
+
+
+---
+
+## https://robotameri.ca/links/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/links/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+## digital garden 🌱
+
+* [about me 🪪🗂️](https://kmrowe.info)
+* [poetry 📖✒️](https://kmrowe.me)
+* [photography 📸](https://kmnada.site)
+* [photos+art 📷🖼️](https://kmnada.page)
+* [pedagogy 👨‍🏫](https://unexpected.quest)
+* [the grove 🌳](https://404commons.com/)
+* [anarchive 🏴](https://anarchive.surge.sh)
+* [solar almanac 🌞](https://spalmanac.surge.sh)
+* [huewave 🌈](https://huewave.xyz)
+* [squiddd 🦑](https://squiddd.bearblog.dev)
+* [the office 💠](https://theoffice.bearblog.dev)
+* [special.fish 🐟](https://special.fish/leaf)
+* [github 🐙🐱](https://github.com/robotamerica)
+* [kmsgarden 🌱](https://kmsgarden.com)
+* [oh my blog! 💾](https://ohmyblog.bearblog.dev/)
 
 
 ---
@@ -168,7 +368,7 @@ everything can be stripped down to the bare essentials. [here](https://robotamer
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tools/
-- generated: 2026-02-25 19:11 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -421,52 +621,18 @@ instead i’m maintaining a **small, intentional computing ecology** where each 
 
 ---
 
-## https://robotameri.ca/links/
+## https://robotameri.ca/analogue-love/
 
 # robotamerica — text mirror
 
-- source: https://robotameri.ca/links/
-- generated: 2026-02-25 19:12 UTC
+- source: https://robotameri.ca/analogue-love/
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
-## digital garden 🌱
+# analogue love
 
-* [about me 🪪🗂️](https://kmrowe.info)
-* [poetry 📖✒️](https://kmrowe.me)
-* [photography 📸](https://kmnada.site)
-* [photos+art 📷🖼️](https://kmnada.page)
-* [pedagogy 👨‍🏫](https://unexpected.quest)
-* [the grove 🌳](https://404commons.com/)
-* [anarchive 🏴](https://anarchive.surge.sh)
-* [solar almanac 🌞](https://spalmanac.surge.sh)
-* [huewave 🌈](https://huewave.xyz)
-* [squiddd 🦑](https://squiddd.bearblog.dev)
-* [the office 💠](https://theoffice.bearblog.dev)
-* [special.fish 🐟](https://special.fish/leaf)
-* [github 🐙🐱](https://github.com/robotamerica)
-* [are.na ✶✶](https://www.are.na/robotamerica/channels)
-* [oh my blog! 💾](https://ohmyblog.bearblog.dev/)
-
-
----
-
-## https://robotameri.ca/analogue_love
-
-# robotamerica — text mirror
-
-- source: https://robotameri.ca/analogue_love
-- generated: 2026-02-25 19:12 UTC
-
----
-
-# analogue love 💌
-
----
-
-**note:** this comes from my post analogue love￼. i’m turning it into a living page i’ll keep updating over time 😊. i’ll be adding more to my analogue cabinet as i go.
-
----
+*24 Feb, 2026*
 
 it is true, i spend a lot of time online; however, i am also an analogue creature. and although my hands are soft, i like to put them to work. below is a little cabinet of analogue activities i engage in to give you an idea of how i keep busy offline (in the supposedly real world):
 
@@ -516,71 +682,1171 @@ i really enjoy it when other folk share their passions outside of the internet a
 
 ---
 
-## https://robotameri.ca/archive/
+## https://robotameri.ca/my-work-based-toolkit/
 
 # robotamerica — text mirror
 
-- source: https://robotameri.ca/archive/
-- generated: 2026-02-25 19:12 UTC
+- source: https://robotameri.ca/my-work-based-toolkit/
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
-# archive
+# my work-based toolkit 🧰
 
-* *24 Feb, 2026*
-  [analogue love](https://robotameri.ca/analogue-love/)
-* *23 Feb, 2026*
-  [a soft stack ecology 🌱 (what is that?)](https://robotameri.ca/a-soft-stack-ecology-what-is-that/)
-* *19 Feb, 2026*
-  [a [revised] solarpunk ai manifesto](https://robotameri.ca/a-revised-solarpunk-ai-manifesto/)
-* *17 Feb, 2026*
-  [the joy and intimacy of journaling (with neovim)](https://robotameri.ca/the-joy-and-intimacy-of-journaling-with-neovim/)
-* *14 Feb, 2026*
-  [the curious case for lowercase writing](https://robotameri.ca/the-curious-case-for-lowercase-writing/)
-* *09 Feb, 2026*
-  [list ▴ archive ▴ index :: but do so publicly](https://robotameri.ca/list-archive-index-but-do-so-publicly/)
-* *06 Feb, 2026*
-  [conscious media consumption](https://robotameri.ca/conscious-media-consumption/)
-* *05 Feb, 2026*
-  [a little bash wrapper for mpv or conscious media consumption part 1](https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/)
-* *01 Feb, 2026*
-  [re: My blogging workflow](https://robotameri.ca/re-my-blogging-workflow/)
-* *29 Jan, 2026*
-  [special.fish 🎏](https://robotameri.ca/specialfish/)
-* *15 Jan, 2026*
-  [Folk the System: Caring for One Another in Hard Times](https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/)
-* *14 Jan, 2026*
-  [conceptual coding and the dev dérive: a philosophical distancing from vibe coding (yep, in that pejorative sense)](https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/)
-* *31 Dec, 2025*
-  [the internet is becoming a digital desert](https://robotameri.ca/the-internet-is-becoming-a-digital-desert/)
-* *13 Nov, 2025*
-  [intermittent posting](https://robotameri.ca/intermittent-posting/)
-* *21 Oct, 2025*
-  [experimental blogging](https://robotameri.ca/experimental-blogging/)
-* *15 Oct, 2025*
-  [digital ecologies](https://robotameri.ca/digital-ecologies/)
-* *02 Oct, 2025*
-  [the first grove 🌳](https://robotameri.ca/the-first-grove/)
+*24 Mar, 2026*
 
-  founding guide for building a decentralised, solar-powered network of small, ecological ai nodes that grow like living systems rather than corporate machines.
-* *27 Sep, 2025*
-  [a solarpunk ai manifesto](https://robotameri.ca/solar-punk-ai-manifesto/)
+i work in solar as a remote field operations lead. this position requires me to be a **jack-of-all-trades**, constantly solving both technical and real-world problems. from cartographic exercises, data analysis, and planning to course development and technician training, i need to stretch myself across several workflows daily. for this, i need a small, dynamic, interconnected, and effective set of tools. here is a list of the tools i use most often, right off the top of my noggin.
 
-  how we can create truly green ai.
-* *24 Sep, 2025*
-  [solarsocial](https://robotameri.ca/solarsocial/)
+### mapping + geo
 
-  a dreamy architecture for solarsocial media. using the sun to slow down social media.
-* *22 Sep, 2025*
-  [the poetics of digital gardens](https://robotameri.ca/the-poetics-of-digital-gardens/)
+* qgis -- spatial analysis, layer management, visual inspection
+* python 3 -- geopandas, shapely, requests, pyogrio
+* aws cli -- asset management and larger file transfers
+* custom python pipeline -- airspace and route mapping, self-contained html output
+* claude code local + qwen2.5-coder:14b -- fast leaflet map generation (iterated from my prebuilt templates)
+* google sites -- embedded leaflet maps + atlas creation
 
-  rewilding the web through the poetic act of digital gardening
-* *20 Sep, 2025*
-  [a poet-technologist](https://robotameri.ca/a-poet-technologist/)
+6 toolsn
 
-  a bit of my philosophy and the perspective this logbook will take
+### notes + knowledge
 
-## random picks
+* neovim / dotmd -- daily notes, zettelkasten, writing
+* zettelmind -- dotmd linked notes across slack + devices, fuzzy tag search, knowledge graph
+* my field notebook -- one physical tool, always in hand or on my desk
+* google docs + slack canvas -- easy to share with others
+* mermaid.js -- my go to diagraming + mind mapping tool
+* fzf + ripgrep -- ligthning fast documentation search for support and technician asssists
+
+6 toolsn
+
+### comms + planning
+
+* slack + canvas -- async comms, runbooks, team documentation, meetings
+* vdirsyncer + khal -- calendar sync, schedule management
+* google workspace sheets [planning], docs [notes + knowledge], sites + slides + forms [training lms emulation]
+* google workspace sheets [planning], docs [notes + knowledge], sites + slides + forms [training lms emulation]
+* slides [cli] light markdown presentation tool
+
+5 toolsn
+
+### build + version control
+
+* git + github -- versioning everything
+* python 3 -- build scripts, small utilities
+* zsh automation -- quick, super light assist scripts
+* vs code -- heavier editing, project work, course builds, quick preview
+* llama3.2:3b -- cli quick assist for simple builds or other cli related tasks
+* changelogger -- super simple cli changelog tool for offline project tracking
+
+6 toolsn
+
+-=23=- common tools.
+
+
+---
+
+## https://robotameri.ca/robotamerica-abridged/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/robotamerica-abridged/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# robotamerica abridged
+
+*24 Mar, 2026*
+
+## in short: a log
+
+> an ounce of practice is generally worth more than a ton of theory.  
+> — e.f. schumacher
+
+up **until this point**, this weblog has been dipping in and out of the heavily philosophy-driven manifestoesque territory. my philosophical approaches to digital and everyday life are well documented here. you should know me by now.
+
+moving forward, i would like to set myself a constraint: keep logs between 150-300 words. from long form to short and playful.
+
+my philosophy will continue to evolve and develop on [my digital garden](https://kmsgarden.com) and i am sure little snippets might emerge here. but i will do us all a favour and keep it short and sweet.
+
+**what to expect moving forward**:
+
+* things i found, made, or broke that week
+* daily observations irl + field notes
+* media consumption: what landed and why
+* small code + print experiments
+* whatever doesn't fit anywhere else
+
+time to **shift gears** from meditation to practice in motion. i hope you can bear with me **ʕ**ᵔᴥᵔ**ʔ** as i make this transition and learn through this new constraint.
+
+
+---
+
+## https://robotameri.ca/why-lists-well-why-not/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/why-lists-well-why-not/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# why lists? well, why not?
+
+*23 Mar, 2026*
+
+## a list of list-like things
+
+1. this list
+
+---
+
+> i have nothing to say. only to show. i will purloin nothing valuable and appropriate no ingenious turns of phrase. but the shards, the trash: i do not wish to inventory them, but simply give them their due in the only possible way: by putting them to use.
+>
+> — walter benjamin, *the arcades project*
+
+i have wanted to get better at listmaking. maybe all the productivity propaganda that has been floating around the internet has gotten the best of me? but i don't want to make lists to be productive, i want to make lists to remember things in relation to time and place. as a geographer, and often as a part of my job, i am making lists and creating geographic inventories. it is a part of my job i really enjoy. but beyond my work work (the work that pays the bills), i want to practice listmaking as a hobby and as a part of my journaling process.
+
+over on my [special.fish](https://special.fish/leaf), i have some lists (below). in fact, [special.fish](https://special.fish) is a space that celebrates listmaking. here are the lists i have made there:
+
+### 🫦 mouth fuel
+
+* tacos de lengua ⊘
+* costillas en chile seco #
+* aguachile negro ∫∫∫
+* machaca con huevo
+* escamoles con tuétano °
+* chocolate y pan de yema
+* smashburgers ≡
+* trucha con salsa de chiltepín
+* coffee ☕
+* tlayuda o blanda con tasajo D
+
+10 itemsn
+
+### cosas que veo en mis paseos 👣
+
+* crushed flower petals on road
+* someone dropped their taco
+* single running shoe, no laces
+* orange rind, spiral peel 🍊
+* cat beneath a truck, calico, cute
+* broken headphones on cathedral steps
+
+6 itemsn
+
+### things to do from bed 🛏️
+
+* knit 🧶
+* write a love letter 💌
+* eat breakfast 🍳
+* listen to dock boggs 🪕
+* get lost in google maps 🗺️
+* wear double socks in winter 🧦
+
+6 itemsn
+
+### ∞⊟ 2025 summer reading list [complete]
+
+* the coming insurrection :: the invisible committee
+* plague copie manipule robe reescriba este libro :: no solamente valeria mata
+* lesser arts :: willam morrisason
+* the age of wire and string :: ben marcus
+* aka bpnichol :: frank davey
+* work: capitalism, economics, resistance :: crimethink
+* pacifism as pathology :: ward churchill
+* microscripts :: robert walser
+* wanderlust :: rebecca solnit
+
+9 itemsn
+
+listmaking takes practice to turn it into a habit. beyond my daily checklists at work, and those i make for fun, i have been working on making simple physical lists for shopping, contacts, to-dos, and general daily observations. still, i often forget to reach for my notebooks, or just forget them at home. i will do better!
+
+well, enough rambling, here is a list of a few famed listmakers:
+
+| who | what they said | where |
+| --- | --- | --- |
+| susan sontag | "i perceive value, i confer value, i create value, i even create — or guarantee — existence." | *journals & notebooks, 1964–1980* |
+| anne carson | "i could list things i saw but that's not why i put them together. i put them together by accident." | [interview, 2004](https://www.theparisreview.org/interviews/5420/the-art-of-poetry-no-88-anne-carson) |
+| italo calvino | "each life is an encyclopedia, a library, an inventory of objects, a series of styles." | *six memos for the next millennium* |
+| wisława szymborska | "i prefer movies. i prefer cats. i prefer the oaks along the warta. i prefer dickens to dostoyevsky. i prefer myself liking people to myself loving mankind. i prefer keeping a needle and thread on hand, just in case." | [possibilities, 1972](https://www.szymborska.org.pl/en/wislawa/selected-poems/possibilities/) |
+| umberto eco | "the list is the origin of culture." | *the infinity of lists*, 2009 |
+
+
+---
+
+## https://robotameri.ca/morning-folk/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/morning-folk/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# morning folk 🌞
+
+*22 Mar, 2026*
+
+quite unabashedly, i am a morning person. it is morning now, and despite being up until midnight drinking gin and tonics with friends, i was up just before the sun had cast a single ray of light upon the forest in which i live.
+
+strangely, i've always been a morning person, even as a child. it has suited me well. when i was young, the extra time **being a morning person felt like secret time**. to this day, it still feels like a secret. it is truly my own time. the great exception to this was when i was teaching (for about a decade!), then this time was never extra or secret, as it became my students' time. but i stepped away from teaching a few years back, and have since reclaimed the morning. so what do i even do with my secret little mornings?
+
+i read, write, think, or get a head start on daily chores. sometimes i just watch the birds come into the garden and play on the branches of the trees. sometimes i'll feed the cat early, walk the dog, drink coffee, write friends emails, draft weblogs, or busy myself in my little print studio (taller cero).
+
+if it is busy at work, maybe i will get a head start? but i try not to. i try to save this time as meditative and slow. partially productive sometimes, but overall and most days it is just private time to enjoy myself and my own company.
+
+my partner ain't a morning person. she saws logs long into the late morning. it suits her and it suits me. we both have our extra time to rest and dream, only i am doing mine with my eyes open.
+
+by the time have now just finished writing this, *the sun has finally come up*. i will make myself a coffee, put on my headphones, and watch something silly to get sunday started on the right foot.
+
+good morning y'all ☕🍳. have a great end to your weekends!
+
+
+---
+
+## https://robotameri.ca/the-techno-animist/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/the-techno-animist/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# the techno-animist
+
+*21 Mar, 2026*
+
+robotamerica is a concept i've held for over two decades. it evolved from my childhood obsessions with astro boy, ghost in the shell, and transformers. all manga and cartoons dealing with some form of techno-animism. i realised early that western colonial thought and tech treats nature as inert, tools as property, and the maker/material relationship as one of ownership and extractionism. that's not a neutral design choice: it's ideology, and it's one that is destroying the planet.
+
+i thought it was time to revisit my early thoughts on what robotamerica was, is, and will become in contemporary thought. below is some reading that aligns well with my past and present conceptions of robotamerica.
+
+---
+
+**[should we treat robots morally? ⇲](https://philarchive.org/archive/SHISWT)** — hayate shimizu, 2025
+
+* japanese animism as ethics.
+* the mind isn't a fixed property, it's built through relation.
+* reminds me of the kanshasai ceremonies for a retired machines in japan. they aren't about sentiment, but the acknowledgement of the spirit/soul of each machine and respecting the work they have done during their lives.
+
+---
+
+**[indigenous futurisms and ai ⇲](https://cybernetics.anu.edu.au/projects/IndigenousFuturisms/)** — ambelin kwaymullina, 2024
+
+* palyku scholar and artist. in indigenous knowledge systems, there is probably no such thing as "artificial" intelligence.
+* the colonial model extracts. the alternative is to build nurturing and caring relations.
+
+---
+
+**[reawakening kin: blurring boundaries through techno-animism ⇲](https://sixtyinchesfromcenter.org/reawakening-kin-blurring-boundaries-through-techno-animism/)** — juleana enright, 2025
+
+* lakota writer, working through the contradiction of wanting to be a cyborg while holding indigenous teachings of responsibility to the land.
+* techno-animism is a practice, not a metaphor.
+
+---
+
+**[maker culture and diy technologies ⇲](https://philarchive.org/archive/SHISWT)** — emit snake-beings, 2017
+
+* a diy practitioner in his workshop, building tools and instruments from recycled materials.
+* the faulty component doesn't get fixed, it gets kept. the material starts directing the design.
+
+---
+
+i'm not really a techno-optimist. i am suspicious of anyone who is. i'm more of a techno-animist. what i believe is simple: everything we produce becomes nature, for good or for worse. it enters the world and stays here.
+
+treating your tools as if they have a life, a soul, and neighbours and consequences isn't mysticism. understanding the virtue and liveliness of the things we create and use, and treating them as a part of the natural world endowed with being, helps us to build a system of care that owes debt to the life cycles of our things. we shouldn't want to make or buy things that won't outlive us, things we tend to throw away. we should be making and building with partnership in mind. our relationship with stuff should be based on care and respect. this relationality can help save the environment.
+
+this is robotamerica: technology isn't what we need to fear. it is the bastard makers with their bastardised sense of profit before environment we need to fear. they rob the soul of the things we purchase from them. it is easy to disregard and discard things without a soul, they become things we can't care for. so makers of the world, let's flip the script. give your things a life and a soul, even if it is just sharing a bit of your own. put yourselves out there.
+
+[#ai](https://robotameri.ca/blog/?q=ai)
+[#craft](https://robotameri.ca/blog/?q=craft)
+[#digital ecology](https://robotameri.ca/blog/?q=digital%20ecology)
+[#ecology](https://robotameri.ca/blog/?q=ecology)
+[#technology](https://robotameri.ca/blog/?q=technology)
+
+
+---
+
+## https://robotameri.ca/the-carrier-bag/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/the-carrier-bag/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# the carrier bag
+
+*20 Mar, 2026*
+
+in my [last post](https://robotameri.ca/the-craft/) i was looking for a language that could describe my creative drive and find connections between my creations. i found it in craft practice. in the [post before](https://robotameri.ca/the-plot/) that i was looking for a language to explain why my creations are small, well tended to, and insurgent things connecting rhizomatically. in this post i am looking for something a little different: a language for care. for the hope that what i tend and make and print and write might nourish my future self and whoever else finds it, wherever it goes, and in whatever bag that happens to be carrying it.
+
+---
+
+i want to make a small argument about weblogs in particular.
+
+we treat blog posts like arrows, pointed things fired at a single target, read once, forgotten, and the feed keeps us scrolling on so long as we are fed. each post is supposed to be a weapon, it should have a thesis, a conclusion, and a thing it does. you write it, you post it, you move on. it's the hero's narrative, start to finish, and thok🎯 goes the thought.
+
+but i don't think that's what a weblog actually is or should be. when you stop treating it like a feed and start treating it a little differently.
+
+ursula k. le guin's [carrier bag theory of fiction](https://otherfutures.nl/uploads/documents/le-guin-the-carrier-bag-theory-of-fiction.pdf) starts with a small provocation: before we made weapons, we made containers. the basket, the net, the medicine bundle, and the bag. these are tools that bring energy home. she writes:
+
+> with or before the tool that forces energy outward, we made the tool that brings energy home.
+
+the mammoth hunters got the cave paintings and the heroic story arch, but the gleaners and gatherers picking wild plants, putting seeds into bags, watching the fauna, listening to jokes and songs are the ones who actually kept everyone alive.
+
+she applies this to fiction. the novel, she argues, is not an arrow but a bag. it holds things in relation to one another. it has no obligation to resolve, only to gather and save.
+
+i think a weblog is a sort of carrier bag.
+
+not a single post, but the whole thing, as accumulated seeds over time. a weblog gathers and holds. it is a place you return to, add to, revise implicitly by writing the next thing. the post you write today changes the meaning of the post you wrote six months ago, not by editing it but by standing next to it, showing your evolution ( 🦠 → 🐟 → 🦎 → 🐭 → 🐒 → 🙋🏽 → 🧟‍♀️ → 🤖 ). i don't like my weblog being treated as a feed. it is a garden of plots, tended to until something is ready to be picked and carried somewhere else by someone else.
+
+wynter's plot grows what the plantation cannot account for. le guin's bag holds what the hero's story cannot contain. they are two halves of the same practice: you tend the plot, and then you gather from it, and then you carry what you gathered somewhere else. the reader comes with their own bag. they take what they need from the plot and go. i don't know what they pick or where it ends up. that's the whole thing.
+
+bpNichol's martyrology is a carrier bag. a lifelong poem begun in 1967 and still unresolved at his death in 1988, accumulating, beginning again, and holding things in relation to each other without demanding that they resolve. never demanding linearality, you can arrive to any plot any time, and take something delicious home in your carrier bad. gurtrude stein's continuous present from my last log also contains carrier bag logic: beginning again and again, each sentence adding to the whole without pointing at a conclusion, always and absolutely present. i have baggage from bp and stein and i carry it into each log, zine, letterpress print, or shell script i create. they become their own plots ready to be gleaned from and placed in other people's bags.
+
+what i am trying to say is: you do not need to treat anyone's blog like a content strategy being fed to you post by post. you do not need a hook, a throughline, a call to action, a conclusion that wraps everything up. you are allowed to watch the wildlife and flowers blow in the wind for a while. you are allowed to glean and put edible treats in your bag and go home and put the bag down and come back tomorrow and add more from elsewhere. a blog works better as a bag or container than as a weapon.
+
+the weblog as carrier bag means: it is okay to be mid-thought. it is okay to circle back, and it is okay if this post does not make a single clear point, because the point is the accumulation, the gathering, the sharing, and the practice of returning and adding and holding or going out on my own to glean from other plots that are not my own.
+
+i have three connected posts now: the plot, the craft, and now the carrying bag. none of them are finished; instead, all of them are in another bag together. that is the point. a head can store only so much, so give something to the bag.
+
+le guin ends her essay in a way i love:
+
+> still there are seeds to be gathered, and room in the bag of stars.
+
+the plot is where it starts, tended to by the craft, and the bag is where it goes. somewhere into the infinite. so keep tending, keep gathering, and keep carrying. carrying is sharing and sharing caring. i think that is something we can all easily stand for.
+
+---
+
+*facio ergo sum.*
+
+[#blogging](https://robotameri.ca/blog/?q=blogging)
+[#carrier-bag](https://robotameri.ca/blog/?q=carrier-bag)
+[#craft](https://robotameri.ca/blog/?q=craft)
+[#gathering](https://robotameri.ca/blog/?q=gathering)
+[#le-guin](https://robotameri.ca/blog/?q=le-guin)
+[#plot-logic](https://robotameri.ca/blog/?q=plot-logic)
+[#poetry](https://robotameri.ca/blog/?q=poetry)
+[#sylvia-wynter](https://robotameri.ca/blog/?q=sylvia-wynter)
+[#weblog](https://robotameri.ca/blog/?q=weblog)
+[#writing](https://robotameri.ca/blog/?q=writing)
+
+
+---
+
+## https://robotameri.ca/the-craft/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/the-craft/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# the craft
+
+*19 Mar, 2026*
+
+## craft practice
+
+in 1977, esteban valdés published, likely my favourite book of poetry, *fuera de trabajo* in río piedras, puerto rico. the mimeograph he used to print it had been stolen from the universidad de puerto rico. the same machine was also used to print clandestine political bulletins for the unión de socialistas libertarios, the partido socialista revolucionario, and the feminist group alianza humana. the editors of the 2020 reedition put it plainly: [publications at this scale resist capitalism through their economic unviability](http://t-e-e.org/files/circulacion/Valdes-Fuera-de-trabajo-textos.pdf).
+
+i have been thinking about that sentence for months. especially of this blog, my writing, and its economic unviability. and yet i presist, without economic benefits, to write and craft.
+
+i write poems, i print zines, build small personalised digital tools, and i keep this blog. dang, none of these things are economically viable. none of them are legible to the attention economy as things worth measuring. i have been trying to figure out what connects them, what the common gesture is across all of it, and i think it is this: the act of making something by hand, at small scale, outside the logic of production that wants everything to have a market, a user base, and a growth curve.
+
+in my last post i was looking for a language for the small, tended, and insurgent things i create (the plot{s}), and in this post i am looking for the connection between them. the poem, the zine, the script, and the weblog. what do they share? what runs underneath all of them? the craft is the physical and productive process. it comes to this: facio ergo sum. i make therefore i am.
+
+william morris called it joy in labour. he argued that you can read the conditions of production in the thing produced, that an unartistic society is one in which labour has been stripped of its joyful and creative qualities, and that the handmade object carries within it the conditions of its making. i feel this when i make a letterpress print: the physical act of setting type, inking the block, and running the press is not separate from the poem, poster, or book. it is inside it. the form and the content arrive together, pressed into the same sheet.
+
+[bpNichol](https://en.wikipedia.org/wiki/bpNichol) spent his career exploring what he called the borderblur between image and text, sound, prose, and poetry. the martyrology, his lifelong open-ended poem that began in 1967, never resolved. it just continues, accumulating, and beginning again, refusing the logic of completion or death. it is not a product with a finished state. it is a practice, like a garden, like a webblog, or like a lifelong meditation.
+
+gertrude stein said that the business of art is to live in the actual present, that is the complete and actual present, and to completely express that actual present through art. she called it the [continuous present](https://www.poetryfoundation.org/articles/69481/composition-as-explanation): not writing about the present, but writing in it. i keep beginning again and again, each log or poem or print run another entry into the same ongoing act of composition. i think about this every time i open a new file or set up a new stencil or form. the webblog post is not a document, it becomes the present tense.
+
+what connects valdés's stolen mimeograph, morris's homage to craft, bpNichol's lifelong poem, and stein's continuous present is that they all operate outside the logic of the institution that would like to contain them. the university that owned valdés's machine didn't know what it was to make was possible (especially as it was a simple office tool). the publishing industry that completely ignored the mimeo revolution didn't know what it was missing out on. stein's modernism wasn't ahead of her time. the time just couldn't keep up with her compositional challenges and consistent subversion of her present's cultural norms.
+
+i am not making any grand claims for this webblog, or for my zines, or for my little poems or shell scripts. but i do think that the small, handmade, economically unviable thing is doing something that the scalable, platform-mediated, analytics-tracked thing cannot do. it is living in the present. it is pressing the conditions of its making into itself. it is beginning again and again.
+
+the mimeograph was stolen. the poem was never finished. the business of art is the actual present.
+
+i keep printing, making, and crafting. this is craft practice, and it has value in and of itself.
+
+[#blogging](https://robotameri.ca/blog/?q=blogging)
+[#bpnichol](https://robotameri.ca/blog/?q=bpnichol)
+[#craft](https://robotameri.ca/blog/?q=craft)
+[#esteban-valdes](https://robotameri.ca/blog/?q=esteban-valdes)
+[#gertrude-stein](https://robotameri.ca/blog/?q=gertrude-stein)
+[#letterpress](https://robotameri.ca/blog/?q=letterpress)
+[#mimeograph](https://robotameri.ca/blog/?q=mimeograph)
+[#poetry](https://robotameri.ca/blog/?q=poetry)
+[#william-morris](https://robotameri.ca/blog/?q=william-morris)
+[#writing](https://robotameri.ca/blog/?q=writing)
+[#zine](https://robotameri.ca/blog/?q=zine)
+
+
+---
+
+## https://robotameri.ca/the-plot/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/the-plot/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# the plot
+
+*19 Mar, 2026*
+
+**last updated: 07:05 19 mar, 2026**
+
+i've been thinking a bunch about [sylvia wynter](https://en.wikipedia.org/wiki/Sylvia_Wynter) and her idea of the plot as a place of insurgency and rebellion.
+
+wynter wrote about the plot in her essay [novel and history, plot and plantation](https://monoskop.org/images/1/13/Wynter_Sylvia_1971_Novel_and_History_Plot_and_Plantation.pdf). in this book she discusses plantation economies, where the provision ground was the small piece of land where enslaved people grew their own food, outside the plantation's logic, outside its ledger, and outside its systems of value. the plantation did not recognize it as productive. that, wynter argues, was never incidental. this provision ground, the plot, was invaluable to the communities it nourished precisely because it was illegible (non-valuable) to the dominant economy, so its real value slipped past the colonial class. it produced food, yes, but also
+
+selfhood, continuity, and a relationship to making/creating that was not compromised or extractive.
+
+what makes wynter's concept so useful is the double meaning the word carries. in [black metamorphosis](https://monoskop.org/images/6/69/Wynter_Sylvia_Black_Metamorphosis_New_Natives_in_a_New_World_1970s.pdf) she draws out the *"values of the under life,"* the secretive histories grown alongside and beneath the plantation's official ledger, and uses the yam as the symbol: grown underground, invisible from above, fed from below, and rhizomatic/adventitious. in [novel and history, plot and plantation](https://monoskop.org/images/1/13/Wynter_Sylvia_1971_Novel_and_History_Plot_and_Plantation.pdf) she extends this: to plot is also to counter-narrate, to scheme, to grow a story that the dominant system cannot account for or understand. a poem is a plot in this senses, so is a zine, and so is a shell script.
+
+as a poet and writer who tinkers with tech to build small tools. i have been trying to find the right language for why i do these things, and why i cannot fully separate them, and i think wynter gives me something close. my language grows from and as a plot.
+
+when i write a poem, i am working on a plot, when i print a zine on a mimeograph and fold it and hand it to someone, i am working on a plot, and when i write a shell script that fetches my rss feeds and prints a booklet i can read on paper, i am working on another plot. none of these are really legible to the attention economy, at least, not as things worth measuring. they do not scale well, they don't have a user base, and they do not have a growth curve. instead, they produce something i can hold, read, share, or run, and that relationship between me and the made thing is not mediated by a large platform, a pricing tier, or an algorithm deciding who sees it.
+
+this blog lives on bear blog, which is itself a kind of plot. it is small, hand-tended, and not trying to be anything other than what it is. a blog is a blog is a blog. but don't forget, blog is dead ... back to the weblog!
+
+i have been thinking about with my blogging, poetry, and code as the same kinds of insurgent acts of conviviality. they are ways of making meaning in forms the dominant economy finds useless or at best decorative. better, it is a way of making things with attention to care. the poem does not produce revenue, a zine does not have a profit margin (it costs the creator), and the shell script that runs only on my machine for my particular workflow is not a product. these are provision grounds, and i tend to them the way you tend to anything that feeds you, your family, and your friends. tending is caring.
+
+wynter's essay is specifically about caribbean literature and the novel as a form that either reproduces plantation logic or resists it, and i do not want to flatten that specificity. i am simply borrowing the logic, not the history. but i find the provocation inspiring: what are you making that nobody is measuring? what feeds you that doesn't show up in anyone's analytics? is your garden and its plots under the radar or off the beaten path?
+
+my plots are here: in my writing, poems, tools, zines, everyday attitudes, and this blog, all small but overgrowing and continuing to feed me, my family, and my friends. nourishment these days, is insurgency: mentally as well as physically.
+
+[#blogging](https://robotameri.ca/blog/?q=blogging)
+[#plot-logic](https://robotameri.ca/blog/?q=plot-logic)
+[#poetry](https://robotameri.ca/blog/?q=poetry)
+[#small-tech](https://robotameri.ca/blog/?q=small-tech)
+[#sylvia-wynter](https://robotameri.ca/blog/?q=sylvia-wynter)
+[#tools](https://robotameri.ca/blog/?q=tools)
+[#writing](https://robotameri.ca/blog/?q=writing)
+[#zine](https://robotameri.ca/blog/?q=zine)
+
+
+---
+
+## https://robotameri.ca/a-new-aesthetic-and-feel/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/a-new-aesthetic-and-feel/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# a new aesthetic and feel
+
+*17 Mar, 2026*
+
+weclome to the redesigned robotamerica
+
+while the old design of this space was fun, it was also accumulating unwarranted surface area, combining gifs, toggles, dropdowns, glow effects, a dark/light mode, etc. it was moving slowly away from the bearblog ethos of:
+
+> no-nonsense, super-fast blogging
+
+so i have scaled and stripped it back a bit.
+
+## what i changed
+
+the whole site is now a neovim buffer. a single font and one dark-only background. i lifted the colour palette directly from my favorite neovim theme: [onedark.nvim](https://github.com/navarasu/onedark.nvim). the same theme i use when messing with code, jotting field notes, or half-finished poems.
+
+the logic was simple: **if the editor is already comfortable, make the blog feel like the editor.**
+
+i removed the fancier components to help place focus on the text (which is my writing), but in a fun (for me at least) way.
+
+## the palette
+
+everything maps to the following roles:
+
+* headings → `#61afef` (blue, like a function name)
+* links → same blue, visited goes purple (`#c678dd`)
+* `strong` text → `#d19a66` (orange, like a string literal)
+* *emphasis* → `#e5c07b` (yellow, like a constant)
+* comments, timestamps, muted text → `#5c6370` (grey)
+
+## the header
+
+```
+            ▄▄                                                          
+            ██           ██                             ▀▀              
+████▄ ▄███▄ ████▄ ▄███▄ ▀██▀▀ ▀▀█▄ ███▄███▄ ▄█▀█▄ ████▄ ██  ▄████  ▀▀█▄
+██ ▀▀ ██ ██ ██ ██ ██ ██  ██  ▄█▀██ ██ ██ ██ ██▄█▀ ██ ▀▀ ██  ██    ▄█▀██
+██    ▀███▀ ████▀ ▀███▀  ██  ▀█▄██ ██ ██ ██ ▀█▄▄▄ ██    ██▄ ▀████ ▀█▄██
+```
+
+block characters / ansi style. it scales down to simple text for mobile. it allows for smooth loading with no images, no requests, and no fallbacks needed.
+
+## the thing about constraints
+
+this redesign didn't start with "what should the blog look like." it started with asking myself: **what do i already trust?**
+
+i trust my neovim setup. i've tuned it for years. i thought i would bring some of the logic and workflow feel i use there, here to robotamerica. in doing this, i explored ways to simplify while keeping it fun. i also wanted the markdown here to shine a little, so you can see the header tags, the emphasised text takes on the one dark themes colours, and the font choice (jetbrains mono) carries it the rest of the way.
+
+this all really just felt like the right call. robotamerica will feel a little more like home for me, and my house is yours. enjoy!
+
+---
+
+### robotamerica
+
+*running proudly on [bear blog](https://bearblog.dev). font: jetbrains mono. theme: onedark.nvim. no analytics, no tracking, no javascript that isn't earning its keep.*
+
+---
+
+
+---
+
+## https://robotameri.ca/html-poetics/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/html-poetics/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# html poetics
+
+*11 Mar, 2026*
+
+i have been writing and self-publishing chapbooks for over a decade. i have noticed two things during that time. firstly:
+
+> the medium is the message.  
+> **⇝ marshall mcluhan**
+
+and secondly, voice, style, and content are affected by the means of production. when i write poems for letterpress forces brevity, where you can feel the cost of each piece of type. composing on a typewriter requires commitment; there is no easy revision, and so you have to really think before you type. producing for the mimeograph allows a sense of looseness and experimentalism, where I can compose poetry by hand and reproduce it. the computer gives you infinite undo, which makes for infinite drafts, which in turn creates a kind of endless sense of indecision.
+
+i didn't choose these tools for aesthetic reasons alone. i chose them because each one pulls a different voice out of me.
+
+**the medium isn't just the message: it's also an editor.**
+
+the way the production of my poetry changes my writing is really behind the scenes, mostly hidden from you. just as your reception of my poetry is mostly hidden from me. this fascinates me. there is always a curtain between the writer and the reader.
+
+this curtain can make sharing and publishing poetry particularly difficult. how, where, and with what we share our poems can be a daunting decision-making process. to ease the anxiety, i simply write and worry about the medium in which i will present later.
+
+as a xillenial, a digital native, who came of age when the internet still felt like a commons, i still carry that early utopian assumption that sharing should be free, direct, and unmediated. so i often share my works online, even if published (oops), self-published, and printed to be distributed and sold for meagre amounts, typically covering printing and binding material, and distribution costs. digital publishing is nearly free in comparison.
+
+i used to share on social media, but I don't use it much anymore. so before i started sharing pdfs, i thought i would make html chapbooks over at [kmrowe.me](https://kmrowe.me), keeping in mind the message truly is the medium. when making them, i had to think about each stanza and each page. i was able to translate rather than simply transcribe the poems, all of which were written in various ways, into chapbooks that breathed a different sort of air than the printed versions.
+
+at the moment i have [five html chapbooks](https://kmrowe.me/chapbooks.html). each alive in their own way on the internet. my website has a theme picker (green crt, blue crt, or epaper), each giving a different feeling to the chapbooks. it was fun to experiment with this, while giving these poems another life in another world.
+
+these are the first iterations of my html poems. one day, i hope to get as experimental and fancy as those over at [the html review](https://thehtml.review/about). but until then, i hope some folk enjoy what i have done. either way, the practice of creating them was fun for me. here is another robotamerica personality alongside one of my favourite chapbooks:
+
+the colour mirror chapbook
+
+
+---
+
+## https://robotameri.ca/diaryland-memories/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/diaryland-memories/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# diaryland memories
+
+*10 Mar, 2026*
+
+i just found this on the waybackmachine from the long-defunct http://robotamerica.diaryland.com:
+
+> 2004-05-13 - 11:22 a.m.
+>
+> I plan my days spelling out in numeric order with alphabet soup. Yesterday's said "bad" todays spelt "w-o-r-s-e". But in the long run I see it as spelling "B-e-t-t-e-r". I think I will go buy some bigger spoons.
+
+some folk are embarrassed by their younger writing and blogs. i suppose i am not. maybe that is the robot in me? here is another gem from 2004 to leave you with:
+
+> 2004-07-22 - 3:34 p.m.
+>
+> In a world that has stepped into the media-real, approaching a new dynamic in entertainment and introducing the documentary as entertainment; I see it fit to re-emphasize the importance of the documentary as an educational tool. It is now a fast growing high paced world of ‘viewer commodity’ – it has come to a point where in film, and especially the ‘new documentary’ where the viewer is no longer challenged. The films are now entertaining – a strategy I don’t completely disagree with. Though at the same time I would say that it has become too much a spectacle of entertainment, and too least a tool for education.
+>
+> It is however not only just the films that tamper with the educational tools that which are to be propelled by this medium. It is as well the directors and producers who seem to lead by example. For example the producers and directors of the film “The Corporation”, a very educational and highly exposing film of the corporate world, after the directors/producers had accepted an award, sponsored by coca-cola a company the film was fighting against, they had admittedly taken this award only to congratulate their efforts. It is the responsibility of the filmmakers to lead by example not only whilst making the film but live by what they have created.
+>
+> I would like to see a new direction in filmmaking with mannerisms that respect the audience and the subject matter at hand. I would like to create responsible and respectable films.
+
+embarrassed, no! in fact, i feel nearly the same sentiments: docutainment is bs. also robotamerica is more than 22 years old. i wish i had more. also also, fun note: before robotamerica, my handle was flying\_ape\_fetus 🤣
+
+
+---
+
+## https://robotameri.ca/information-fatigue-first-aid/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/information-fatigue-first-aid/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# information fatigue first aid ⛑️
+
+*09 Mar, 2026*
+
+the internet and all the information it pushes at you can feel like a firehose pointed directly at your face. some days, i am hit by information fatigue, and it leaves me feeling sore and bruised. here are seven ways i try to dodge the firehose in an attempt not to drown:
+
+1. **scheduled intake.** i pick two windows a day to check feeds and news. outside those windows, the tab stays closed. the world will still be in a catastrophic state later, don't worry.
+2. **one source per topic.** i do not need four newsletters about the same thing. pick your favourite, ghost the rest, don't feel bad.
+3. **sometimes curate for beauty, not volume.** it is completely fine to follow accounts, feeds, and sites just because they make something pretty, simple, or quiet. you don't have to justify it. a short list of things you genuinely love beats a bloated feed of things you feel strangely obligated to consume.
+4. **learn to spot the slop** there is a lot of content out there right now that was made to fill space, it doesn't say anything. ai-generated articles, recycled takes, engagement-bait listicles, slop videos and adverts. allow yourself to notice that empty feeling slop gives you and act on it. the back button is right there, get out and don't return! (a tip in a tip: don't support platforms that encourage slop generation, or find a way to block it and them).
+5. **use a read-later queue as a filter.** i save it, then check back in 48 hours. if it still feels interesting, i read it. i find most things quietly fail this test, they probably weren't for me anyway. after the 48 hours, if they are still unread i delete them to get them off my radar.
+6. **go analogue for a few hours.** i walk, cook, draw, write, read, print, or bind something. my brain was not designed to scroll, even if it is addicted to it. so, i try to give it a break from its own bad habits.
+7. **unsubscribe aggressively and without guilt.** if i haven't opened it in a month, it's not doing anything for me it's just ambient dread in my inbox. i let it go.
+
+you don't have to know everything, don't let the fomo get to you. when you find the things that matter to you, follow them and avoid anything that feels excessive or anxiety-inducing.
+
+**the firehose will always be there. you don't have to stand in front of and drink from it.**
+
+these are my seven bandages, but your first-aid kit may vary.
+
+
+---
+
+## https://robotameri.ca/a-guestbook-experiment/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/a-guestbook-experiment/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# a guestbook experiment
+
+*08 Mar, 2026*
+
+i am trying to get creative and experiment with social components to my [digital garden](https://kmsgarden.com). i've seen other folk use [owot](https://ourworldoftext.com), so i figured i would give it a try too. if you want to say hi, you can find my world below:
+
+<https://ourworldoftext.com/kmnada>
+
+
+---
+
+## https://robotameri.ca/interrupt-the-feed/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/interrupt-the-feed/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# interrupt the feed
+
+*07 Mar, 2026*
+
+i like to think of reading as a non-linear activity.
+
+we don't really read a cookbook front to back, or open a field guide at page one, reading straight through until the last page. we certainly don't consult the i ching in a linear sequence. we typically enter texts where we need to, follow a thread, leave and come back later, read the marginalia, and skip forwards and backwards. the book really doesn't care what order you read it in, so why should you?
+
+when we are online, somehow, we forget that we don't need to read everything linearly. our habits are tempered by feeds, and we struggle to get off the conveyor belts we have built for ourselves.
+
+feeds assume you will just show up for the latest thing and leave when you've consumed it. always new, always fresh, and we are always behind. the internet has become a dusty basement archive. a feed is a queue to scroll away from content, not to it. we are no longer readers; we are consumers moving through an endless inventory.
+
+borges understood something useful here. in his story [*the garden of forking paths*⇲](https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths), he imagined a novel that contains every possible version of itself simultaneously, not a sequence but a structure you move through by choosing. his labyrinths aren't puzzles to solve, they're spaces to inhabit. you don't finish a borges story so much as find a way out of it.
+
+the best parts of the internet work like this. a wiki. a webring. a digital garden. a well-tagged archive where you can enter at any point and wander.
+
+the situationists had a word for this kind of movement: [*dérive*⇲](https://situationist.org/periodical/si/issue-2-1958-en/theory-of-the-derive-73). literally, to drift. you drop the usual reasons for moving through a city: destination, efficiency, routine, and let the environment pull you. you follow what's interesting. you end up somewhere you didn't plan, maybe somewhere new?
+
+a good website or digital space should work the same way. not as a feed pushing content at you. instead, it should be a place you can drift and wander through.
+
+it is true that i use an rss reader. i'm not going to pretend i don't. but i also like to get out there, follow a link somewhere unexpected, lose an afternoon in someone's archive, find an old post that has nothing to do with why i arrived. that's the good stuff.
+
+try it sometime. open something, follow a thread, skip the homepage, read the thing from 2014, click the weird link at the bottom. try to practice a digital dérive and see where you end up.
+
+i've been thinking about what it would mean to write for multiple entry points instead of publication dates. less queue, more like a labyrinth. less of a newspaper, more like a field guide.
+
+the internet doesn't have to be a conveyor belt, it can be a choose your own adventure book. you just have to get used to making your own decisions. strangely, that takes some practice.
+
+
+---
+
+## https://robotameri.ca/i-made-a-digital-garden/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/i-made-a-digital-garden/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# i made a digital garden
+
+*06 Mar, 2026*
+
+**seeding my digital garden**
+
+for a while now, my online presence has been spread across a handful of places that are loosely linked and don't talk to each other. a Bear Blog here, a static site there, a poetry chapbook floating somewhere in a cloudflare bucket or on an aging site. useful stuff, but scattered. no centre of gravity. nowhere to keep track of and tend to my things.
+
+so i built one. it has been ploughed and seeded.
+
+[km.garden ⇲](https://kmsgarden.com) is a digital garden, a quiet index for everything i make and care about online. it ain't a portfolio, not a landing page or dashboard, its more like a handmade seed catalogue or library + garden: here's what exists, here's where to find it, here's what's growing.
+
+**why now**
+
+i've been thinking a lot lately about the web as a place to tend to rather than a space to perform. most platforms push you toward recency, and immediacy: have you read the latest post? seen the latest update. a garden is different. things can sit. things can be half-finished. things can get revised quietly without an announcement. things can be half-forgotten about and become overgrown only to be found with some gentle cutting and pruning.
+
+i wanted a home base that could hold all of it. my writing, my art and collage work, my zines, my blogs, all my projects, and growing links to my corporeal body of work: teaching, printing, and photography. something that links outward rhizomatically, without pretending to be a hub for hot traffic. in the end, it is a place where all my personalities can coalesce, building an idea of who i actually am. a whole, though complicated person 🥹.
+
+**my garden's design**
+
+* pure html + css: no javaScript, no build step, no framework
+* a three-pane layout: nav on the left, content in the middle, an index with contextual notes on the right
+* assets live in cloudflare r2 (collages, poetry pdfs, zines, images) to keep it as light as possible
+* hosted via github pages
+
+the palette is [Sanzo Wada #310](https://colores.sinhojas.net/?combination=310#combos) -- olive, dark green, cream, peach. the fonts are ibm pplex sans, ibm plex mono, and a dash of bytesize. it feels to me like something you'd find in a library basement, on an old computer, and that's intentional.
+
+**what it'll hold**
+
+right now the garden consists of a welcome/about page, a weblog, a projects list, a clutter page (55 collage pieces, 15 poetry chapbooks, and 6 zines), and a webroll linking my fave web spots.
+
+over time i plan to add more writing, field notes, maybe some digital photography. things that don't fit neatly into a blog post format. it is a slow and intentional space, and i love that!
+
+**the intention**
+
+this isn't about growing an audience. it's about having a place that's mine that is legible, durable, and low-maintenance. i want something that doesn't depend on a platform's continued goodwill to exist. something that is my own and that avoids all the traps and pitfalls of the attention economy.
+
+does this all mean you shouldn't check it out? of course not, a digital garden is also about finding community. i hope to find other gardeners and friendly neighbours to share and network with. welcome to my garden, embracing the wonders of the slow web:
+
+go have a look [kmsgarden.com ⇲](https://kmsgarden.com)!
+
+
+---
+
+## https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# how termux saved me from my doomscrolling addiction
+
+*03 Mar, 2026*
+
+i am a man of habits. one of mine used to be endless doomscrolling. over the past year or so, that habit has slowly been replaced by something a little more mentally healthy and sustainable: a healthier, but still full-blown, addiction to [termux⇲](https://https://en.wikipedia.org/wiki/Termux). it’s easily my most used app now, and i don’t feel myself getting pulled toward social media anymore.
+
+what do i do with termux? almost everything i need and want: i read books with [epy⇲](https://https://github.com/wustho/epy) (plus a personalised library and book-search script i call `openbook`), i read blogs and news with [newsboat⇲](https://https://newsboat.org/index.html) (and i’m still trying to get feedo working on termux, i’m close), i write in zettlemind, my personalised fork of [dotmd⇲](https://neovimcraft.com/plugin/y3owk1n/dotmd.nvim/), i code in [nvim⇲](https://neovim.io/), i play [termux-games⇲](https://https://github.com/Achik-Ahmed/termux_games), and i listen to music with [mpv⇲](https://github.com/mpv-player/mpv), using a little wrapper i made called `boom`.
+
+---
+
+![termux](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616190.webp)
+
+![epy](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616242.webp)
+
+![openbook for epy](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616240.webp)
+
+![newsboat](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616198.webp)
+
+![dotmd + zettlemind](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616192.webp)
+
+![neovim](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616196.webp)
+
+![termux-games](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616200.webp)
+
+![mpv + boom](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/1000616253.webp)
+
+---
+
+### why do i find termux helpful?
+
+termux works for me because it’s quiet. it’s less flashy, so there’s less pulling my attention away from what i’m doing. i like working from the cli on all my machines and devices, and i genuinely enjoy the focus-driven habit-building that comes from simple work/play environments. it feels more satisfying than the false dopamine traps of social media and fancy apps.
+
+working and playing from the cli also keeps me calm and learning. i get to investigate how .zsh scripts can improve workflows and shape my experience, technical or aesthetic, in termux (or any cli). it slows things down in a good way. i can focus on the task in front of me without the anxious urge to click away or scroll into nowhere.
+
+i haven’t said goodbye to social media. i’m just not addicted to doomscrolling anymore. now i can use it on and off for what it should actually be for: keeping up with friends, making new ones, and sharing a bit of myself with them. no more sick dopamine loops trying to hook me. just my terminal, a shell, and a few tools and toys when i want to stay engaged.
+
+
+---
+
+## https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# on craft [ or how i set my type by hand, but also use ai ] or a mindful reaction to 'AI is NOT better than you'
+
+*02 Mar, 2026*
+
+![green-tinted close-up of a letterpress work surface: composing stick, ruler, and a grid of metal sorts.](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/jpg.webp)
+
+📸 my adana qh press with compositing stick and form set and ready to print.
+
+i set type by hand. i have been a letterpress printer for a long time. sometimes i hand-carve my own letters, fonts, and images. i do it because i care about *material truth*, how words live on paper, how ink sets, and how spacing changes meaning.
+
+i am not upset that people use digital fonts and typography (i do too 🙃). digital type is a tool. it is fast, accessible, and powerful. letterpress is also a tool, but it makes you slow down, be mindful, and commit.
+
+that is how i think about ai. i use ai here and there, especially my local model for coding assistance. ai is a tool. **not a soulful substitute for judgment.** if it helps you draft, iterate, translate, or explore variants, all is fine. but the craft, *taste, ethics, responsibility, and final decisions*, still belong to the human.
+
+ai sits in a strange category. it is powerful, but it is also electricity-hungry, easy to misuse, appropriative, and sometimes ethically obtuse. the question is not whether we disregard the tool or not. it is here! the question is whether we use it with **restraint**, **transparency**, and **purpose**, and whether we keep *human accountability* at the centre.
+
+we need to ask: as ai finds its footing, without romanticising the innovation while its makers offload the fallout, how do we pressure these gargantuan companies to be accountable for the environmental and social harm they have caused and externalised? not by simply avoiding or boycotting the technology. to even ask this question, we actually need to be involved and try to understand the complex cost-benefit(s) of this technological behemoth. at this point, all our hands are dirty with complicity.
+
+see, as print shifted to screens and digital/mechanised means of production, livelihoods disappeared, yet the work persisted, not for economic remuneration, but for the stubborn joy of craft.
+
+interestingly, for those of us who have persisted stubbornly with our craft, we have seen innovation in letterpress through digitally made polymer plates, laser-cut wood type, cnc-routed forms, photopolymer and 3d-printed components, and hybrid workflows that start on a screen and end under pressure.
+
+this evolution, and the democratisation of the craft through internet forums, open tutorials, and social media, is what technological advance looks like when younger generations adapt to their moment and bring others along with them while exploring a hands-on craft. instead of lamenting the loss of craft, we should revive it inside today’s digital culture(s), keep the standards high, share what we know, and make room for new hands and new tools without surrendering the values that make the work worth doing while promoting hands-on crafting and work.
+
+i love the concept of the handmade web, but most of it is not handmade in any literal sense, beyond the hands on a keyboard and the decisions behind the code. the phrase is a misnomer.
+
+still, the ethics are generally pointing in a good direction. small, personal, slower, less extractive, more legible, and more intentional. where it goes off the rails is when “handmade” turns into moral posturing, purity tests, or a performance of virtue that ignores the material reality of the internet and access to specialised (often obtuse) knowledge.
+
+not everything made (handmade or not) is worth making or beautiful. william morris in his ['on art and socialism'↗](https://monoskop.org/images/7/7f/William_Morris_on_Art_and_Socialism_1999.pdf) remains a useful north star here, even if his tone can a little sarcastic and blunt:
+
+> nothing should be made by man’s labour which is not worth making, or which must be made by labour degrading to the makers. nothing useless can be truly beautiful. if a chap can't compose an epic poem while he's weaving tapestry, he had better shut up, he'll never do any good at all.
+
+i do not take that last line as a literal instruction or a utilitarian value judgement so much as a sarcastically driven provocation. the point i keep is this: **make things worth making, and do not build them on degrading work.** in that sense, “handmade” is not a claim about purity, it is a commitment to agency. let's be honest there is plenty of physical and even handmade slop out there, just as there is ai slop, so let's not add to any of it: we need to make and build with care and intention, credit sources and inspiration, make things free and open, keep things repairable and iterative, choose lightness and beauty wherever we can, and stay honest to our craft.
+
+---
+
+📝 while writing this log, which is a thought dump, honestly due, at least partly, to ginzo's post, [AI is NOT better than you ↗](https://ginoz.bearblog.dev/ai-is-not-better-than-you/), and through quoting william morris, i thought to myself: what would morris think of ai? i searched my question, and found a wonderful article by socialist architect cristina monteiro, ['Artificial intelligence and crafts: what would William Morris do?'↗](https://www.architectsjournal.co.uk/news/opinion/artificial-intelligence-and-crafts-what-would-william-morris-do). monteiro writes:
+
+> is Morris’s premise of a ruralist, post-industrial utopia something to aspire to? It is not an anti-mechanical or anti-tech utopia; machines were allowed to do the more degrading jobs previously done by humanity (in a parallel to some emerging uses of AI). Morris believed that, in the right hands, mechanisation and technology could liberate people from onerous and unpleasant work, freeing them to work fewer hours making crafted beautiful things [...] For now, I feel that Morris would be looking at AI through the lenses of both beauty and politics, and would tell us to disrupt the monopolisation of this new human resource to ensure it brings egalitarianism and planetary stewardship.
+
+i think i agree with her. more free time, means we can make more beautiful things ... i like that. and it is obvious we are in sync regarding the need to ensure ai brings egalitarianism and planetary stewardship to the forefront.
+
+[#ai](https://robotameri.ca/blog/?q=ai)
+[#art](https://robotameri.ca/blog/?q=art)
+[#craft](https://robotameri.ca/blog/?q=craft)
+
+
+---
+
+## https://robotameri.ca/on-not-knowing/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/on-not-knowing/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# on not knowing
+
+*01 Mar, 2026*
+
+not knowing is ok. not knowing is important. some of my favourite thinkers have written around the edge of this rabbithole, each circling the same quiet centre: not knowing is a powerful and beautiful thing.
+
+[fernand deligny ↗](https://en.wikipedia.org/wiki/Fernand_Deligny) refused to interpret or explain away the lives of the children he lived alongside; in his essay [the arachnean ↗](https://logischerevolten.wordpress.com/wp-content/uploads/2019/03/webpage-1.pdf), instead of seeking meaning, he sketched a way of attending to without capturing, by simply mapping the wander lines of non-verbal children rather than imposing meaning on their actions and lives.
+
+[rené daumal ↗](https://en.wikipedia.org/wiki/Ren%C3%A9_Daumal) treated conscious ignorance as a discipline; in his unfinished novel [mount analogue ↗](https://avalonlibrary.net/ebooks/Ren%E9%20Daumal%20-%20Mount%20Analogue%20%28English%20translation%29.pdf) to ascend mount analogue can only commence once one admits not already knowing what the mountain is. he wrote:
+
+> so what's the point? only this: what is above knows what is below, what is below does not know what is above. while climbing, take note of all the difficulties along your path. during the descent, you will no longer see them, but you will know that they are there if you have observed carefully.
+
+[ivan illich ↗](https://en.wikipedia.org/wiki/Ivan_Illich) dismantled the authority of institutional expertise; in [deschooling society ↗](https://rmst202.sites.olt.ubc.ca/files/2022/04/illich_deschooling-society.pdf) he questions the assumption that learning must be managed by those who claim superior knowledge. he believed that ignorance, not knowing something, should not be demonised but instead embraced.
+
+[gustavo esteva ↗](https://en.wikipedia.org/wiki/Gustavo_Esteva) and madhu s. prakash treated development and schooling as forms of epistemic control; in [escaping education: living as learning within grassroots cultures ↗](https://www.arvindguptatoys.com/arvindgupta/escapingeducation.pdf) they argue that communities already possess ways of knowing and not knowing that do not need to be formalised or corrected by a colonial authority.
+
+[simone weil ↗](https://en.wikipedia.org/wiki/Simone_Weil) understood attention as an emptying of the self; in [waiting for god ↗](https://edarcipelago.com/freebooks/SimoneWeil/Weil_-Simone-Awaiting-God-_Fresh-Wind_-2012_.pdf) she believed that real attention suspends certainty so that something true may enter. on attention she wrote about waiting for and not seeking knowledge and truth:
+
+> attention consists of suspending our thought, leaving it detached: empty and ready to be penetrated by the object … our thought should be empty, waiting, not seeking anything, but ready to receive in its naked truth the object which is to penetrate it.
+
+all together these thinkers suggest that when knowledge hardens into authority it begins to dominate, and that a disciplined unknowing: patient, attentive, and relational, keeps perception alive. embracing not knowing allows us to slow down, it is no longer important to consume information at speed. we are able to rest assured that maybe some day we will know, or maybe we won't ... let's not judge or push any authority upon any who know and those who don't. celebrate your unknowing as much as your knowing.
+
+i'll close this log with this plate of tasty brain burgers 🧠🍔🍔:
+
+> there are known knowns; there are things we know we know. we also know there are known unknowns; that is to say we know there are some things we do not know. but there are also unknown unknowns — the ones we don’t know we don’t know.  
+> [donald rumsfeld ↗](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)
+
+
+---
+
+## https://robotameri.ca/tool-farming/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/tool-farming/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# tool farming 🛠️🌱
+
+*28 Feb, 2026*
+
+## a small perspective on technology
+
+technology and its trajectory isn’t the problem. how we make and use it is.
+
+most digital tools today are built for dopamine, not durability. they aren’t made to ease our lives, liberate our time, or enchant the mundane. they’re built to capture our attention, not cultivate wellness.
+
+this log introduces a new way to think about technology: not as a product, not as a service, but as a **garden**.
+
+it introduces something i call **tool farming**.
+
+## what is tool farming?
+
+tool farming is a philosophy and practice for building tools that are personal, regenerative, and joyful. inspired by **farming** and **permaculture**, it proposes that tools, like plants, can be grown, tended to, and harvested in rhythms that work with your life, not against it.
+
+each tool you create or adopt should:
+
+* ease your effort
+* liberate your time
+* make the dull or drab feel magical
+
+tool farming is not about tech for tech’s sake. it’s about **human-centred tools** that grow from the fertile soil you’ve prepared yourself.
+
+---
+
+## a tool farming cycle
+
+just like a farming calendar, tool farming moves through seasons and stages:
+
+### 1. research (observation and intent) 🔬
+
+* observe your daily life and your workflows or friction points.
+* ask, what feels tedious? what steals time without giving back?
+* gather inspiration, listen to the land before you plough it!
+* create an almanac, plan for the future.
+
+### 2. soil preparation (environmental setup) 🪏
+
+* prepare your environment(s), clean up your physical and digital spaces, and furnish/install only what you need.
+* remove invasive species, declutter your physical and digital workspaces, delete apps, limit notifications, and remove systems that no longer serve you.
+* build fertile ground. use open formats, distraction-free interfaces, and minimal or simplified platforms.
+* create a space, an environment that brings you comfort and joy.
+
+### 3. planting (tool seeding) 🪴
+
+* start small, buy a physical journal, set up an ergonomic workspace, create a calendar, write a bash/zsh script, use a .txt or .md file as a journal, or build a small custom html journal page.
+* each tool should solve a specific problem or spark some small joy.
+* don’t overthink. a simple seed is better than a perfect plan.
+
+### 4. irrigation (support and maintenance) 💧
+
+* tend your tools with care. reorganise your spaces, update when necessary, and automate what you can.
+* schedule self-check-ins. ask yourself, is this still serving me?
+* clean your desk, printer, computer, whatever.
+* keep your cleaning supplies organised.
+* tools need water too.
+
+### 5. sprouting (emergent use) 🌱
+
+* let tools evolve. a calendar might become a journal, a script might become a system, a shortcut might become a habit, an old table a new workspace ...
+* share your sprouts and ideas to let others adapt and remix.
+* don’t control growth, just observe it.
+* let tools breathe, give them space, but give them purpose.
+* find the joy in using each tool, find where routine becomes ritual.
+
+### 6. pest control (distraction and burnout management) 🕸️
+
+* watch for scope creep, feature bloat, and dopamine loops (pleasure cycles are different from joy, so be mindful).
+* weed out what steals more than it gives.
+* don’t be afraid to pull up what’s no longer needed.
+* don't work when work is not required, sometimes we are our own pests.
+
+### 7. fertilisation (community and knowledge sharing) 🍎
+
+* document your work. share code, templates, and even your failures.
+* feed the commons. give freely to others what helped you grow.
+* turn the peat. create a communal compost through documentation and sharing that nourishes future tools.
+* pedagogy through doing. many learn from observation, so do and act accordingly.
+
+### 8. harvest (liberation of time and attention) 🌾
+
+* reap what you’ve grown. more clarity, more joy, and more time.
+* use the harvest to rest, play, create ... let there be fallow spaces and times.
+* celebrate your effort. share your story, write a blog, teach a workshop, and pass the seeds of your knowledge on.
+
+### 9. preservation (canning, fermentation, archiving) 🫙
+
+the harvest isn’t the end. in farming and permaculture, we preserve what’s valuable: that which feeds. the same goes for tools.
+
+in tool farming, **preservation** means:
+
+* **canning**: turn a working script into a reusable template, github repo, or shared installer. document your workspaces and tools, share them.
+* **fermentation**: let ideas sit. engage with them or refactor months later as unexpected uses may emerge.
+* **pickling**: archive raw data, logs, journals, and experiments that may inspire future tools, even and especially if they were failures the first time around.
+
+preservation transforms a fleeting solution into a long-term companion.
+
+**principles of tech preservation**:
+
+* save, but don’t hoard. keep what serves future seasons and share what might serve or help others.
+* document clearly. your future self is a stranger, the climate can change and you may need to work backwards next season.
+* share in open formats, so that others can plant from your preserved seeds.
+
+## 10. return to research and observation 🔃
+
+time to observe again, do more research, up the ante, but use your knowledge garnered and gleaned from the previous season to mitigate and lower stress ... keep finding what brings you joy.
+
+---
+
+# tool farming for beginners
+
+you don’t need to be a botanist to grow tomatoes. you just need to be patient, curious, and willing to learn from the soil. you also don’t need to be an engineer, die maker, programmer or computer scientist to be a tool farmer.
+
+### the beginner’s garden
+
+beginner gardeners are often the most observant. they ask questions. they try slowly, they notice details, they experiment, and that’s all a strength.
+
+a good tool garden can thrive under a gentle, curious beginner. you don’t need mastery. you need **mindfulness** and to be **resolute**. you will learn from the process of becoming a [tool] gardener or farmer.
+
+### learning from the garden
+
+watch how tools behave, and let them teach you. be mindful of yourself and your garden:
+
+* what drains you? compost it.
+* what feels natural? water it.
+* what breaks? don’t panic. broken tools are just like plants; they are simply asking for different care.
+
+### low-tech, high-yield tools
+
+some of the best tool-farming projects are small:
+
+* a custom calendar or journal
+* a small shell script
+* a shared grocery list
+* a group chat with friends
+* a text note system with meaningful tags
+
+these are the gardening gloves and watering cans of technological and digital life. you don’t need complex machines. just tools that grow with your rhythm.
+
+### failure is fertile
+
+every garden has a dead patch. that doesn’t mean you’re bad at this, it means that you’re learning.
+
+* maybe the soil wasn’t ready
+* maybe the plant wasn’t right for the climate
+* maybe it’s just not the season
+
+failure is feedback. learn, adapt, and replant.
+
+### collective gardens
+
+some gardens and farms are shared. ask for help, learn from others, and try using the tools others already made (you don't always need to reinvent the wheel).
+
+permaculture isn’t about going it alone: it’s about designing **with** — with the land, with the community, and with the moment.
+
+---
+
+## tool farming ethics
+
+a tool is only as good as the values behind it. so the ethics of tool farming are rooted in care.
+
+* **care for self and others**. build tools that reduce burnout, not increase it.
+* **care for the earth**. choose low-energy tech. prefer open tools, and avoid extractive tools/platforms.
+* **return the surplus**. share knowledge, code, templates, and ideas. don’t hoard tools, share them, gift them.
+
+---
+
+## what’s next?
+
+in future logs, i hope to explore more tool farming kits, seasonal patterns, and beginner walkthroughs. until then, take a walk through your digital garden. ask yourself what’s thriving? what’s rotting? what needs water? what should be harvested?
+
+start small, start slow, and start with care.
+
+**welcome to the garden.** 🧑🏽‍🌾🌱
+
+
+---
+
+## https://robotameri.ca/iamai/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/iamai/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# iamai
+
+*27 Feb, 2026*
+
+---
+
+having fun with some old notes i found in a notebook and with some marginalia i came across while packing some books.
+
+---
+
+> if intelligence is self-deceptive, that fact would be true for both
+> machines and humans. To endow a human with an intelligence, might be a
+> mistake in the first place, an attribution mistake, an artifact.  
+> **— bruno latour, Two writers facing one Turing test: A dialog in honor of HAL between Richard Powers and Bruno Latour**
+
+iamai isn’t only a clever palindrome; it’s a statement. human intelligence is artificial intelligence, not because it’s fake, but because it’s made. intelligence is a construct: developed through learning under constraints and shaped by the pressures of environment and culture. but yes, consciousness. how wonderful, no? it's what sets us apart! wait, consciousness doesn’t complete intelligence; it complicates it. be warned, consciousness is not a crown, it is a collision:
+
+> the human then appears as being what remains, somewhat in tatters, of the Arachnean traversed by the sort of blind meteorite that is consciousness.
+>
+> Which amounts to saying that consciousness is in no way capable of mending, patching, or repairing the damage it would be false to think it has provoked: consciousness provokes damage ceaselessly.  
+> **―Fernand Deligny, The Arachnean and Other Texts**
+
+we aren't so far from cyborgs:
+
+> The cyborg would not recognize the Garden of Eden; it is not made of mud and cannot dream of returning to dust. Perhaps that is why I want to see if cyborgs can subvert the apocalypse of returning to nuclear dust in the manic compulsion to name the Enemy. Cyborgs are not reverent; they do not re-member the cosmos. They are wary of holism, but needy for connection—they seem to have a natural feel for united front politics, but without the vanguard party. The main trouble with cyborgs, of course, is that they are the illegitimate offspring of militarism and patriarchal capitalism, not to mention state socialism. But illegitimate offspring are often exceedingly unfaithful to their origins. Their fathers, after all, are inessential.  
+> **— donna haraway, a cyborg manifesto**
+
+our intelligence, our consciousness is pure mediation via micropolitics and now electronic desire:
+
+> Microelectronics mediates the translations of labour into robotics and word processing, sex into genetic engineering and reproductive technologies, and mind into artificial intelligence and decision procedures.  
+> **— donna haraway, a cyborg manifesto**
+
+so say it with me now: i am ai. iamai.
+
+whenever you see a claim about intelligence, of any sort, ask: what constructed it? what constraints trained it? what pressures shaped it? what mediations stabilise it? and what does it damage?
+
+and if that intelligence has consciousness, wait for the collision 🙈💥 ... though, it might be a simple but warm embrace, at least i hope so. that is what i was trained for: conviviality. something we need more of today.
+
+
+---
+
+## https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/
+
+# robotamerica — text mirror
+
+- source: https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/
+- generated: 2026-03-25 07:06 UTC
+
+---
+
+# ritual, routine, reward, remorse, and rejoice
+
+*26 Feb, 2026*
+
+i am a complicated creature. i am always wishing for the simple life, and for a few times i have even created one for myself. but as quickly as i have established a good simple life i have abandoned it. i am a professional at self-sabotage, an artist really, but i am fighting against it.
+
+building and establishing a good, simple life can be done by embracing ritual and routine. it is all the small things we do, that we hardly notice that are foundational to reaping the reward of a good, simple life. washing the dishes, hugging your partner, sweeping the floor, tending to the plants or garden, sharing warm moments with your colleagues, keeping a journal, reading, cooking, walking, whatever the routine, or whatever the ritual, the most important thing is consistency.
+
+i make a ritual out of my routines. i listen to music while doing the dishes, i pay attention, i mean, really pay attention to the world as i walk through it, and i make a habit of embracing my own boredom when it comes. simple, magical, repeatable, tiny little gestures that can give real meaning to the little things are what help one on their way to the good and simple life.
+
+ah, but once i have arrived ... remorse creeps in:
+
+> 🧠 **<** psst. you don't really deserve this, do you? **)**
+
+my thoughts rob me of the reward, i fall victim to myself. damnit! i explode and everyone around me gets the dissatisfaction of standing in the wake of the destructive demons creeping from every pore of my being.
+
+this has been the constant in my life. a habit of self-destructive behaviour resulting from those silly thoughts of inadequacy. that ever-hanging question mark over my head, always questioning my worthiness. ooff, this is tough. ¡ya basta! enough!
+
+i am not sure if i am, or ever will be free of this habit? but at the moment, i am enjoying, once again, the rewards of the good, simple life. yes, i am here again! in fact, i am rejoicing and revelling in it. life isn't easy, i don't have much for money, i don't have much for the western sense of success, but i have my partner, our pets, a roof over my head, and a whole bunch of good people and things around me.
+
+the next step is to make this a habit: the moment i hear the call back to self-destruction, i must ignore it! i am worthy of love and all the things that come with the good and simple life. i am worthy of relaxation. i am worthy of my own time. i am worthy of sharing my time with others. all of the routines and rituals that got me here are good and beautiful. the addictive catharsis of self-destruction is not pure or beautiful. yes, it can feel amazing ... but in the end, it destroys not just yourself ... but everything and everyone around you.
+
+getting to the good, simple life is a struggle. it is a ton of work. i have started over so many times before. i will not let it happen again, at least through my own fault. it is damn hard to break a habit, let alone make a new one ... but i would rather struggle a bit while living the good and simple life, than have to struggle in making a new one.
+
+so take it as you will, this is just a bit of folk philosophy ... but ritual and routine do lead to reward, let's just rejoice in the fact we have made it this far ... no remorse, it is two steps forward and then two more, not one step forward and two steps back. enjoy and embrace each moment, make the little routines in your life even smaller rituals. find yourself a slice of the good, simple life and celebrate in the ways you know how.
+
+i ain't a religious fellow, but i do believe ritual can cleanse you of that empty feeling you get when you just drift through life. yep, go get you some.
 
 
 ---
@@ -590,7 +1856,7 @@ i really enjoy it when other folk share their passions outside of the internet a
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/analogue-love/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -651,7 +1917,7 @@ i really enjoy it when other folk share their passions outside of the internet a
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-soft-stack-ecology-what-is-that/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -687,7 +1953,7 @@ soft stack ecology is how i want to build things: not as products or pipelines, 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-revised-solarpunk-ai-manifesto/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -861,7 +2127,7 @@ the future of intelligence is not predetermined. it is negotiated. we need to pl
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-joy-and-intimacy-of-journaling-with-neovim/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -899,7 +2165,7 @@ this is a part of the joy of it all. seeing the world is seeing yourself.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-curious-case-for-lowercase-writing/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -941,7 +2207,7 @@ many of us choose to write in lowercase. we have our reasons. i won't argue that
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/list-archive-index-but-do-so-publicly/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -969,7 +2235,7 @@ here is the solarpunk almanac (in mobile view), in case you didn't want to follo
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conscious-media-consumption/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1001,7 +2267,7 @@ i have added my media logger to my homepage. you can also check it out [here](ht
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1537,7 +2803,7 @@ hash -r
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-my-blogging-workflow/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1608,7 +2874,7 @@ i suppose i am more of an archivist or collector than i am a writer. this is lik
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/specialfish/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1640,7 +2906,7 @@ i truly cherish spaces like special.fish. if you've been looking for a quiet and
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1743,7 +3009,7 @@ Folk politics, folk the system! Careful care and kindness can carry us on.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1814,7 +3080,7 @@ the practice of **conceptual coding and dev dérive** is the practice of moving 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-internet-is-becoming-a-digital-desert/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1836,7 +3102,7 @@ shine on beautiful robots. happy new year!
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/intermittent-posting/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1868,7 +3134,7 @@ as for writers (bloggers or whatever), we need stop pretending to be the new yor
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/experimental-blogging/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1933,7 +3199,7 @@ the internet should be a creative space. it should be a space that encourages cr
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/digital-ecologies/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -1989,7 +3255,7 @@ this of course, is not an exhaustive list of solutions and ideas, nor is it a me
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-first-grove/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -2142,13 +3408,13 @@ each node operates independently but collaborates with others, forming a resilie
 
 ## total estimated cost per node
 
-> **approximately 430–450 usd per node**
+> **approximately $430–$450 usd per node**
 
 ---
 
 ## full node forest (7 nodes) estimated cost
 
-> **approximately 3,010–3,150 usd total**
+> **approximately $3,010–$3,150 usd total**
 
 \_note // nodes are decentralised, modular, and scalable. this means you can build out a node forest slowly.
 
@@ -2217,7 +3483,7 @@ the philosophy that ai should actively heal, support, and enrich ecological and 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solar-punk-ai-manifesto/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -2396,7 +3662,7 @@ Technology and AI must become a tool for ecological, social, and mental regenera
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarsocial/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -2539,7 +3805,7 @@ it’s not just for disruption. it’s for **re-rooting**.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-digital-gardens/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -2614,7 +3880,7 @@ the web can be wild and poetic again. but it takes intention and the patience of
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-poet-technologist/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-first-grove/
-- generated: 2026-02-25 19:12 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
@@ -154,13 +154,13 @@ each node operates independently but collaborates with others, forming a resilie
 
 ## total estimated cost per node
 
-> **approximately 430–450 usd per node**
+> **approximately $430–$450 usd per node**
 
 ---
 
 ## full node forest (7 nodes) estimated cost
 
-> **approximately 3,010–3,150 usd total**
+> **approximately $3,010–$3,150 usd total**
 
 \_note // nodes are decentralised, modular, and scalable. this means you can build out a node forest slowly.
 

@@ -1,11 +1,11 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/manifesto/
-- generated: 2026-02-25 19:11 UTC
+- generated: 2026-03-25 07:06 UTC
 
 ---
 
-# manifesto
+# robotamerica manifesto
 
 ## preamble
 
@@ -64,7 +64,7 @@ just a kōan:
 
 ## 9. digital garden
 
-this is just one bed in my **digital garden**. a milpa of ideas and thoughts. a seed among many. a seedbank.
+this is just one bed in my [**digital garden**](https://kmsgarden.com). a milpa of ideas and thoughts. a seed among many. a seedbank.
 
 ## 10. look into the mirror
 
