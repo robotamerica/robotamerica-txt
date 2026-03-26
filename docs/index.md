@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-03-25 07:06 UTC
+- generated: 2026-03-26 07:13 UTC
 
 ---
 
@@ -15,6 +15,7 @@
 - [analogue-love.md](pages/analogue-love.md) — https://robotameri.ca/analogue-love/
 
 ## posts
+- [rssprint-re-i-print-my-websites.md](posts/rssprint-re-i-print-my-websites.md) — https://robotameri.ca/rssprint-re-i-print-my-websites/
 - [my-work-based-toolkit.md](posts/my-work-based-toolkit.md) — https://robotameri.ca/my-work-based-toolkit/
 - [robotamerica-abridged.md](posts/robotamerica-abridged.md) — https://robotameri.ca/robotamerica-abridged/
 - [why-lists-well-why-not.md](posts/why-lists-well-why-not.md) — https://robotameri.ca/why-lists-well-why-not/

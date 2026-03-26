@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solar-punk-ai-manifesto/
-- generated: 2026-03-25 07:06 UTC
+- generated: 2026-03-26 07:14 UTC
 
 ---
 

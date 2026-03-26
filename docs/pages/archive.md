@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-03-25 07:06 UTC
+- generated: 2026-03-26 07:13 UTC
 
 ---
 
 # archive
 
+* *25 Mar, 2026*
+  [rssprint [re: i print my websites ...]](https://robotameri.ca/rssprint-re-i-print-my-websites/)
 * *24 Mar, 2026*
   [my work-based toolkit 🧰](https://robotameri.ca/my-work-based-toolkit/)
 * *24 Mar, 2026*
