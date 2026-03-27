@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-03-26 07:13 UTC
+- generated: 2026-03-27 07:12 UTC
 
 ---
 
+* *26 Mar, 2026*
+  [be critical, have fun, don't cry ;)](https://robotameri.ca/new-post/)
 * *25 Mar, 2026*
   [rssprint [re: i print my websites ...]](https://robotameri.ca/rssprint-re-i-print-my-websites/)
 * *24 Mar, 2026*
