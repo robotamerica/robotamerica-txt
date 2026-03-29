@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-03-28 07:02 UTC
+- generated: 2026-03-29 07:08 UTC
 
 ---
 
 # archive
 
+* *28 Mar, 2026*
+  [tired body, tired mind](https://robotameri.ca/tired-body-tired-mind/)
 * *26 Mar, 2026*
   [be critical, have fun, don't cry ;)](https://robotameri.ca/new-post/)
 * *25 Mar, 2026*

@@ -2,19 +2,21 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-03-28 07:02 UTC
+- generated: 2026-03-29 07:08 UTC
 
 ---
 
 ## pages
 - [blog.md](pages/blog.md) — https://robotameri.ca/blog/
 - [archive.md](pages/archive.md) — https://robotameri.ca/archive/
-- [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
+- [about.md](pages/about.md) — https://robotameri.ca/about/
 - [links.md](pages/links.md) — https://robotameri.ca/links/
 - [tools.md](pages/tools.md) — https://robotameri.ca/tools/
 - [analogue-love.md](pages/analogue-love.md) — https://robotameri.ca/analogue-love/
+- [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [tired-body-tired-mind.md](posts/tired-body-tired-mind.md) — https://robotameri.ca/tired-body-tired-mind/
 - [new-post.md](posts/new-post.md) — https://robotameri.ca/new-post/
 - [rssprint-re-i-print-my-websites.md](posts/rssprint-re-i-print-my-websites.md) — https://robotameri.ca/rssprint-re-i-print-my-websites/
 - [my-work-based-toolkit.md](posts/my-work-based-toolkit.md) — https://robotameri.ca/my-work-based-toolkit/
