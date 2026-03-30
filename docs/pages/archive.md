@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-03-29 07:08 UTC
+- generated: 2026-03-30 07:46 UTC
 
 ---
 
 # archive
 
+* *29 Mar, 2026*
+  [busy week, short list](https://robotameri.ca/busy-week-short-list/)
 * *28 Mar, 2026*
   [tired body, tired mind](https://robotameri.ca/tired-body-tired-mind/)
 * *26 Mar, 2026*
