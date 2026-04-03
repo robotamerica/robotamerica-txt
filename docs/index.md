@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-02 07:17 UTC
+- generated: 2026-04-03 07:14 UTC
 
 ---
 
@@ -16,6 +16,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [robobestiary.md](posts/robobestiary.md) — https://robotameri.ca/robobestiary/
 - [no-digital-masters-no-digital-gods.md](posts/no-digital-masters-no-digital-gods.md) — https://robotameri.ca/no-digital-masters-no-digital-gods/
 - [busy-week-short-list.md](posts/busy-week-short-list.md) — https://robotameri.ca/busy-week-short-list/
 - [tired-body-tired-mind.md](posts/tired-body-tired-mind.md) — https://robotameri.ca/tired-body-tired-mind/
