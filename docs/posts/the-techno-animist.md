@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-techno-animist/
-- generated: 2026-04-04 07:05 UTC
+- generated: 2026-04-05 07:11 UTC
 
 ---
 

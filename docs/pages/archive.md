@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-04-04 07:04 UTC
+- generated: 2026-04-05 07:11 UTC
 
 ---
 
 # archive
 
+* *04 Apr, 2026*
+  [solarpunkifying our home](https://robotameri.ca/solarpunkifying-our-home/)
 * *02 Apr, 2026*
   [robobestiary](https://robotameri.ca/robobestiary/)
 * *01 Apr, 2026*
