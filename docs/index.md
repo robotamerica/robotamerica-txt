@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-07 07:22 UTC
+- generated: 2026-04-08 07:25 UTC
 
 ---
 
@@ -16,6 +16,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [internet-gibberish.md](posts/internet-gibberish.md) — https://robotameri.ca/internet-gibberish/
 - [50-logsposts-on-bear-blog.md](posts/50-logsposts-on-bear-blog.md) — https://robotameri.ca/50-logsposts-on-bear-blog/
 - [solarpunkifying-our-home.md](posts/solarpunkifying-our-home.md) — https://robotameri.ca/solarpunkifying-our-home/
 - [robobestiary.md](posts/robobestiary.md) — https://robotameri.ca/robobestiary/
