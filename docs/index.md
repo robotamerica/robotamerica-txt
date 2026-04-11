@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-10 07:46 UTC
+- generated: 2026-04-11 07:04 UTC
 
 ---
 
@@ -13,9 +13,11 @@
 - [links.md](pages/links.md) — https://robotameri.ca/links/
 - [tools.md](pages/tools.md) — https://robotameri.ca/tools/
 - [analogue-love.md](pages/analogue-love.md) — https://robotameri.ca/analogue-love/
+- [guestbook.md](pages/guestbook.md) — https://robotameri.ca/guestbook/
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [new-things-i-dont-really-want.md](posts/new-things-i-dont-really-want.md) — https://robotameri.ca/new-things-i-dont-really-want/
 - [morning-treats.md](posts/morning-treats.md) — https://robotameri.ca/morning-treats/
 - [internet-gibberish.md](posts/internet-gibberish.md) — https://robotameri.ca/internet-gibberish/
 - [50-logsposts-on-bear-blog.md](posts/50-logsposts-on-bear-blog.md) — https://robotameri.ca/50-logsposts-on-bear-blog/

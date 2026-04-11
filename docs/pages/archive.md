@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-04-10 07:46 UTC
+- generated: 2026-04-11 07:04 UTC
 
 ---
 
 # archive
 
+* *10 Apr, 2026*
+  [new things i don't really want](https://robotameri.ca/new-things-i-dont-really-want/)
 * *08 Apr, 2026*
   [morning treats](https://robotameri.ca/morning-treats/)
 * *08 Apr, 2026*
