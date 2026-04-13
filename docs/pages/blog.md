@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-12 07:18 UTC
+- generated: 2026-04-13 08:09 UTC
 
 ---
 
+* *12 Apr, 2026*
+  [~putter mode](https://robotameri.ca/putter-mode/)
 * *10 Apr, 2026*
   [new things i don't really want](https://robotameri.ca/new-things-i-dont-really-want/)
 * *08 Apr, 2026*

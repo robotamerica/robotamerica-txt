@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tools/
-- generated: 2026-04-12 07:18 UTC
+- generated: 2026-04-13 08:09 UTC
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-i operate a **three-node system** with clear roles, boundaries, and strengths. each machine/tool does what it’s best at, and i resist the temptation to make either one do everything.
+i operate a **three-node system** with clear roles, boundaries, and strengths. each machine/tool does what it’s best at, and i resist the temptation to make any one do everything.
 
 this isn’t about specs for their own sake. it’s about **continuity, control, and care**.
 
@@ -183,18 +183,18 @@ this phone isn’t a distraction slab. it’s a **portable interface** into my s
 
 ### hardware
 
-* **model:** honor rmo-nx3
-* **processor:** qualcomm snapdragon 695
-* **ram:** 8 gb + 5 gb (honor ram turbo)
-* **storage:** 256 gb
-* **resolution:** 2400 × 1080
+* **model:** pixel 8 pro
+* **processor:** google tensor g3
+* **ram:** 12 gb
+* **storage:** 128 gb / 256 gb / 512 gb / 1 tb
+* **resolution:** 2992 × 1344 (ltpo oled, 1–120 hz)
 * **battery posture:** all-day with disciplined use
 
 ### operating system
 
-* **android:** 13
-* **magicos:** 7.1
-* **kernel:** 5.4.x
+* **android:** 15
+* **ui:** pixel ui (stock android)
+* **kernel:** upstream android common kernel (6.1.x series)
 
 ### launcher & interface
 
@@ -216,9 +216,10 @@ this phone isn’t a distraction slab. it’s a **portable interface** into my s
   + `jq`
   + `htop`
   + `tree`
+  + `tgpt`
 * **writing:** markdown notes, quick edits, drafts
 * **ssh:** remote access into my arch box
-* **use case:** capture, patch, inspect, push — from anywhere
+* **use case:** capture, patch, inspect, push from anywhere
 
 ### writing & capture
 

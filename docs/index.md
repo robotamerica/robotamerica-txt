@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-12 07:18 UTC
+- generated: 2026-04-13 08:09 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [putter-mode.md](posts/putter-mode.md) — https://robotameri.ca/putter-mode/
 - [new-things-i-dont-really-want.md](posts/new-things-i-dont-really-want.md) — https://robotameri.ca/new-things-i-dont-really-want/
 - [morning-treats.md](posts/morning-treats.md) — https://robotameri.ca/morning-treats/
 - [internet-gibberish.md](posts/internet-gibberish.md) — https://robotameri.ca/internet-gibberish/
