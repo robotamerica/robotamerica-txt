@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-14 07:51 UTC
+- generated: 2026-04-15 07:52 UTC
 
 ---
 
+* *14 Apr, 2026*
+  [four meditations on slowness and speed for a time obsessed with speed](https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/)
 * *12 Apr, 2026*
   [~putter mode](https://robotameri.ca/putter-mode/)
 * *10 Apr, 2026*
