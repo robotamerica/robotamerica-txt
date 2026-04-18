@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-04-17 07:52 UTC
+- generated: 2026-04-18 07:13 UTC
 
 ---
 
 # archive
 
+* *17 Apr, 2026*
+  [busy bodies, being busybodies](https://robotameri.ca/busy-bodies-being-busybodies/)
 * *14 Apr, 2026*
   [four meditations on slowness and speed for a time obsessed with speed](https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/)
 * *12 Apr, 2026*
