@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-18 07:12 UTC
+- generated: 2026-04-19 07:23 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [toastless-test.md](posts/toastless-test.md) — https://robotameri.ca/toastless-test/
 - [busy-bodies-being-busybodies.md](posts/busy-bodies-being-busybodies.md) — https://robotameri.ca/busy-bodies-being-busybodies/
 - [four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed.md](posts/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed.md) — https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/
 - [putter-mode.md](posts/putter-mode.md) — https://robotameri.ca/putter-mode/
