@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tools/
-- generated: 2026-04-19 07:24 UTC
+- generated: 2026-04-20 08:13 UTC
 
 ---
 
@@ -9,9 +9,9 @@
 
 ---
 
-i operate a **three-node system** with clear roles, boundaries, and strengths. each machine/tool does what it’s best at, and i resist the temptation to make any one do everything.
+i operate a **three-node system** with clear roles, boundaries, and strengths. each machine/tool does what it’s best at, and i try to resist the temptation to make any one do everything.
 
-this isn’t about specs for their own sake. it’s about **continuity, control, and care**.
+these nodes each express **continuity, control, and care**.
 
 ---
 
@@ -179,7 +179,7 @@ it’s expressive, configurable, and sometimes a little wild (by design).
 
 **role:** pocket terminal · ambient computing · capture + continuity
 
-this phone isn’t a distraction slab. it’s a **portable interface** into my system — lightweight, always on me, and quietly powerful.
+this phone isn’t a distraction slab. it’s a **portable interface** into my system — lightweight, always on me, and tiny but powerful.
 
 ### hardware
 
@@ -250,4 +250,4 @@ it’s not here to replace my computers. instead, it’s here to **keep the syst
   → ambient access, capture, pocket-scale computing
 
 i’m not chasing “one perfect setup.”  
-instead i’m maintaining a **small, intentional computing ecology** where each node knows its role and does it well. flexibility is the overarching theme and productivity isn't a core goal; instead, it is the consequence of a flexible computing ecology that promotes and fuels freedom, mobility, and creativity.
+instead i’m maintaining a **small, intentional computing ecology** where each node has its role and does it well. flexibility is the overarching theme and productivity isn't a core goal; instead, it is the flexibility of this computing ecology that promotes and fuels freedom, mobility, and creativity.

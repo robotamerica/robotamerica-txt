@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-19 07:23 UTC
+- generated: 2026-04-20 08:13 UTC
 
 ---
 
@@ -17,6 +17,8 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [the-text-cursor-zoo.md](posts/the-text-cursor-zoo.md) — https://robotameri.ca/the-text-cursor-zoo/
+- [preparing-for-a-real-garden.md](posts/preparing-for-a-real-garden.md) — https://robotameri.ca/preparing-for-a-real-garden/
 - [toastless-test.md](posts/toastless-test.md) — https://robotameri.ca/toastless-test/
 - [busy-bodies-being-busybodies.md](posts/busy-bodies-being-busybodies.md) — https://robotameri.ca/busy-bodies-being-busybodies/
 - [four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed.md](posts/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed.md) — https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/

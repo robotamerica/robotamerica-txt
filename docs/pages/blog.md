@@ -1,10 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-19 07:23 UTC
+- generated: 2026-04-20 08:13 UTC
 
 ---
 
+* *20 Apr, 2026*
+  [the text cursor zoo ░](https://robotameri.ca/the-text-cursor-zoo/)
+* *19 Apr, 2026*
+  [preparing for a real garden 🌱](https://robotameri.ca/preparing-for-a-real-garden/)
 * *18 Apr, 2026*
   [toastless test](https://robotameri.ca/toastless-test/)
 * *17 Apr, 2026*
