@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-20 08:13 UTC
+- generated: 2026-04-21 07:56 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [organised-chaos.md](posts/organised-chaos.md) — https://robotameri.ca/organised-chaos/
 - [the-text-cursor-zoo.md](posts/the-text-cursor-zoo.md) — https://robotameri.ca/the-text-cursor-zoo/
 - [preparing-for-a-real-garden.md](posts/preparing-for-a-real-garden.md) — https://robotameri.ca/preparing-for-a-real-garden/
 - [toastless-test.md](posts/toastless-test.md) — https://robotameri.ca/toastless-test/
