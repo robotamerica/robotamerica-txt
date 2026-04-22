@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-21 07:56 UTC
+- generated: 2026-04-22 07:53 UTC
 
 ---
 
+* *21 Apr, 2026*
+  [routine and place](https://robotameri.ca/routine-and-place/)
 * *20 Apr, 2026*
   [organised chaos](https://robotameri.ca/organised-chaos/)
 * *20 Apr, 2026*
