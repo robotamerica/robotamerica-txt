@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-22 07:53 UTC
+- generated: 2026-04-23 07:59 UTC
 
 ---
 
+* *22 Apr, 2026*
+  [a jot ecology](https://robotameri.ca/a-jot-ecology/)
 * *21 Apr, 2026*
   [routine and place](https://robotameri.ca/routine-and-place/)
 * *20 Apr, 2026*
