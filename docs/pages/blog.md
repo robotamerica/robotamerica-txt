@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-23 07:59 UTC
+- generated: 2026-04-24 08:08 UTC
 
 ---
 
+* *23 Apr, 2026*
+  [the poetics of everyday life](https://robotameri.ca/the-poetics-of-everyday-life/)
 * *22 Apr, 2026*
   [a jot ecology](https://robotameri.ca/a-jot-ecology/)
 * *21 Apr, 2026*
