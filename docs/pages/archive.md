@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-04-24 08:08 UTC
+- generated: 2026-04-25 07:21 UTC
 
 ---
 
 # archive
 
+* *24 Apr, 2026*
+  [springtime feels](https://robotameri.ca/springtime-feels/)
 * *23 Apr, 2026*
   [the poetics of everyday life](https://robotameri.ca/the-poetics-of-everyday-life/)
 * *22 Apr, 2026*
