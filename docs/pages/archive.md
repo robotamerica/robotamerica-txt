@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-04-26 07:44 UTC
+- generated: 2026-04-27 08:30 UTC
 
 ---
 
 # archive
 
+* *26 Apr, 2026*
+  [vibing on the open web](https://robotameri.ca/vibing-on-the-open-web/)
 * *24 Apr, 2026*
   [springtime feels](https://robotameri.ca/springtime-feels/)
 * *23 Apr, 2026*

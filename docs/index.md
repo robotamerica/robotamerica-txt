@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-26 07:44 UTC
+- generated: 2026-04-27 08:30 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [vibing-on-the-open-web.md](posts/vibing-on-the-open-web.md) — https://robotameri.ca/vibing-on-the-open-web/
 - [springtime-feels.md](posts/springtime-feels.md) — https://robotameri.ca/springtime-feels/
 - [the-poetics-of-everyday-life.md](posts/the-poetics-of-everyday-life.md) — https://robotameri.ca/the-poetics-of-everyday-life/
 - [a-jot-ecology.md](posts/a-jot-ecology.md) — https://robotameri.ca/a-jot-ecology/
