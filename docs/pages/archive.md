@@ -1,12 +1,16 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-04-27 08:30 UTC
+- generated: 2026-04-28 08:29 UTC
 
 ---
 
 # archive
 
+* *27 Apr, 2026*
+  [re: thoughts on minimalism [by pinewind 🌲💨]](https://robotameri.ca/re-thoughts-on-minimalism-by-pinewind/)
+* *27 Apr, 2026*
+  [whoami: a mostly unfancy bio](https://robotameri.ca/whoami-a-mostly-unfancy-bio/)
 * *26 Apr, 2026*
   [vibing on the open web](https://robotameri.ca/vibing-on-the-open-web/)
 * *24 Apr, 2026*
