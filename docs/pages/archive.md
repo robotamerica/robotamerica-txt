@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-04-28 08:29 UTC
+- generated: 2026-04-29 08:23 UTC
 
 ---
 
 # archive
 
+* *28 Apr, 2026*
+  [my colour scheme](https://robotameri.ca/my-colour-scheme/)
 * *27 Apr, 2026*
   [re: thoughts on minimalism [by pinewind 🌲💨]](https://robotameri.ca/re-thoughts-on-minimalism-by-pinewind/)
 * *27 Apr, 2026*

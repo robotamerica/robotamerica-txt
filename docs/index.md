@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-04-28 08:29 UTC
+- generated: 2026-04-29 08:23 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [my-colour-scheme.md](posts/my-colour-scheme.md) — https://robotameri.ca/my-colour-scheme/
 - [re-thoughts-on-minimalism-by-pinewind.md](posts/re-thoughts-on-minimalism-by-pinewind.md) — https://robotameri.ca/re-thoughts-on-minimalism-by-pinewind/
 - [whoami-a-mostly-unfancy-bio.md](posts/whoami-a-mostly-unfancy-bio.md) — https://robotameri.ca/whoami-a-mostly-unfancy-bio/
 - [vibing-on-the-open-web.md](posts/vibing-on-the-open-web.md) — https://robotameri.ca/vibing-on-the-open-web/
