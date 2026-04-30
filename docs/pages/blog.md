@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-29 08:23 UTC
+- generated: 2026-04-30 08:25 UTC
 
 ---
 
+* *29 Apr, 2026*
+  [what is robotamerica?](https://robotameri.ca/what-is-robotamerica/)
 * *28 Apr, 2026*
   [my colour scheme](https://robotameri.ca/my-colour-scheme/)
 * *27 Apr, 2026*
