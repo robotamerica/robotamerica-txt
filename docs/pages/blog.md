@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-04-30 08:25 UTC
+- generated: 2026-05-01 08:15 UTC
 
 ---
 
+* *30 Apr, 2026*
+  [a month of poetry](https://robotameri.ca/a-month-of-poetry/)
 * *29 Apr, 2026*
   [what is robotamerica?](https://robotameri.ca/what-is-robotamerica/)
 * *28 Apr, 2026*

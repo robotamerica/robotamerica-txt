@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/
-- generated: 2026-04-30 08:26 UTC
+- generated: 2026-05-01 08:16 UTC
 
 ---
 
