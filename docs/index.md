@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-05-01 08:15 UTC
+- generated: 2026-05-02 07:48 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [may-day-and-thinking-about-water.md](posts/may-day-and-thinking-about-water.md) — https://robotameri.ca/may-day-and-thinking-about-water/
 - [a-month-of-poetry.md](posts/a-month-of-poetry.md) — https://robotameri.ca/a-month-of-poetry/
 - [what-is-robotamerica.md](posts/what-is-robotamerica.md) — https://robotameri.ca/what-is-robotamerica/
 - [my-colour-scheme.md](posts/my-colour-scheme.md) — https://robotameri.ca/my-colour-scheme/

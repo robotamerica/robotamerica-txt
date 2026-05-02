@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-05-01 08:15 UTC
+- generated: 2026-05-02 07:48 UTC
 
 ---
 
 # archive
 
+* *01 May, 2026*
+  [may day and thinking about water](https://robotameri.ca/may-day-and-thinking-about-water/)
 * *30 Apr, 2026*
   [a month of poetry](https://robotameri.ca/a-month-of-poetry/)
 * *29 Apr, 2026*
