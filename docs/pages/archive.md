@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-05-03 08:04 UTC
+- generated: 2026-05-04 08:33 UTC
 
 ---
 
 # archive
 
+* *03 May, 2026*
+  [care as outlaw behaviour](https://robotameri.ca/care-as-outlaw-behaviour/)
 * *01 May, 2026*
   [may day and thinking about water](https://robotameri.ca/may-day-and-thinking-about-water/)
 * *30 Apr, 2026*
