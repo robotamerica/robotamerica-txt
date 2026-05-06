@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-05-05 08:14 UTC
+- generated: 2026-05-06 08:30 UTC
 
 ---
 
 # archive
 
+* *05 May, 2026*
+  [exercises in living](https://robotameri.ca/exercises-in-living/)
 * *03 May, 2026*
   [care as outlaw behaviour](https://robotameri.ca/care-as-outlaw-behaviour/)
 * *01 May, 2026*
