@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-05-08 07:45 UTC
+- generated: 2026-05-09 07:59 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [music.md](posts/music.md) — https://robotameri.ca/music/
 - [cheese.md](posts/cheese.md) — https://robotameri.ca/cheese/
 - [exercises-in-living.md](posts/exercises-in-living.md) — https://robotameri.ca/exercises-in-living/
 - [care-as-outlaw-behaviour.md](posts/care-as-outlaw-behaviour.md) — https://robotameri.ca/care-as-outlaw-behaviour/
