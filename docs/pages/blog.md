@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-05-12 08:43 UTC
+- generated: 2026-05-13 08:47 UTC
 
 ---
 
+* *12 May, 2026*
+  [a little slop for thought](https://robotameri.ca/a-little-slop-for-thought/)
 * *10 May, 2026*
   [snapping photos 📷](https://robotameri.ca/snapping-photos/)
 * *09 May, 2026*

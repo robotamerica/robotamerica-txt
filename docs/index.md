@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-05-12 08:43 UTC
+- generated: 2026-05-13 08:47 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [a-little-slop-for-thought.md](posts/a-little-slop-for-thought.md) — https://robotameri.ca/a-little-slop-for-thought/
 - [snapping-photos.md](posts/snapping-photos.md) — https://robotameri.ca/snapping-photos/
 - [el-sabado-feedo-reado.md](posts/el-sabado-feedo-reado.md) — https://robotameri.ca/el-sabado-feedo-reado/
 - [music.md](posts/music.md) — https://robotameri.ca/music/
