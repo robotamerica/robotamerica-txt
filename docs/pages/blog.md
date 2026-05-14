@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-05-13 08:47 UTC
+- generated: 2026-05-14 08:40 UTC
 
 ---
 
+* *13 May, 2026*
+  [standard weekly meals](https://robotameri.ca/standard-weekly-meals/)
 * *12 May, 2026*
   [a little slop for thought](https://robotameri.ca/a-little-slop-for-thought/)
 * *10 May, 2026*
