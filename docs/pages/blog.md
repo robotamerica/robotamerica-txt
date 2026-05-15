@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-05-14 08:40 UTC
+- generated: 2026-05-15 08:52 UTC
 
 ---
 
+* *14 May, 2026*
+  [snack the planet!](https://robotameri.ca/snack-the-planet/)
 * *13 May, 2026*
   [standard weekly meals](https://robotameri.ca/standard-weekly-meals/)
 * *12 May, 2026*
