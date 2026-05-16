@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-05-15 08:52 UTC
+- generated: 2026-05-16 08:07 UTC
 
 ---
 
+* *15 May, 2026*
+  [the cicada hunter](https://robotameri.ca/the-cicada-hunter/)
 * *14 May, 2026*
   [snack the planet!](https://robotameri.ca/snack-the-planet/)
 * *13 May, 2026*
