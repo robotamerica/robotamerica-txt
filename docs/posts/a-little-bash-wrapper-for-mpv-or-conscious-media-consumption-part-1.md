@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/
-- generated: 2026-05-20 09:39 UTC
+- generated: 2026-05-21 09:47 UTC
 
 ---
 
