@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-revised-solarpunk-ai-manifesto/
-- generated: 2026-05-21 09:47 UTC
+- generated: 2026-05-22 09:31 UTC
 
 ---
 
