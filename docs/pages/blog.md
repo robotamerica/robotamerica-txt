@@ -1,10 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-05-22 09:30 UTC
+- generated: 2026-05-23 08:22 UTC
 
 ---
 
+* *22 May, 2026*
+  [ick-mode](https://robotameri.ca/ick-mode/)
+* *22 May, 2026*
+  [rain rain rain ⛈️](https://robotameri.ca/rain-rain-rain/)
 * *17 May, 2026*
   [antigallery](https://robotameri.ca/antigallery/)
 * *15 May, 2026*

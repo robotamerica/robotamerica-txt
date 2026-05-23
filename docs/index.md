@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-05-22 09:30 UTC
+- generated: 2026-05-23 08:22 UTC
 
 ---
 
@@ -17,6 +17,8 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [ick-mode.md](posts/ick-mode.md) — https://robotameri.ca/ick-mode/
+- [rain-rain-rain.md](posts/rain-rain-rain.md) — https://robotameri.ca/rain-rain-rain/
 - [antigallery.md](posts/antigallery.md) — https://robotameri.ca/antigallery/
 - [the-cicada-hunter.md](posts/the-cicada-hunter.md) — https://robotameri.ca/the-cicada-hunter/
 - [snack-the-planet.md](posts/snack-the-planet.md) — https://robotameri.ca/snack-the-planet/
