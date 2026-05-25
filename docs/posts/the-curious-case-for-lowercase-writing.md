@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-curious-case-for-lowercase-writing/
-- generated: 2026-05-24 08:33 UTC
+- generated: 2026-05-25 10:13 UTC
 
 ---
 
