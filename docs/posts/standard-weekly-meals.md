@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/standard-weekly-meals/
-- generated: 2026-05-25 10:13 UTC
+- generated: 2026-05-26 10:00 UTC
 
 ---
 
