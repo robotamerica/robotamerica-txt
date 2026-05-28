@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-soft-stack-ecology-what-is-that/
-- generated: 2026-05-27 10:00 UTC
+- generated: 2026-05-28 10:07 UTC
 
 ---
 
