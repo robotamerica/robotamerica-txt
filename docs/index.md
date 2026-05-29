@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-05-28 10:06 UTC
+- generated: 2026-05-29 09:57 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [crickets.md](posts/crickets.md) — https://robotameri.ca/crickets/
 - [happy-tired.md](posts/happy-tired.md) — https://robotameri.ca/happy-tired/
 - [ick-mode.md](posts/ick-mode.md) — https://robotameri.ca/ick-mode/
 - [rain-rain-rain.md](posts/rain-rain-rain.md) — https://robotameri.ca/rain-rain-rain/

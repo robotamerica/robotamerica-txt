@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-05-28 10:07 UTC
+- generated: 2026-05-29 09:57 UTC
 
 ---
 
 # archive
 
+* *28 May, 2026*
+  [crickets](https://robotameri.ca/crickets/)
 * *27 May, 2026*
   [happy tired](https://robotameri.ca/happy-tired/)
 * *22 May, 2026*
