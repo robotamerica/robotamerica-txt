@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-06-01 11:40 UTC
+- generated: 2026-06-02 10:40 UTC
 
 ---
 
+* *01 Jun, 2026*
+  [the economy of indifference](https://robotameri.ca/the-economy-of-indifference/)
 * *28 May, 2026*
   [crickets](https://robotameri.ca/crickets/)
 * *27 May, 2026*
