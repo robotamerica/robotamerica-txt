@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-06-02 10:40 UTC
+- generated: 2026-06-03 11:03 UTC
 
 ---
 
+* *02 Jun, 2026*
+  [a dog under the bed](https://robotameri.ca/a-dog-under-the-bed/)
 * *01 Jun, 2026*
   [the economy of indifference](https://robotameri.ca/the-economy-of-indifference/)
 * *28 May, 2026*
