@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-06-03 11:03 UTC
+- generated: 2026-06-04 09:59 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [quick-and-non-fickle-pickles.md](posts/quick-and-non-fickle-pickles.md) — https://robotameri.ca/quick-and-non-fickle-pickles/
 - [a-dog-under-the-bed.md](posts/a-dog-under-the-bed.md) — https://robotameri.ca/a-dog-under-the-bed/
 - [the-economy-of-indifference.md](posts/the-economy-of-indifference.md) — https://robotameri.ca/the-economy-of-indifference/
 - [crickets.md](posts/crickets.md) — https://robotameri.ca/crickets/
