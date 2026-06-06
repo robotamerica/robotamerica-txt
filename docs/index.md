@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-06-05 09:55 UTC
+- generated: 2026-06-06 08:36 UTC
 
 ---
 
@@ -17,6 +17,8 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [my-bear-blog-evolution.md](posts/my-bear-blog-evolution.md) — https://robotameri.ca/my-bear-blog-evolution/
+- [a-little-less-online-a-little-more-living.md](posts/a-little-less-online-a-little-more-living.md) — https://robotameri.ca/a-little-less-online-a-little-more-living/
 - [the-past-was-an-egg-we-lost-better-futures.md](posts/the-past-was-an-egg-we-lost-better-futures.md) — https://robotameri.ca/the-past-was-an-egg-we-lost-better-futures/
 - [quick-and-non-fickle-pickles.md](posts/quick-and-non-fickle-pickles.md) — https://robotameri.ca/quick-and-non-fickle-pickles/
 - [a-dog-under-the-bed.md](posts/a-dog-under-the-bed.md) — https://robotameri.ca/a-dog-under-the-bed/

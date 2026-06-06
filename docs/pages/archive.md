@@ -1,12 +1,16 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-06-05 09:55 UTC
+- generated: 2026-06-06 08:36 UTC
 
 ---
 
 # archive
 
+* *05 Jun, 2026*
+  [my bear blog evolution](https://robotameri.ca/my-bear-blog-evolution/)
+* *05 Jun, 2026*
+  [a little less online a little more living](https://robotameri.ca/a-little-less-online-a-little-more-living/)
 * *04 Jun, 2026*
   [the past was an egg, we lost better futures](https://robotameri.ca/the-past-was-an-egg-we-lost-better-futures/)
 * *03 Jun, 2026*
