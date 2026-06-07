@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-06-06 08:36 UTC
+- generated: 2026-06-07 09:16 UTC
 
 ---
 
+* *06 Jun, 2026*
+  [when waiting is more than waiting](https://robotameri.ca/when-waiting-is-more-than-waiting/)
 * *05 Jun, 2026*
   [my bear blog evolution](https://robotameri.ca/my-bear-blog-evolution/)
 * *05 Jun, 2026*
