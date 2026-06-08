@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-06-07 09:16 UTC
+- generated: 2026-06-08 11:01 UTC
 
 ---
 
+* *07 Jun, 2026*
+  [weekend blur](https://robotameri.ca/weekend-blur/)
 * *06 Jun, 2026*
   [when waiting is more than waiting](https://robotameri.ca/when-waiting-is-more-than-waiting/)
 * *05 Jun, 2026*
