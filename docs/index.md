@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-06-08 11:01 UTC
+- generated: 2026-06-09 09:50 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [the-creek-is-seasonal.md](posts/the-creek-is-seasonal.md) — https://robotameri.ca/the-creek-is-seasonal/
 - [weekend-blur.md](posts/weekend-blur.md) — https://robotameri.ca/weekend-blur/
 - [when-waiting-is-more-than-waiting.md](posts/when-waiting-is-more-than-waiting.md) — https://robotameri.ca/when-waiting-is-more-than-waiting/
 - [my-bear-blog-evolution.md](posts/my-bear-blog-evolution.md) — https://robotameri.ca/my-bear-blog-evolution/

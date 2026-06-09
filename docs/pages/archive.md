@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-06-08 11:01 UTC
+- generated: 2026-06-09 09:50 UTC
 
 ---
 
 # archive
 
+* *08 Jun, 2026*
+  [the creek is seasonal](https://robotameri.ca/the-creek-is-seasonal/)
 * *07 Jun, 2026*
   [weekend blur](https://robotameri.ca/weekend-blur/)
 * *06 Jun, 2026*
