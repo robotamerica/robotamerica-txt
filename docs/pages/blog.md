@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-06-09 09:50 UTC
+- generated: 2026-06-10 10:05 UTC
 
 ---
 
+* *09 Jun, 2026*
+  [sprouts](https://robotameri.ca/sprouts/)
 * *08 Jun, 2026*
   [the creek is seasonal](https://robotameri.ca/the-creek-is-seasonal/)
 * *07 Jun, 2026*

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/
-- generated: 2026-06-09 09:51 UTC
+- generated: 2026-06-10 10:06 UTC
 
 ---
 
