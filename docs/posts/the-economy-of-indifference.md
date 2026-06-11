@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-economy-of-indifference/
-- generated: 2026-06-10 10:05 UTC
+- generated: 2026-06-11 10:40 UTC
 
 ---
 
