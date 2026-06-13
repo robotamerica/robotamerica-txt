@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-06-12 10:17 UTC
+- generated: 2026-06-13 09:19 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [ebb-and-flow.md](posts/ebb-and-flow.md) — https://robotameri.ca/ebb-and-flow/
 - [leaks.md](posts/leaks.md) — https://robotameri.ca/leaks/
 - [sprouts.md](posts/sprouts.md) — https://robotameri.ca/sprouts/
 - [the-creek-is-seasonal.md](posts/the-creek-is-seasonal.md) — https://robotameri.ca/the-creek-is-seasonal/
