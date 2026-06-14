@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-06-13 09:19 UTC
+- generated: 2026-06-14 09:38 UTC
 
 ---
 
+* *13 Jun, 2026*
+  [do i miss cereal?](https://robotameri.ca/do-i-miss-cereal/)
 * *12 Jun, 2026*
   [ebb and flow](https://robotameri.ca/ebb-and-flow/)
 * *11 Jun, 2026*
