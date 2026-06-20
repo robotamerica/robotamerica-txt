@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-06-19 10:41 UTC
+- generated: 2026-06-20 09:19 UTC
 
 ---
 
+* *19 Jun, 2026*
+  [myth building in 100 posts 🤖💯](https://robotameri.ca/myth-building-in-100-posts/)
 * *13 Jun, 2026*
   [do i miss cereal?](https://robotameri.ca/do-i-miss-cereal/)
 * *12 Jun, 2026*
