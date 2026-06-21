@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/no-digital-masters-no-digital-gods/
-- generated: 2026-06-20 09:20 UTC
+- generated: 2026-06-21 09:53 UTC
 
 ---
 
