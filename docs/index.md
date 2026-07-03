@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-07-02 09:16 UTC
+- generated: 2026-07-03 09:21 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [little-tasks.md](posts/little-tasks.md) — https://robotameri.ca/little-tasks/
 - [myth-building-in-100-posts.md](posts/myth-building-in-100-posts.md) — https://robotameri.ca/myth-building-in-100-posts/
 - [do-i-miss-cereal.md](posts/do-i-miss-cereal.md) — https://robotameri.ca/do-i-miss-cereal/
 - [ebb-and-flow.md](posts/ebb-and-flow.md) — https://robotameri.ca/ebb-and-flow/
