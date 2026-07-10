@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-07-09 09:42 UTC
+- generated: 2026-07-10 09:38 UTC
 
 ---
 
 # archive
 
+* *09 Jul, 2026*
+  [quieter mornings, louder brain](https://robotameri.ca/quieter-mornings-louder-brain/)
 * *05 Jul, 2026*
   [uninspired photowalk inspiring changes](https://robotameri.ca/uninspired-photowalk-inspiring-changes/)
 * *02 Jul, 2026*
