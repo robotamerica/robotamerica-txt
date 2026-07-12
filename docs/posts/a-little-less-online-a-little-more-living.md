@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-less-online-a-little-more-living/
-- generated: 2026-07-11 07:59 UTC
+- generated: 2026-07-12 08:21 UTC
 
 ---
 
