@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-past-was-an-egg-we-lost-better-futures/
-- generated: 2026-07-16 08:17 UTC
+- generated: 2026-07-17 08:12 UTC
 
 ---
 

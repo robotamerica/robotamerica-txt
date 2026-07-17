@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-07-16 08:16 UTC
+- generated: 2026-07-17 08:12 UTC
 
 ---
 
 # archive
 
+* *16 Jul, 2026*
+  [cat catching birds](https://robotameri.ca/cat-catching-birds/)
 * *09 Jul, 2026*
   [quieter mornings, louder brain](https://robotameri.ca/quieter-mornings-louder-brain/)
 * *05 Jul, 2026*

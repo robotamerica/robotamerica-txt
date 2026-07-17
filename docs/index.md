@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-07-16 08:16 UTC
+- generated: 2026-07-17 08:12 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [cat-catching-birds.md](posts/cat-catching-birds.md) — https://robotameri.ca/cat-catching-birds/
 - [quieter-mornings-louder-brain.md](posts/quieter-mornings-louder-brain.md) — https://robotameri.ca/quieter-mornings-louder-brain/
 - [uninspired-photowalk-inspiring-changes.md](posts/uninspired-photowalk-inspiring-changes.md) — https://robotameri.ca/uninspired-photowalk-inspiring-changes/
 - [little-tasks.md](posts/little-tasks.md) — https://robotameri.ca/little-tasks/
