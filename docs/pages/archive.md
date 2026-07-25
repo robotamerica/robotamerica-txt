@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-07-24 08:29 UTC
+- generated: 2026-07-25 08:08 UTC
 
 ---
 
 # archive
 
+* *24 Jul, 2026*
+  [regressive transhumanism [or how the algorithms shape us]](https://robotameri.ca/regressive-transhumanism-or-how-the-algorithms-shape-us/)
 * *16 Jul, 2026*
   [cat catching birds](https://robotameri.ca/cat-catching-birds/)
 * *09 Jul, 2026*
