@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-07-27 09:55 UTC
+- generated: 2026-07-28 08:37 UTC
 
 ---
 
+* *27 Jul, 2026*
+  [just living over here](https://robotameri.ca/just-living-over-here/)
 * *24 Jul, 2026*
   [regressive transhumanism [or how the algorithms shape us]](https://robotameri.ca/regressive-transhumanism-or-how-the-algorithms-shape-us/)
 * *16 Jul, 2026*

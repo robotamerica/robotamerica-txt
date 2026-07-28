@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-07-27 09:55 UTC
+- generated: 2026-07-28 08:37 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [just-living-over-here.md](posts/just-living-over-here.md) — https://robotameri.ca/just-living-over-here/
 - [regressive-transhumanism-or-how-the-algorithms-shape-us.md](posts/regressive-transhumanism-or-how-the-algorithms-shape-us.md) — https://robotameri.ca/regressive-transhumanism-or-how-the-algorithms-shape-us/
 - [cat-catching-birds.md](posts/cat-catching-birds.md) — https://robotameri.ca/cat-catching-birds/
 - [quieter-mornings-louder-brain.md](posts/quieter-mornings-louder-brain.md) — https://robotameri.ca/quieter-mornings-louder-brain/
