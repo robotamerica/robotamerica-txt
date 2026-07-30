@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-07-29 08:43 UTC
+- generated: 2026-07-30 08:29 UTC
 
 ---
 
+* *29 Jul, 2026*
+  [a short reading list](https://robotameri.ca/a-short-reading-list/)
 * *27 Jul, 2026*
   [just living over here](https://robotameri.ca/just-living-over-here/)
 * *24 Jul, 2026*

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/
-- generated: 2026-07-29 08:43 UTC
+- generated: 2026-07-30 08:30 UTC
 
 ---
 
