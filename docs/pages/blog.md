@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-07-30 08:29 UTC
+- generated: 2026-07-31 08:52 UTC
 
 ---
 
+* *30 Jul, 2026*
+  [black snow](https://robotameri.ca/black-snow/)
 * *29 Jul, 2026*
   [a short reading list](https://robotameri.ca/a-short-reading-list/)
 * *27 Jul, 2026*
