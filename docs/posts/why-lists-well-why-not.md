@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/why-lists-well-why-not/
-- generated: 2026-07-31 08:52 UTC
+- generated: 2026-08-01 08:24 UTC
 
 ---
 
