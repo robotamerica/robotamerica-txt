@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-08-12 07:26 UTC
+- generated: 2026-08-13 07:37 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [just-an-update.md](posts/just-an-update.md) — https://robotameri.ca/just-an-update/
 - [black-snow.md](posts/black-snow.md) — https://robotameri.ca/black-snow/
 - [a-short-reading-list.md](posts/a-short-reading-list.md) — https://robotameri.ca/a-short-reading-list/
 - [just-living-over-here.md](posts/just-living-over-here.md) — https://robotameri.ca/just-living-over-here/
