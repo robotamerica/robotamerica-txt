@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-08-14 07:26 UTC
+- generated: 2026-08-15 06:40 UTC
 
 ---
 
@@ -17,6 +17,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [crickets-carry-a-lovely-sound.md](posts/crickets-carry-a-lovely-sound.md) — https://robotameri.ca/crickets-carry-a-lovely-sound/
 - [just-an-update.md](posts/just-an-update.md) — https://robotameri.ca/just-an-update/
 - [black-snow.md](posts/black-snow.md) — https://robotameri.ca/black-snow/
 - [a-short-reading-list.md](posts/a-short-reading-list.md) — https://robotameri.ca/a-short-reading-list/

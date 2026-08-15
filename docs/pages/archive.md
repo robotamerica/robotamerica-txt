@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-08-14 07:26 UTC
+- generated: 2026-08-15 06:40 UTC
 
 ---
 
 # archive
 
+* *14 Aug, 2026*
+  [crickets carry a lovely sound](https://robotameri.ca/crickets-carry-a-lovely-sound/)
 * *12 Aug, 2026*
   [just an update](https://robotameri.ca/just-an-update/)
 * *30 Jul, 2026*
