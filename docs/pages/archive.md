@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-08-19 06:46 UTC
+- generated: 2026-08-20 06:48 UTC
 
 ---
 
 # archive
 
+* *19 Aug, 2026*
+  [suddenly anxious causing clumsy moments](https://robotameri.ca/suddenly-anxious-causing-clumsy-moments/)
 * *14 Aug, 2026*
   [crickets carry a lovely sound](https://robotameri.ca/crickets-carry-a-lovely-sound/)
 * *12 Aug, 2026*
