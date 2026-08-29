@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/regressive-transhumanism-or-how-the-algorithms-shape-us/
-- generated: 2026-08-28 18:19 UTC
+- generated: 2026-08-29 12:27 UTC
 
 ---
 
