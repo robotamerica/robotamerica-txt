@@ -1,10 +1,12 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/blog/
-- generated: 2026-09-08 10:49 UTC
+- generated: 2026-09-09 10:55 UTC
 
 ---
 
+* *08 Sep, 2026*
+  [i can adh-do it!](https://robotameri.ca/i-can-adh-do-it/)
 * *19 Aug, 2026*
   [suddenly anxious causing clumsy moments](https://robotameri.ca/suddenly-anxious-causing-clumsy-moments/)
 * *14 Aug, 2026*
