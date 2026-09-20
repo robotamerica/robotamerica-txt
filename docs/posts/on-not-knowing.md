@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-not-knowing/
-- generated: 2026-09-19 10:30 UTC
+- generated: 2026-09-20 10:53 UTC
 
 ---
 
