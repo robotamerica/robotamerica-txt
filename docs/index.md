@@ -2,18 +2,14 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-09-29 12:21 UTC
+- generated: 2026-09-30 12:06 UTC
 
 ---
 
 ## pages
-- [blog.md](pages/blog.md) — https://robotameri.ca/blog/
 - [archive.md](pages/archive.md) — https://robotameri.ca/archive/
-- [about.md](pages/about.md) — https://robotameri.ca/about/
 - [links.md](pages/links.md) — https://robotameri.ca/links/
 - [tools.md](pages/tools.md) — https://robotameri.ca/tools/
-- [analogue-love.md](pages/analogue-love.md) — https://robotameri.ca/analogue-love/
-- [guestbook.md](pages/guestbook.md) — https://robotameri.ca/guestbook/
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
