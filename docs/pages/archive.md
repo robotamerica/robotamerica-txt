@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-09-30 12:06 UTC
+- generated: 2026-10-01 12:40 UTC
 
 ---
 
 # archive
 
+* *30 Sep, 2026*
+  [redesign to write](https://robotameri.ca/redesign-to-write/)
 * *08 Sep, 2026*
   [i can adh-do it!](https://robotameri.ca/i-can-adh-do-it/)
 * *19 Aug, 2026*

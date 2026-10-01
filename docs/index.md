@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-09-30 12:06 UTC
+- generated: 2026-10-01 12:40 UTC
 
 ---
 
@@ -13,6 +13,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [redesign-to-write.md](posts/redesign-to-write.md) — https://robotameri.ca/redesign-to-write/
 - [i-can-adh-do-it.md](posts/i-can-adh-do-it.md) — https://robotameri.ca/i-can-adh-do-it/
 - [suddenly-anxious-causing-clumsy-moments.md](posts/suddenly-anxious-causing-clumsy-moments.md) — https://robotameri.ca/suddenly-anxious-causing-clumsy-moments/
 - [crickets-carry-a-lovely-sound.md](posts/crickets-carry-a-lovely-sound.md) — https://robotameri.ca/crickets-carry-a-lovely-sound/
