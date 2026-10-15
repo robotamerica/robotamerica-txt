@@ -1,12 +1,14 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-10-14 11:24 UTC
+- generated: 2026-10-15 11:01 UTC
 
 ---
 
 # archive
 
+* *14 Oct, 2026*
+  [scrap language part one](https://robotameri.ca/scrap-language-part-one/)
 * *30 Sep, 2026*
   [redesign to write](https://robotameri.ca/redesign-to-write/)
 * *08 Sep, 2026*
