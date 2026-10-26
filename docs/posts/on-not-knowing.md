@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-not-knowing/
-- generated: 2026-10-25 10:57 UTC
+- generated: 2026-10-26 12:28 UTC
 
 ---
 
@@ -13,7 +13,7 @@ not knowing is ok. not knowing is important. some of my favourite thinkers have 
 
 [fernand deligny ↗](https://en.wikipedia.org/wiki/Fernand_Deligny) refused to interpret or explain away the lives of the children he lived alongside; in his essay [the arachnean ↗](https://logischerevolten.wordpress.com/wp-content/uploads/2019/03/webpage-1.pdf), instead of seeking meaning, he sketched a way of attending to without capturing, by simply mapping the wander lines of non-verbal children rather than imposing meaning on their actions and lives.
 
-[rené daumal ↗](https://en.wikipedia.org/wiki/Ren%C3%A9_Daumal) treated conscious ignorance as a discipline; in his unfinished novel [mount analogue ↗](https://avalonlibrary.net/ebooks/Ren%E9%20Daumal%20-%20Mount%20Analogue%20%28English%20translation%29.pdf) to ascend mount analogue can only commence once one admits not already knowing what the mountain is. he wrote:
+[rené daumal ↗](https://en.wikipedia.org/wiki/Ren%C3%A9_Daumal) treated conscious ignorance as a discipline; in his unfinished novel [mount analogue ↗](https://avalonlibrary.net/ebooks/Ren%E9%20Daumal%20-%20Mount%20Analogue%20(English%20translation).pdf) to ascend mount analogue can only commence once one admits not already knowing what the mountain is. he wrote:
 
 > so what's the point? only this: what is above knows what is below, what is below does not know what is above. while climbing, take note of all the difficulties along your path. during the descent, you will no longer see them, but you will know that they are there if you have observed carefully.
 

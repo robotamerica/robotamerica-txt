@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-short-reading-list/
-- generated: 2026-10-25 10:56 UTC
+- generated: 2026-10-26 12:27 UTC
 
 ---
 
