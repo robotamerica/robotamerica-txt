@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/links/
-- generated: 2026-10-28 12:19 UTC
+- generated: 2026-10-29 12:29 UTC
 
 ---
 
@@ -15,7 +15,7 @@
 * [the grove 🌳](https://404commons.com/)
 * [anarchive 🏴](https://anarchive.surge.sh)
 * [sp almanac 🌞](https://spalmanac.surge.sh)
-* [huewave 🌈](https://huewave.xyz)
+* [huewave 🌈](https://robotamerica.github.io/huewave)
 * [squiddd 🦑](https://squiddd.bearblog.dev)
 * [the office 💠](https://theoffice.bearblog.dev)
 * [special.fish 🐟](https://special.fish/leaf)
