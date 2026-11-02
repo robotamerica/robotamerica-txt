@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-digital-gardens/
-- generated: 2026-11-01 12:51 UTC
+- generated: 2026-11-02 15:02 UTC
 
 ---
 
