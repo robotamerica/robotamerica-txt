@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conscious-media-consumption/
-- generated: 2026-11-04 13:57 UTC
+- generated: 2026-11-05 14:14 UTC
 
 ---
 
