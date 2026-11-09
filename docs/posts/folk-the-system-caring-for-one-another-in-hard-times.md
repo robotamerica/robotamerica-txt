@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -95,3 +95,5 @@ It looks like choosing repair over replacement, patience over punishment, and pr
 These actions are not dramatic. That is their strength. Repeated over time, they become folkways. They become the quiet infrastructure that carries people through hard times and into better ones.
 
 Folk politics, folk the system! Careful care and kindness can carry us on.
+
+Toast this post

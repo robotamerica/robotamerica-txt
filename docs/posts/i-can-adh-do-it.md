@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/i-can-adh-do-it/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -18,3 +18,5 @@ whether it is laziness, information fatigue, decision fatigue, or television par
 but then i remind myself, [maybe adhd is the perfect anticaptialist condition?](https://www.opendemocracy.net/en/attention-deficit-disorder-anticapitalist/). maybe it is the perfect anarchist condition?
 
 %%green%%i can adh-do it, i can adh-smash the state!%%
+
+Toast this post

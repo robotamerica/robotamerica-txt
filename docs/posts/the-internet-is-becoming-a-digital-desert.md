@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-internet-is-becoming-a-digital-desert/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -14,3 +14,5 @@ homogeneity is the new normal. ai generated algorithms and slop rule supreme. ev
 new year resolution: keep it fun, keep making things, keep exploring ... online and off. damn the man, hack the planet: we shall only be free until the last capitalist is strung up by the entrails of the last tech bro!
 
 shine on beautiful robots. happy new year!
+
+Toast this post

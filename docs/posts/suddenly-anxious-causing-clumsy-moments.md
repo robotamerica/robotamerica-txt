@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/suddenly-anxious-causing-clumsy-moments/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -20,3 +20,5 @@ while i am spiraling, i am breaking things. it is strange to not feel in control
 i don't like this sudden appearance of anxiety in my life, but i am strangely happy to have this small struggle. it means that i get to focus on making changes. it is time to make some changes! changes mean growth, growth means living, and i hope to be a better friend, partner, and person as a result of this.
 
 my goal is to become less anxious and less clumsy. i am going to start a log book of clumsy moments so i can track them. it will also allow me to track my mental state during those moments. perhaps i will share some of it in the future, or at least share my progress. here is to overcoming this and keeping healthy.
+
+Toast this post

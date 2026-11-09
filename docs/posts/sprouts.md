@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/sprouts/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -16,3 +16,5 @@ our herb garden is sprouting. chives, basil, parsley, and leafy greens galore. o
 %%yellow%%but we are short on funds%%, so we have had to get creative by recycling materials, asking friends for help, and trying to budget smartly ... but that ain't easy. either way, we are excited to rebuild a life here. it all feels warm and cosy.
 
 this weekend is m.'s birthday, so we will feast and celebrate with friends. i will make m.'s favorite dish: mussels with leek in white wine and butter. i will also grill a ton of tasajo and veggies and make a few salsas. looking forward to it.
+
+Toast this post

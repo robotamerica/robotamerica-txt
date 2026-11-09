@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/html-poetics/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -33,3 +33,5 @@ at the moment i have [five html chapbooks](https://kmrowe.me/chapbooks.html). ea
 these are the first iterations of my html poems. one day, i hope to get as experimental and fancy as those over at [the html review](https://thehtml.review/about). but until then, i hope some folk enjoy what i have done. either way, the practice of creating them was fun for me. here is another robotamerica personality alongside one of my favourite chapbooks:
 
 the colour mirror chapbook
+
+Toast this post

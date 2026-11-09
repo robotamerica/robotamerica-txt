@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-short-reading-list/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -17,3 +17,5 @@ summer is typically my contemplative season. it is also the season where i usual
 4. %%orange%%marginlands: indian Landscapes on the brink — arati kumar-rao%%
 
 it is also pleasant that the tourists will be largely leaving oaxaca until the late fall and winter. this means i can read beneath my favourite tree in centro next to santo domingo in relative peace. i can read in my favorite cantinas without bother. ah, dreamy ready times ahead.
+
+Toast this post

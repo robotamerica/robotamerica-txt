@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-poet-technologist/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -27,3 +27,5 @@ before i do, i keep wondering if there are any other poet-technologists out ther
 [#poetry](https://robotameri.ca/blog/?q=poetry)
 [#technology](https://robotameri.ca/blog/?q=technology)
 [#writing](https://robotameri.ca/blog/?q=writing)
+
+Toast this post

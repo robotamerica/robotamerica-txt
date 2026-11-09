@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-craft/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -44,3 +44,5 @@ i keep printing, making, and crafting. this is craft practice, and it has value 
 [#william-morris](https://robotameri.ca/blog/?q=william-morris)
 [#writing](https://robotameri.ca/blog/?q=writing)
 [#zine](https://robotameri.ca/blog/?q=zine)
+
+Toast this post

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tired-body-tired-mind/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -18,3 +18,5 @@ we moved all our stuff into the new space. today we will unpack a little—thoug
 moving is exciting, but oh so tiring. not to mention super expensive ...
 
 📝 wrote this on our fancy satellite internet, i don't want to support dusky musky, but it was our only choice while living and working from here in our rural spot. we did apply for telmex to bring us some fiber optic, but that is months maybe years down the line. when that happens, we will happily switch.
+
+Toast this post

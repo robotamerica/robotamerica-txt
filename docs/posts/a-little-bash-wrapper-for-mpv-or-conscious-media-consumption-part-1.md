@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -528,3 +528,5 @@ hash -r
 * bandcamp search from cli: boom bc sahra
 * url/history launcher from cli: boom url
 * play direct from cli eg: boom play "https://www.youtube.com/watch?v=XXXXX"
+
+Toast this post

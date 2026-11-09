@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/i-made-a-digital-garden/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -45,3 +45,5 @@ this isn't about growing an audience. it's about having a place that's mine that
 does this all mean you shouldn't check it out? of course not, a digital garden is also about finding community. i hope to find other gardeners and friendly neighbours to share and network with. welcome to my garden, embracing the wonders of the slow web:
 
 go have a look [kmsgarden.com ⇲](https://kmsgarden.com)!
+
+Toast this post

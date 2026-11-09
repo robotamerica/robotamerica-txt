@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-dog-under-the-bed/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -16,3 +16,5 @@ it wasn't long after we adopted him, that we learned he was a bit of a houdini a
 the one thing that makes him a little unpredictable is his absolute fear and anxiety of fireworks (of which we have many here) and thunder (of which we also have plenty in the rainy season). any loud bang %%red%and he begins to get desperate for escape.%% once he escapes due to anxiety, he has been known to run for over 10km straight into the city (we live in rural). thankfully, this has only happened a few times and he has been found fairly quickly.
 
 lately though, he is craving his pack. we had a thunder storm last night, and he was scratching at our bedroom door. we let him in, and straight under the bed he went to pant and later snore the night away. %%purple%%we started giving him some anti-anxiety treats and some cbd lately%%. that has made him less prone to run, and it is nice he wants to be closer to us. but he has also become very dependent, so now we must work to build his independence, which is a whole other journey. either way, he is such a lovely and good dog.
+
+Toast this post

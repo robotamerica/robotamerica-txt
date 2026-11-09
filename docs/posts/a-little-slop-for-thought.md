@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-slop-for-thought/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -20,3 +20,5 @@ i am really trying to focus on thinking and writing about positive and productiv
 writing about ai, or against ai, rather, feels like sloppy dogmatism. this writing you are reading too. it is trite and boring. where is the paradigm shift? i hope it is in ecosophical and anticapitalist approaches to ai development and use. solarpunk ai. %%purple%%technology is not neutral%%, neither is mediocrity. be better, write better, have more fun with it. ai, no ai ... don't care, not an essential tool in life, has potential, blah blah blah.
 
 %%yellow%%but of generative ai on writing and art: yours sucks too, which is likely why it sucks at making it%%. soulless art and writing are the norm, not the exception. sure, let's celebrate the exception, where we find writing and art that purely expresses human creativity. but be honest, many of us are in the trenches in a war against our own mediocrity, stupidity, and dogmatism. which is why, to many, generative ai feels smart and creative even when it is based off the piles of garbage we created that it feeds off of. %%red%%its mediocrity is a mirror of our own%%. but as i've said before, fuck it: %%green%%be critical, have fun, don't cry ;)%%.
+
+Toast this post

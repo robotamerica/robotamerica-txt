@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/new-things-i-dont-really-want/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -18,3 +18,5 @@ i guess it will fit nicely with my silly little cyberdeck + yotaphone 3+ (epaper
 i just really want things that last. whether electronics, clothing, appliances, or household items, i do my best (within my means) to purchase things sustainably designed with longevity in mind. it is certainly getting harder. but it is doeable.
 
 i yearn for better products. but in this economy of waste, i will just have to make due with what i have, what i can save, and what i can scavenge, %%purple%%except where my hand is sadly forced%%.
+
+Toast this post

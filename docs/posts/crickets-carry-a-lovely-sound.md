@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/crickets-carry-a-lovely-sound/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -16,3 +16,5 @@ due to this relative silence, the night is an orchestra. croaking toads and frog
 on especially quiet nights, where all you can here is the breeze, i find it hard to sleep. i find myself missing the sound of the crickets. so i typically fill my ear holes with a boring podcast or something. but if there are crickets, they lull me straight to sleep.
 
 crickets are a sound i really enjoy. this is likely due to being born in the prairies. crickets were the soundtrack to my childhood. dang, they carry a lovely sound.
+
+Toast this post

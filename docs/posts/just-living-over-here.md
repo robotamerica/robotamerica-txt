@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/just-living-over-here/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -20,3 +20,5 @@ after the calenda, i went to a concert with a gringo brass band from san francis
 sunday, after a few hours of sleep, i went into the market to buy some veggies and bread. i returned home and made a lovely brunch of mussels in wine and butter. we ate and had some afternoon wine in the garden. we spent the evening watching a couple of campy horror films from peru and spain. i could barely keep my eyes open and ended up crashing just before 9. which is great, as i am well rested for a busy day at work.
 
 looking forward to a productive and fun week. depending on how they are doing in the first two games, we will likely go see the guerreros (our baseball team) on thursday which will be our first time in the new stadium. i took some time off next weekend: friday, monday, and tuesday so we can do some work on the house and around the garden.
+
+Toast this post

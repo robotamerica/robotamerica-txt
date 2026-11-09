@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/snack-the-planet/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -24,3 +24,5 @@ the entire conversation turned to food. we talked about food for nearly two hour
 i love cantinas, botaneros, and tapas bars for this reason. %%blue%%drinks, food, and music have a way of keeping you in the moment%%, %%green%%and when you are in that moment with others, well that is how community is made%%.
 
 so let's get out there: %%red%%snack the planet!%%
+
+Toast this post

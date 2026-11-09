@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-everyday-life/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -32,3 +32,5 @@ i am the centre and author of my dwelling:
 i don't know why i think in terms of poetics so often ... %%blue%%but there really is a poetics of everyday life%%, and %%green%%i think it is important to not only live with poetry%%, but to %%orange%%live poetically%%.
 
 %%purple%%poetry has its own speed and rhythms%%; it is %%blue%%slow and soft%%, %%yellow%%lightly%% %%red%%percussive%%. i have a proposition: %%orange%%let's live as poetically as possible, in our poetic little places%%. this means truly inhabiting our spaces, %%green%%inhabiting our own minds and bodies%%.
+
+Toast this post

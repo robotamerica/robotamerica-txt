@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-my-blogging-workflow/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -63,3 +63,5 @@ if i were to describe it simply:
 ideate / gather ➡ make notes ( digital / paper ) ➡ store ( nvim / dotmd + zettlemind ) ➡ revisit + reread / comb ➡ collage / write ➡ draft ➡ publish (maybe)
 
 i suppose i am more of an archivist or collector than i am a writer. this is likely why i am an [intermittent poster](https://robotameri.ca/intermittent-posting/). yeesh, it all might be a little weird this, after looking back at, but thanks again to robert for giving us such a fine space to get weird in 💚.
+
+Toast this post

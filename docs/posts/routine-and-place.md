@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/routine-and-place/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -23,3 +23,5 @@
 %%purple%%each place i've lived has had its own rhythm, its own routines, and here is no exception%%. i have lived in the city near here before, but the rhythm and associated routines were completely different. here, it is calm, but requires much more work, upkeep, and maintenance. the garden needs more than just water; it needs consistent care. we need to rely on neighbours and the community a little more, so even %%yellow%%daily communication has changed%%.
 
 Routines have changed due to our new geography, and this changes the way we interact with and see the world around us. new tasks, new rhythms, and new ways to treat and interact with the land. %%green%%it is a beautiful thing, the geography of routine, and it can teach us so many new things%%, %%yellow%%so long as we pay attention%%. and that is what i love about my new place, it forces me to pay attention. %%green%%i welcome these new rhythms%%.
+
+Toast this post

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/black-snow/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -16,3 +16,5 @@
 before we left to return to oaxaca, we were sitting in our garden with our neighbours drinking cañitas (a type of rum made from pure sugarcane) gossiping. even though we were high above the sugarcane fields, the winds carried the zafra to us. zafra is the ash resulting from the burning of the sugarcane in preparation of the harvest. it can be beautiful, falling like black snow. i miss the zafra. %%purple%%i miss the caña with neighbours and friends. soon they will visit us and i will play them some songs on the jarana, and we will drink mezcal instead%%. %%green%%as for the gossip, well i can't wait to hear it all!%%
 
 ---
+
+Toast this post

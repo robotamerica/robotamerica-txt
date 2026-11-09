@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -24,3 +24,5 @@
 > historical times slow down or speed up, advance or regress, look forward or backward. according to what criteria? according to representations and political decisions, but also according to the historian who puts them into perspective. objectively, for there to be change, a social group, a class or a caste must intervene by imprinting a rhythm on an era, be it through force or in an insinuating manner.
 >
 > %%purple%%henri lefebvre%%, %%green%%rhythmanalysis: space, time and everyday life%%
+
+Toast this post

@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 This is a machine-generated Markdown mirror of robotameri.ca.
 
@@ -16,7 +16,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -275,7 +275,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/links/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -305,7 +305,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tools/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -564,7 +564,7 @@ instead i’m maintaining a **small, intentional computing ecology** where each 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/manifesto/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -641,7 +641,7 @@ everything can be stripped down to the bare essentials. [here](https://robotamer
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/forty-four/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -665,7 +665,7 @@ while i have a shadowy and unknown future where i will never be able to retire, 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/scrap-language-part-2/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -689,6 +689,8 @@ or read this article on the [connective nightmare of the call center](https://ww
 
 i have no way to end my thoughts on scrap language for you (or me). i just want to us to all be better communicators, listeners, and better readers all while extinguishing any semblance of the fiery hell that is pr speak.
 
+Toast this post
+
 
 ---
 
@@ -697,7 +699,7 @@ i have no way to end my thoughts on scrap language for you (or me). i just want 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/scrap-language-part-one/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -731,7 +733,7 @@ i am not arguing for minimalism or any sort of that nonsense. i am celebrating s
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/redesign-to-write/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -743,6 +745,8 @@ sometimes, you need to redesign your space to inspire a bit more writing. so, i 
 
 just playing around really. perhaps it will help me write a bit more here on blog? or have i lost the spark? nah, i love bear, but just have much less time to invest here. wish i had all the time in the world, but other things to prioritize. from the state of my feedo feed, it would seem many others here are finding the same issue. let's try to write a bit more guys, i know we are all busy being and living. hopefully i can take my own advice here. otherwise, see you when i see you!
 
+Toast this post
+
 
 ---
 
@@ -751,7 +755,7 @@ just playing around really. perhaps it will help me write a bit more here on blo
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/i-can-adh-do-it/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -769,6 +773,8 @@ but then i remind myself, [maybe adhd is the perfect anticaptialist condition?](
 
 %%green%%i can adh-do it, i can adh-smash the state!%%
 
+Toast this post
+
 
 ---
 
@@ -777,7 +783,7 @@ but then i remind myself, [maybe adhd is the perfect anticaptialist condition?](
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/suddenly-anxious-causing-clumsy-moments/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -797,6 +803,8 @@ i don't like this sudden appearance of anxiety in my life, but i am strangely ha
 
 my goal is to become less anxious and less clumsy. i am going to start a log book of clumsy moments so i can track them. it will also allow me to track my mental state during those moments. perhaps i will share some of it in the future, or at least share my progress. here is to overcoming this and keeping healthy.
 
+Toast this post
+
 
 ---
 
@@ -805,7 +813,7 @@ my goal is to become less anxious and less clumsy. i am going to start a log boo
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/crickets-carry-a-lovely-sound/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -821,6 +829,8 @@ on especially quiet nights, where all you can here is the breeze, i find it hard
 
 crickets are a sound i really enjoy. this is likely due to being born in the prairies. crickets were the soundtrack to my childhood. dang, they carry a lovely sound.
 
+Toast this post
+
 
 ---
 
@@ -829,7 +839,7 @@ crickets are a sound i really enjoy. this is likely due to being born in the pra
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/just-an-update/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -851,7 +861,7 @@ instead of gluing myself to my computer or phone, i have been hanging out in the
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/black-snow/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -867,6 +877,8 @@ before we left to return to oaxaca, we were sitting in our garden with our neigh
 
 ---
 
+Toast this post
+
 
 ---
 
@@ -875,7 +887,7 @@ before we left to return to oaxaca, we were sitting in our garden with our neigh
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-short-reading-list/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -892,6 +904,8 @@ summer is typically my contemplative season. it is also the season where i usual
 
 it is also pleasant that the tourists will be largely leaving oaxaca until the late fall and winter. this means i can read beneath my favourite tree in centro next to santo domingo in relative peace. i can read in my favorite cantinas without bother. ah, dreamy ready times ahead.
 
+Toast this post
+
 
 ---
 
@@ -900,7 +914,7 @@ it is also pleasant that the tourists will be largely leaving oaxaca until the l
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/just-living-over-here/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -920,6 +934,8 @@ sunday, after a few hours of sleep, i went into the market to buy some veggies a
 
 looking forward to a productive and fun week. depending on how they are doing in the first two games, we will likely go see the guerreros (our baseball team) on thursday which will be our first time in the new stadium. i took some time off next weekend: friday, monday, and tuesday so we can do some work on the house and around the garden.
 
+Toast this post
+
 
 ---
 
@@ -928,7 +944,7 @@ looking forward to a productive and fun week. depending on how they are doing in
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/regressive-transhumanism-or-how-the-algorithms-shape-us/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -944,6 +960,8 @@ looking forward to a productive and fun week. depending on how they are doing in
 
 lo siento, aye. these are just some breakfast thoughts i needed to dump y'all 🍳🧠🤣. outburst complete, continue with your day. happy friday!
 
+Toast this post
+
 
 ---
 
@@ -952,7 +970,7 @@ lo siento, aye. these are just some breakfast thoughts i needed to dump y'all �
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/cat-catching-birds/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -966,6 +984,8 @@ there isn't a shortage of birds here and i would be less upset with totoro if he
 
 at this moment he is pestering me and the pup, tennessee williams, which means he wants breakfast. little bastard, i swear. i will break soon i am sure. but it feels like punishment for his crimes to put off his breakfast. spoiled runt! %%green%%but dang he is cute%%. %%red%%cute but evil. evil but cute.%%
 
+Toast this post
+
 
 ---
 
@@ -974,7 +994,7 @@ at this moment he is pestering me and the pup, tennessee williams, which means h
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/quieter-mornings-louder-brain/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -998,7 +1018,7 @@ to try and alleviate this, i push myself for training in dax for powerbi. i am t
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/uninspired-photowalk-inspiring-changes/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1024,7 +1044,7 @@ i have never followed stories in my photography. %%green%%i prefer the spontanei
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/little-tasks/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1048,7 +1068,7 @@ due to this, i have been able to mitigate screen time almost specifically during
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/myth-building-in-100-posts/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1065,6 +1085,8 @@ you might be getting to know me by now. one-hundred bear blog posts. some myth b
 
 i hope that you will continue to get to know me, and i you. in the end, i am here for the community. i am here to learn about differing perspectives and world views. i am here to share in the discourse (whatever that means?). %%yellow%%it doesn't really matter why i am here i guess, it is just nice to be here%%. %%green%%so here is to the next 100!%%
 
+Toast this post
+
 
 ---
 
@@ -1073,7 +1095,7 @@ i hope that you will continue to get to know me, and i you. in the end, i am her
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/do-i-miss-cereal/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1095,7 +1117,7 @@ so the question remains, do i actually miss cereal? i think i do? at the very le
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/ebb-and-flow/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1117,6 +1139,8 @@ in other other news, i have found myself using the %%green%%random%% section in 
 
 in other other other news, thanks for all the lovely email correspondence as of late, %%green%%truly lovely to get to know some of you a bit more!%%
 
+Toast this post
+
 
 ---
 
@@ -1125,7 +1149,7 @@ in other other other news, thanks for all the lovely email correspondence as of 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/leaks/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1147,7 +1171,7 @@ we are still a little worried, as hurricane season has just begun and this is se
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/sprouts/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1163,6 +1187,8 @@ our herb garden is sprouting. chives, basil, parsley, and leafy greens galore. o
 
 this weekend is m.'s birthday, so we will feast and celebrate with friends. i will make m.'s favorite dish: mussels with leek in white wine and butter. i will also grill a ton of tasajo and veggies and make a few salsas. looking forward to it.
 
+Toast this post
+
 
 ---
 
@@ -1171,7 +1197,7 @@ this weekend is m.'s birthday, so we will feast and celebrate with friends. i wi
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-creek-is-seasonal/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1195,7 +1221,7 @@ today, thunderstorms, more rain. we cherish these times and we are unsure how lo
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/weekend-blur/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1211,6 +1237,8 @@ today is sunday, so traditional lunch with the mother-in-law and then a weekend 
 
 another long work week this week, but hopefully less intense. %%green%%next weekend we celebrate my partner's birthday with a carne asada%%. exciting!
 
+Toast this post
+
 
 ---
 
@@ -1219,7 +1247,7 @@ another long work week this week, but hopefully less intense. %%green%%next week
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/when-waiting-is-more-than-waiting/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1241,7 +1269,7 @@ just one beer, i said, i have to ride home soon. we bumped into an old photograp
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/my-bear-blog-evolution/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1321,6 +1349,8 @@ this blog has evolved from philosophical inspirations into something more person
 
 as i close in on 100 posts, i will return to this evolution and write something a little more profound on it. it is something that has been on my mind lately for sure.
 
+Toast this post
+
 
 ---
 
@@ -1329,7 +1359,7 @@ as i close in on 100 posts, i will return to this evolution and write something 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-less-online-a-little-more-living/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1351,7 +1381,7 @@ i have to be up at 5:45am tomorrow morning to wrap up a couple of work tasks, bu
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-past-was-an-egg-we-lost-better-futures/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1377,7 +1407,7 @@ the past was an %%yellow%%egg%%, we lost better futures. collective action was s
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/quick-and-non-fickle-pickles/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1391,6 +1421,8 @@ i leave my jarred encurtido on the table and shake it throughout the day. everyt
 
 %%yellow%%tortillas, meat, and encurtido (maybe some salsa), are all you need in life.%% i wonder, what are your favorite things to pickle?
 
+Toast this post
+
 
 ---
 
@@ -1399,7 +1431,7 @@ i leave my jarred encurtido on the table and shake it throughout the day. everyt
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-dog-under-the-bed/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1415,6 +1447,8 @@ the one thing that makes him a little unpredictable is his absolute fear and anx
 
 lately though, he is craving his pack. we had a thunder storm last night, and he was scratching at our bedroom door. we let him in, and straight under the bed he went to pant and later snore the night away. %%purple%%we started giving him some anti-anxiety treats and some cbd lately%%. that has made him less prone to run, and it is nice he wants to be closer to us. but he has also become very dependent, so now we must work to build his independence, which is a whole other journey. either way, he is such a lovely and good dog.
 
+Toast this post
+
 
 ---
 
@@ -1423,7 +1457,7 @@ lately though, he is craving his pack. we had a thunder storm last night, and he
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-economy-of-indifference/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1451,7 +1485,7 @@ but these influencers and tourists have no stake in the game here. they take adv
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/crickets/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1471,6 +1505,8 @@ last night we got stuck in a thunderstorm and were forced to go into a bar and h
 
 on the digital front, things are slow and quiet except at work. i am tweaking my mapping scripts to produce more streamlined and simplified leaflet maps testing out new base maps and styles. other than that my digital life: crickets.
 
+Toast this post
+
 
 ---
 
@@ -1479,7 +1515,7 @@ on the digital front, things are slow and quiet except at work. i am tweaking my
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/happy-tired/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1499,7 +1535,7 @@ spent the weekend in the sierra madre mountains, high above the clouds. what a b
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/ick-mode/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1521,7 +1557,7 @@ the moments i feel i have been vibing with and thriving in are more about shared
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/rain-rain-rain/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1535,6 +1571,8 @@ our rain catchers are full, the air is fresh and clean, and the mountain is glow
 
 the typically dry river below us, is now flowing peacefully. i can hear happy frogs and birds. i am happy too. i left one of the only remaining water-secure regions in mexico, %%yellow%%though saying that is even a bit of a stretch%%, to return to the insecurity of the valley. our water is sacred, but is simply given away to tourists and gringos in a way that trivialises its importance to local communities. %%green%%but we live in a community who prioritises water, and we work together to collect and secure it%%. happy days! let's hope the rainy season is here to stay and we don't return to drought. back to my morning coffee.
 
+Toast this post
+
 
 ---
 
@@ -1543,7 +1581,7 @@ the typically dry river below us, is now flowing peacefully. i can hear happy fr
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/antigallery/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1571,7 +1609,7 @@ below is the first mission statement. for a bit more context, it started as a pu
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-cicada-hunter/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1597,7 +1635,7 @@ we wonder a moment, how many cicada's has he been eating a day? i see him eating
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/snack-the-planet/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1621,6 +1659,8 @@ i love cantinas, botaneros, and tapas bars for this reason. %%blue%%drinks, food
 
 so let's get out there: %%red%%snack the planet!%%
 
+Toast this post
+
 
 ---
 
@@ -1629,7 +1669,7 @@ so let's get out there: %%red%%snack the planet!%%
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/standard-weekly-meals/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1679,7 +1719,7 @@ sometimes, when feeling especially nostalgic, i might put one of my childhood me
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-slop-for-thought/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1699,6 +1739,8 @@ writing about ai, or against ai, rather, feels like sloppy dogmatism. this writi
 
 %%yellow%%but of generative ai on writing and art: yours sucks too, which is likely why it sucks at making it%%. soulless art and writing are the norm, not the exception. sure, let's celebrate the exception, where we find writing and art that purely expresses human creativity. but be honest, many of us are in the trenches in a war against our own mediocrity, stupidity, and dogmatism. which is why, to many, generative ai feels smart and creative even when it is based off the piles of garbage we created that it feeds off of. %%red%%its mediocrity is a mirror of our own%%. but as i've said before, fuck it: %%green%%be critical, have fun, don't cry ;)%%.
 
+Toast this post
+
 
 ---
 
@@ -1707,7 +1749,7 @@ writing about ai, or against ai, rather, feels like sloppy dogmatism. this writi
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/snapping-photos/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1729,7 +1771,7 @@ i take pictures. digital, analog, whatever. i like taking photos. my photography
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/el-sabado-feedo-reado/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1743,6 +1785,8 @@ just catching up on some saturday reads from my feedo list, hi everyone!
 
 ](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/rec.mp4)
 
+Toast this post
+
 
 ---
 
@@ -1751,7 +1795,7 @@ just catching up on some saturday reads from my feedo list, hi everyone!
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/music/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1776,6 +1820,8 @@ music is important to me. i listen to it and i play it. i believe the best sorts
 
 and so much more ...𝄢
 
+Toast this post
+
 
 ---
 
@@ -1784,7 +1830,7 @@ and so much more ...𝄢
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/cheese/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1808,7 +1854,7 @@ the cheese that i dream about most often is jean grogne triple cream brie. it is
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/exercises-in-living/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1834,7 +1880,7 @@ as an aside, moving back to oax. has been amazing. i couldn't handle the cold an
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/care-as-outlaw-behaviour/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1860,7 +1906,7 @@ care takes practice, like virtue. practice takes time, but it is obvious we have
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/may-day-and-thinking-about-water/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1886,7 +1932,7 @@ the idea was to invest a bit more in our janky diy solar, but we feel %%blue%%wa
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-month-of-poetry/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1908,7 +1954,7 @@ i challenged myself after a full year in which i found myself unable to write an
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/what-is-robotamerica/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -1944,7 +1990,7 @@ it is a little strange that, while holding these sorts of philosophies close to 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/my-colour-scheme/
-- generated: 2026-11-08 12:55 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2026,7 +2072,7 @@ if you like the onedark.nvim theme, feel free to borrow some aspects:
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-thoughts-on-minimalism-by-pinewind/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2058,7 +2104,7 @@ if anyone asks nicely, i will go on my western misreadings/misinterpretations of
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/whoami-a-mostly-unfancy-bio/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2090,7 +2136,7 @@ i'm dyslexic and have adhd. i see this as a superpower and these have shaped the
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/vibing-on-the-open-web/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2123,7 +2169,7 @@ yes, i still have some social media, but i use it far far far less than ever. so
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/springtime-feels/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2160,6 +2206,8 @@ here is a rose, ~~bud~~ sprout, ~~thorn~~ prickly exercise for the springtime fe
 
 4 pricklysn
 
+Toast this post
+
 
 ---
 
@@ -2168,7 +2216,7 @@ here is a rose, ~~bud~~ sprout, ~~thorn~~ prickly exercise for the springtime fe
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-everyday-life/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2200,6 +2248,8 @@ i don't know why i think in terms of poetics so often ... %%blue%%but there real
 
 %%purple%%poetry has its own speed and rhythms%%; it is %%blue%%slow and soft%%, %%yellow%%lightly%% %%red%%percussive%%. i have a proposition: %%orange%%let's live as poetically as possible, in our poetic little places%%. this means truly inhabiting our spaces, %%green%%inhabiting our own minds and bodies%%.
 
+Toast this post
+
 
 ---
 
@@ -2208,7 +2258,7 @@ i don't know why i think in terms of poetics so often ... %%blue%%but there real
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-jot-ecology/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2242,7 +2292,7 @@ below are some examples of notebooks i have created. these ones are %%orange%%al
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/routine-and-place/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2265,6 +2315,8 @@ below are some examples of notebooks i have created. these ones are %%orange%%al
 
 Routines have changed due to our new geography, and this changes the way we interact with and see the world around us. new tasks, new rhythms, and new ways to treat and interact with the land. %%green%%it is a beautiful thing, the geography of routine, and it can teach us so many new things%%, %%yellow%%so long as we pay attention%%. and that is what i love about my new place, it forces me to pay attention. %%green%%i welcome these new rhythms%%.
 
+Toast this post
+
 
 ---
 
@@ -2273,7 +2325,7 @@ Routines have changed due to our new geography, and this changes the way we inte
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/organised-chaos/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2301,7 +2353,7 @@ this year, i have probably been the most dramatic change in my habits. i am gett
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-text-cursor-zoo/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2401,6 +2453,8 @@ the fox jum✱
 
 text cursor zoo · font: ibm plex mono
 
+Toast this post
+
 
 ---
 
@@ -2409,7 +2463,7 @@ text cursor zoo · font: ibm plex mono
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/preparing-for-a-real-garden/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2446,6 +2500,8 @@ oaxaca, garden
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
+Toast this post
+
 
 ---
 
@@ -2454,7 +2510,7 @@ oaxaca, garden
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/toastless-test/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2476,7 +2532,7 @@ instead of likes, ++green++i am looking for genuine interactions++ and for the m
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/busy-bodies-being-busybodies/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2502,7 +2558,7 @@ i don't want to feel ridiculous. i don't mind being or feeling busy from time to
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2526,6 +2582,8 @@ i don't want to feel ridiculous. i don't mind being or feeling busy from time to
 >
 > %%purple%%henri lefebvre%%, %%green%%rhythmanalysis: space, time and everyday life%%
 
+Toast this post
+
 
 ---
 
@@ -2534,7 +2592,7 @@ i don't want to feel ridiculous. i don't mind being or feeling busy from time to
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/putter-mode/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2562,7 +2620,7 @@ now it is time to %%purple%%read a book%% in the morning %%orange%%sun%%. turns 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/new-things-i-dont-really-want/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2580,6 +2638,8 @@ i just really want things that last. whether electronics, clothing, appliances, 
 
 i yearn for better products. but in this economy of waste, i will just have to make due with what i have, what i can save, and what i can scavenge, %%purple%%except where my hand is sadly forced%%.
 
+Toast this post
+
 
 ---
 
@@ -2588,7 +2648,7 @@ i yearn for better products. but in this economy of waste, i will just have to m
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/morning-treats/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2621,7 +2681,7 @@ a quick list of my favourite morningtime treats:
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/internet-gibberish/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2662,7 +2722,7 @@ make gibberishy things on purpose, on accident, on your tippy-toes. just put the
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/50-logsposts-on-bear-blog/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2676,6 +2736,8 @@ a couple of logs ago, i created a small %%yellow%%robobestiary%%. i enjoyed work
 
 the robobestiary
 
+Toast this post
+
 
 ---
 
@@ -2684,7 +2746,7 @@ the robobestiary
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarpunkifying-our-home/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2723,7 +2785,7 @@ and then in the coming years install a more perminant, though still modular and 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/robobestiary/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2755,6 +2817,8 @@ i thought it would be fun to celebrate the name of this blog, %%green%%robotamer
 | // sovereign ai | | | |
 | hal 9000 | hal 9000 | 2001 | no body + won't open the door for nobody! |
 
+Toast this post
+
 
 ---
 
@@ -2763,7 +2827,7 @@ i thought it would be fun to celebrate the name of this blog, %%green%%robotamer
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/no-digital-masters-no-digital-gods/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2793,7 +2857,7 @@ ai is not exactly a tool for conviviality (**yet**), considering [illich's](http
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/busy-week-short-list/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2835,7 +2899,7 @@ was writing these lists in html by hand. decided to make a cli helper script. no
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tired-body-tired-mind/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2853,6 +2917,8 @@ moving is exciting, but oh so tiring. not to mention super expensive ...
 
 📝 wrote this on our fancy satellite internet, i don't want to support dusky musky, but it was our only choice while living and working from here in our rural spot. we did apply for telmex to bring us some fiber optic, but that is months maybe years down the line. when that happens, we will happily switch.
 
+Toast this post
+
 
 ---
 
@@ -2861,7 +2927,7 @@ moving is exciting, but oh so tiring. not to mention super expensive ...
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/new-post/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2921,7 +2987,7 @@ here's a reading list following my argument that soullessness isn't a condition 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/rssprint-re-i-print-my-websites/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -2966,7 +3032,7 @@ maybe you could try this out **move slow**?
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/my-work-based-toolkit/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3021,6 +3087,8 @@ i work in solar as a remote field operations lead. this position requires me to 
 
 -=23=- common tools.
 
+Toast this post
+
 
 ---
 
@@ -3029,7 +3097,7 @@ i work in solar as a remote field operations lead. this position requires me to 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/robotamerica-abridged/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3066,7 +3134,7 @@ time to **shift gears** from meditation to practice in motion. i hope you can be
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/why-lists-well-why-not/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3159,7 +3227,7 @@ well, enough rambling, here is a list of a few famed listmakers:
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/morning-folk/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3189,7 +3257,7 @@ good morning y'all ☕🍳. have a great end to your weekends!
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-techno-animist/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3252,7 +3320,7 @@ this is robotamerica: technology isn't what we need to fear. it is the bastard m
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-carrier-bag/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3321,7 +3389,7 @@ the plot is where it starts, tended to by the craft, and the bag is where it goe
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-craft/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3365,6 +3433,8 @@ i keep printing, making, and crafting. this is craft practice, and it has value 
 [#writing](https://robotameri.ca/blog/?q=writing)
 [#zine](https://robotameri.ca/blog/?q=zine)
 
+Toast this post
+
 
 ---
 
@@ -3373,7 +3443,7 @@ i keep printing, making, and crafting. this is craft practice, and it has value 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-plot/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3420,7 +3490,7 @@ my plots are here: in my writing, poems, tools, zines, everyday attitudes, and t
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-new-aesthetic-and-feel/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3490,7 +3560,7 @@ this all really just felt like the right call. robotamerica will feel a little m
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/html-poetics/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3523,6 +3593,8 @@ these are the first iterations of my html poems. one day, i hope to get as exper
 
 the colour mirror chapbook
 
+Toast this post
+
 
 ---
 
@@ -3531,7 +3603,7 @@ the colour mirror chapbook
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/diaryland-memories/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3565,7 +3637,7 @@ embarrassed, no! in fact, i feel nearly the same sentiments: docutainment is bs.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/information-fatigue-first-aid/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3597,7 +3669,7 @@ these are my seven bandages, but your first-aid kit may vary.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-guestbook-experiment/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3609,6 +3681,8 @@ i am trying to get creative and experiment with social components to my [digital
 
 <https://ourworldoftext.com/kmnada>
 
+Toast this post
+
 
 ---
 
@@ -3617,7 +3691,7 @@ i am trying to get creative and experiment with social components to my [digital
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/interrupt-the-feed/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3657,7 +3731,7 @@ the internet doesn't have to be a conveyor belt, it can be a choose your own adv
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/i-made-a-digital-garden/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3702,6 +3776,8 @@ does this all mean you shouldn't check it out? of course not, a digital garden i
 
 go have a look [kmsgarden.com ⇲](https://kmsgarden.com)!
 
+Toast this post
+
 
 ---
 
@@ -3710,7 +3786,7 @@ go have a look [kmsgarden.com ⇲](https://kmsgarden.com)!
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3758,7 +3834,7 @@ i haven’t said goodbye to social media. i’m just not addicted to doomscrolli
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3816,7 +3892,7 @@ i think i agree with her. more free time, means we can make more beautiful thing
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-not-knowing/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -3855,7 +3931,7 @@ i'll close this log with this plate of tasty brain burgers 🧠🍔🍔:
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tool-farming/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -4045,7 +4121,7 @@ start small, start slow, and start with care.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/iamai/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -4095,7 +4171,7 @@ and if that intelligence has consciousness, wait for the collision 🙈💥 ... 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:31 UTC
 
 ---
 
@@ -4135,7 +4211,7 @@ i ain't a religious fellow, but i do believe ritual can cleanse you of that empt
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/analogue-love/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -4188,6 +4264,8 @@ ok
 
 i really enjoy it when other folk share their passions outside of the internet and tech worlds. i hope to see some of you sharing your analogue love as well 💌.
 
+Toast this post
+
 
 ---
 
@@ -4196,7 +4274,7 @@ i really enjoy it when other folk share their passions outside of the internet a
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-soft-stack-ecology-what-is-that/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -4232,7 +4310,7 @@ soft stack ecology is how i want to build things: not as products or pipelines, 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-revised-solarpunk-ai-manifesto/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -4406,7 +4484,7 @@ the future of intelligence is not predetermined. it is negotiated. we need to pl
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-joy-and-intimacy-of-journaling-with-neovim/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -4444,7 +4522,7 @@ this is a part of the joy of it all. seeing the world is seeing yourself.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-curious-case-for-lowercase-writing/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -4486,7 +4564,7 @@ many of us choose to write in lowercase. we have our reasons. i won't argue that
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/list-archive-index-but-do-so-publicly/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -4514,7 +4592,7 @@ here is the solarpunk almanac (in mobile view), in case you didn't want to follo
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conscious-media-consumption/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -4546,7 +4624,7 @@ i have added my media logger to my homepage. you can also check it out [here](ht
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5074,6 +5152,8 @@ hash -r
 * url/history launcher from cli: boom url
 * play direct from cli eg: boom play "https://www.youtube.com/watch?v=XXXXX"
 
+Toast this post
+
 
 ---
 
@@ -5082,7 +5162,7 @@ hash -r
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-my-blogging-workflow/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5145,6 +5225,8 @@ ideate / gather ➡ make notes ( digital / paper ) ➡ store ( nvim / dotmd + ze
 
 i suppose i am more of an archivist or collector than i am a writer. this is likely why i am an [intermittent poster](https://robotameri.ca/intermittent-posting/). yeesh, it all might be a little weird this, after looking back at, but thanks again to robert for giving us such a fine space to get weird in 💚.
 
+Toast this post
+
 
 ---
 
@@ -5153,7 +5235,7 @@ i suppose i am more of an archivist or collector than i am a writer. this is lik
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/specialfish/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5185,7 +5267,7 @@ i truly cherish spaces like special.fish. if you've been looking for a quiet and
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5280,6 +5362,8 @@ These actions are not dramatic. That is their strength. Repeated over time, they
 
 Folk politics, folk the system! Careful care and kindness can carry us on.
 
+Toast this post
+
 
 ---
 
@@ -5288,7 +5372,7 @@ Folk politics, folk the system! Careful care and kindness can carry us on.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5359,7 +5443,7 @@ the practice of **conceptual coding and dev dérive** is the practice of moving 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-internet-is-becoming-a-digital-desert/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5373,6 +5457,8 @@ new year resolution: keep it fun, keep making things, keep exploring ... online 
 
 shine on beautiful robots. happy new year!
 
+Toast this post
+
 
 ---
 
@@ -5381,7 +5467,7 @@ shine on beautiful robots. happy new year!
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/intermittent-posting/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5413,7 +5499,7 @@ as for writers (bloggers or whatever), we need stop pretending to be the new yor
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/experimental-blogging/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5470,6 +5556,8 @@ the internet should be a creative space. it should be a space that encourages cr
 [#blogging](https://robotameri.ca/blog/?q=blogging)
 [#experimental blogging](https://robotameri.ca/blog/?q=experimental%20blogging)
 
+Toast this post
+
 
 ---
 
@@ -5478,7 +5566,7 @@ the internet should be a creative space. it should be a space that encourages cr
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/digital-ecologies/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5534,7 +5622,7 @@ this of course, is not an exhaustive list of solutions and ideas, nor is it a me
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-first-grove/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5754,6 +5842,8 @@ the philosophy that ai should actively heal, support, and enrich ecological and 
 [#fictional nonfiction](https://robotameri.ca/blog/?q=fictional%20nonfiction)
 [#solarpunk](https://robotameri.ca/blog/?q=solarpunk)
 
+Toast this post
+
 
 ---
 
@@ -5762,7 +5852,7 @@ the philosophy that ai should actively heal, support, and enrich ecological and 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solar-punk-ai-manifesto/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -5941,7 +6031,7 @@ Technology and AI must become a tool for ecological, social, and mental regenera
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarsocial/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -6084,7 +6174,7 @@ it’s not just for disruption. it’s for **re-rooting**.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-digital-gardens/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -6159,7 +6249,7 @@ the web can be wild and poetic again. but it takes intention and the patience of
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-poet-technologist/
-- generated: 2026-11-08 12:56 UTC
+- generated: 2026-11-09 15:32 UTC
 
 ---
 
@@ -6185,4 +6275,6 @@ before i do, i keep wondering if there are any other poet-technologists out ther
 [#poetry](https://robotameri.ca/blog/?q=poetry)
 [#technology](https://robotameri.ca/blog/?q=technology)
 [#writing](https://robotameri.ca/blog/?q=writing)
+
+Toast this post
 
