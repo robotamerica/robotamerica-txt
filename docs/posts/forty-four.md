@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/forty-four/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -16,3 +16,5 @@ i wish i could say that my forties have brought me more wisdom, and maybe they h
 all that noted, my forties have been great. i still have a bit of that youthful angst left in me, a bit of that poetry. with it, i am able to feel useful in my community. i say a lot less, but mean a lot more. i am better able to show my care for the people around me. i have a better vocabulary for care.
 
 while i have a shadowy and unknown future where i will never be able to retire, i will never be able to stop working, i won't have time for illness or pause, i am still happy to be an aging anarchist. in forty-four years, i have lived many lives. i have certainly lived more life than many folk i know ... i can only hope the adventure keeps its appeal and that every year might feel like an eternity of struggle, joy, and celebration. i think those are the three main ingredients to human life. regardless, i intend to add a little more spice each year moving forward!
+
+Toast this post

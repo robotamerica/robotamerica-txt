@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -50,3 +50,5 @@ i think i agree with her. more free time, means we can make more beautiful thing
 [#ai](https://robotameri.ca/blog/?q=ai)
 [#art](https://robotameri.ca/blog/?q=art)
 [#craft](https://robotameri.ca/blog/?q=craft)
+
+Toast this post

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/busy-bodies-being-busybodies/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -18,3 +18,5 @@ when i think of what it really means to be %%red%%busy%%, i think about percepti
 in terms of slowing things down, and not being busy, it isn't necessarily about pace or speed, but about paying attention and being mindful. i am a clumsy person. this is partly do to me being a busybody. but i have noticed that when i slow down and become more attentive, that clumsiness shies away.
 
 i don't want to feel ridiculous. i don't mind being or feeling busy from time to time, entering that blurry flow state ... there is some form of dopamine rush about it, but it does come with a cost that i would prefer not to pay. so this year is the year of mindfulness. %%orange%%less focus without focusing%%, and %%green%%more attention paid to me and my surroundings%%.
+
+Toast this post

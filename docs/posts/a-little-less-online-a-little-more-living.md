@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-less-online-a-little-more-living/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -14,3 +14,5 @@ i have been able to turn my standard intermittent posting by getting a little mo
 after a twelve-hour workday yesterday, i spent the evening routing pipes into our rain catchment system. then i made us pasta and we had some fancy french orange wine that was gifted to us by a friend. today is another twelve-hour workday, but after i will go see my friends art opening and hopefully catch some live music.
 
 i have to be up at 5:45am tomorrow morning to wrap up a couple of work tasks, but the rest of the weekend will be riding my motorcycle, eating, and sipping some tasty ferments. a little less online, a little more living.
+
+Toast this post

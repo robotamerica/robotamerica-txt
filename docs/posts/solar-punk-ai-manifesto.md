@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solar-punk-ai-manifesto/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -171,3 +171,5 @@ Technology and AI must become a tool for ecological, social, and mental regenera
 [#ai](https://robotameri.ca/blog/?q=ai)
 [#ecology](https://robotameri.ca/blog/?q=ecology)
 [#solarpunk](https://robotameri.ca/blog/?q=solarpunk)
+
+Toast this post

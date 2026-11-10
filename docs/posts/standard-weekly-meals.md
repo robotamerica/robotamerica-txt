@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/standard-weekly-meals/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -42,3 +42,5 @@ food preparation takes a little longer here. we prepare fresh salsas, sauces, an
 but most days, we are working. so the quickest snack is a quesadilla with quesillo, chapulines, and salsa matcha. that is our go to. if we are feeling fancy and the garden allows it, we will add some epazote, hoja santa, or squash blossoms. that, i would say, is our standard meal.
 
 sometimes, when feeling especially nostalgic, i might put one of my childhood meals on the table for us. what i don't miss about that childhood food, was that it was rarely fresh. prairie life in canada in the 80s and 90s meant a lot of preserved and canned ingredients. though something strange i do missed of thosed canned foods, no matter the meal, we always had pickles on the side ... now? i make fresh escabeche, and it is a fine replacement!
+
+Toast this post

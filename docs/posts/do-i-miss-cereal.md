@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/do-i-miss-cereal/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -14,3 +14,5 @@ our standard morning meal consists of yogurt, coconut granola, amaranth, banana,
 i actually wasn't a fan of the crunch. i would let me little cinnamon toast squares or sugary flakes soak into a soggy mushy mess. honestly, it was less about the actual cereal, but the flavor it brought to the milk. i don't drink much milk. maybe sometimes in chocolate con leche, but i am more a chocolate con agua type guy.
 
 so the question remains, do i actually miss cereal? i think i do? at the very least, i am currently craving it. i will buy some on the next shopping trip. i am knowingly setting myself up for disappointment. but maybe the nostalgia will be worth the exorbitant price of boxed cereal these days, who knows? i just want a treat!
+
+Toast this post

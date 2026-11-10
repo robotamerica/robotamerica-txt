@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/scrap-language-part-one/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -26,3 +26,5 @@ while writing this, i thought of tolstoy. so many words! if you haven't read ann
 > — leo tolstoy
 
 i am not arguing for minimalism or any sort of that nonsense. i am celebrating scraps of language that transcend their own pointedness. it's just that some folk say a lot to say very little, and i don't want to be that type of person. so here i am, scrap language and all.
+
+Toast this post

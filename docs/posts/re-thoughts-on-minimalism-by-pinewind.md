@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-thoughts-on-minimalism-by-pinewind/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -24,3 +24,5 @@ i practice something akin to eclecticism. something like a sort of %%green%%vern
 %%red%%the meat to this philosophical pie is this%%: %%blue%%don't bother with dogmatic approaches on either side%%. minimalism is helpful for some things, maximalism for others. for instance, at work, i am going to use [occam's razor](https://www.newscientist.com/definition/occams-razor/) over [leibniz's principle of plenitude](https://en.wikipedia.org/wiki/Principle_of_plenitude) to guide my decision-making. or sometimes i just go with the feelies, with the gut. we got options, plenty of them, infinite even, just don't tell the minimalists.
 
 if anyone asks nicely, i will go on my western misreadings/misinterpretations of minimalism rant next 🤣.
+
+Toast this post

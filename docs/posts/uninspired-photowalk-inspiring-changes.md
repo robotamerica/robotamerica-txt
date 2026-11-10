@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/uninspired-photowalk-inspiring-changes/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -18,3 +18,5 @@ yesterday i took early to the streets and markets, but found little to inspire. 
 i have never followed stories in my photography. %%green%%i prefer the spontaneity of the every day%%. %%red%%one thing gentrification does is spoil spontaneity, it flattens everyday life and makes it predictable%%. %%yellow%%when everything becomes predictable, it doesn't feel worth exploring and documenting%%. %%purple%%this has led me to the decision that i will have to start approaching my photography from the perspective of a storyteller%%. at least here in my city. i wonder what that will look like?
 
 %%green%%i am also going to start photographing more of my community and friends%%. our everyday lives, meet ups, and events. uninspired days can inspire, just not in the ways we think.
+
+Toast this post

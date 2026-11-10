@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/care-as-outlaw-behaviour/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -18,3 +18,5 @@ there is an innate connection between conviviality and caring. care, on its own,
 i want to exist and live in caring communities. communities that don't feel paying attention to those who aren't begging for it are damn worth it. to give a damn about those who just live out their lives gently and quietly in service of the other. let's slow down, folk. cultivate care and tend to the other, rather than giving attention to those on their imaginary soapboxes. %%green%%care like an outlaw%%, %%yellow%%don't put anything into that attention economy%%, %%red%%don't trust any politicians (they don't care about you)%%, %%blue%%just place care where and for what requires your attention: family, friends, and community%%.
 
 care takes practice, like virtue. practice takes time, but it is obvious we have too much of it. so let's take advantage. we live in times where %%green%%care is a weapon%%.
+
+Toast this post

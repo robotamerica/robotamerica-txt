@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -63,3 +63,5 @@ this layer of **consciousness** differentiates a mature conceptual work from the
 > but anchor yourself in awareness, in discipline, and in care.
 
 the practice of **conceptual coding and dev dérive** is the practice of moving through the digital world as both an artist and a forward-thinking steward of the past. it is to work as we have all worked, to build a wonderful future by learning from the past.
+
+Toast this post

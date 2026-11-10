@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/cheese/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -16,3 +16,5 @@ come 2 am, i wake up upside down in a sleeping back with a pasty cheese-encruste
 from then on, it was %%orange%%cheese 🧀%%. not an original nickname, as another friend was also called cheese. but i couldn't escape the nickname for years. it was fitting though. i ended my veganism that night, and i still eat yummy cheese to this day.
 
 the cheese that i dream about most often is jean grogne triple cream brie. it is the closest thing i can think of to eating a cloud. it isn't available in mexico, but whenever i am back in canada, i am sure to hunt some down. in oax., i eat quesillo doble crema ... clean, milky, creamy, and dreamy. in fact, time to make a quesadilla.
+
+Toast this post

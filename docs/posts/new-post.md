@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/new-post/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -52,3 +52,5 @@ here's a reading list following my argument that soullessness isn't a condition 
 [bruno latour and artificial intelligence](https://tecnoscienza.unibo.it/article/view/18359) by tommaso venturini
 
 [language models and language change: recent evidence](https://seantrott.substack.com/p/language-models-and-language-change-721) by sean trott
+
+Toast this post

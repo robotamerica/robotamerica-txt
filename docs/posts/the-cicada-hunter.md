@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-cicada-hunter/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -18,3 +18,5 @@ we wonder a moment, how many cicada's has he been eating a day? i see him eating
 ---
 
 🤓 tweaking my geopandas scripts today to include some more datasets so i can quickly create and analyse zipcodes + counties in gringolandia for work. we are trying to create a more accurate naming convention for state-based regions, as gringo states have colloquial suggestions for regions, but they don't work for us. so i need to break it down per county and then create region names that suit our workflows.
+
+Toast this post

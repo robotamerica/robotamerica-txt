@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/whoami-a-mostly-unfancy-bio/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -24,3 +24,5 @@ i have been blogging on and off since 1998, and before that was a bbs enthusiast
 i'm dyslexic and have adhd. i see this as a superpower and these have shaped the way i think in fun and intersting ways, although they can also be friction points in many aspects of life i don't really mind.
 
 %%orange%%this has been a mostly unfancy bio%%. %%yellow%%nice to meet you%%.
+
+Toast this post

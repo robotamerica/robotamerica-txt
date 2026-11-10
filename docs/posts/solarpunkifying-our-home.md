@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarpunkifying-our-home/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -31,3 +31,5 @@ next, i will start building the print and art studio into an existing lean-to st
 and then in the coming years install a more perminant, though still modular and moveable, solar system.
 
 🐌 %%green%%slowly we build%% %%yellow%%resilience%%.
+
+Toast this post

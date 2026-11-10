@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/why-lists-well-why-not/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -85,3 +85,5 @@ well, enough rambling, here is a list of a few famed listmakers:
 | italo calvino | "each life is an encyclopedia, a library, an inventory of objects, a series of styles." | *six memos for the next millennium* |
 | wisława szymborska | "i prefer movies. i prefer cats. i prefer the oaks along the warta. i prefer dickens to dostoyevsky. i prefer myself liking people to myself loving mankind. i prefer keeping a needle and thread on hand, just in case." | [possibilities, 1972](https://www.szymborska.org.pl/en/wislawa/selected-poems/possibilities/) |
 | umberto eco | "the list is the origin of culture." | *the infinity of lists*, 2009 |
+
+Toast this post

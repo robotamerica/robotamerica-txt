@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/digital-ecologies/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -48,3 +48,5 @@ we need to pressure governments (local and national), companies, and industry to
 #### not an end
 
 this of course, is not an exhaustive list of solutions and ideas, nor is it a means to a particular end. it is a call to consider the digital ecology of our everyday lives and how our digital lives in particular affect they have on our environment. it is time we all become digital ecologists in the service of one another and our planet.
+
+Toast this post

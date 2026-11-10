@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-revised-solarpunk-ai-manifesto/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -166,3 +166,5 @@ the future of intelligence is not predetermined. it is negotiated. we need to pl
 [#ai](https://robotameri.ca/blog/?q=ai)
 [#ecology](https://robotameri.ca/blog/?q=ecology)
 [#solarpunk](https://robotameri.ca/blog/?q=solarpunk)
+
+Toast this post

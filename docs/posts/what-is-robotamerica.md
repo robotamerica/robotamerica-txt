@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/what-is-robotamerica/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -28,3 +28,5 @@ i no longer have copies of the original photocopied zines. but i remember each o
 it is a little strange that, while holding these sorts of philosophies close to my heart for so many years, i am still a bit of a technological optimist. i think it comes down to the idea that %%orange%%it is not the technologies we need to worry about, but who owns them%%. in capitalist society, it certainly isn't the people, and the people taking ownership is the goal.
 
 %%green%%welcome, again, to robotamerica%%.
+
+Toast this post

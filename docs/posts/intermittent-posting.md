@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/intermittent-posting/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -24,3 +24,5 @@ posts don't need to be on a schedule, so post when you like. if the attention ec
 don't you miss that old sense of discovery? that sense that you found something neat that you used to get before algorithms and feeds? you can feel it again, just don't follow the feeds. search for websites and blogs you're interested in. jump into archives and old posts. get lost in a webring or a blogroll. do all this at random. be a digital flâneur. wander about a little, you'll like what you see on your own. i promise.
 
 as for writers (bloggers or whatever), we need stop pretending to be the new york times. you don't need a posting schedule. especially a daily posting habit. write and play when you want. hopefully the internet will be here tomorrow. if it is, post then or maybe the day after, or even next week or month! become, yourself, an intermittent poster and live a little. touch that grass, kiss someone, drink a glass of wine, write in your journal, damn the man, play a board game, and leave that post until later. no worries.
+
+Toast this post

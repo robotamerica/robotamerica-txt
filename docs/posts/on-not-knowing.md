@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-not-knowing/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -31,3 +31,5 @@ i'll close this log with this plate of tasty brain burgers 🧠🍔🍔:
 
 > there are known knowns; there are things we know we know. we also know there are known unknowns; that is to say we know there are some things we do not know. but there are also unknown unknowns — the ones we don’t know we don’t know.  
 > [donald rumsfeld ↗](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)
+
+Toast this post

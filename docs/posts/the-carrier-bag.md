@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-carrier-bag/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -61,3 +61,5 @@ the plot is where it starts, tended to by the craft, and the bag is where it goe
 [#sylvia-wynter](https://robotameri.ca/blog/?q=sylvia-wynter)
 [#weblog](https://robotameri.ca/blog/?q=weblog)
 [#writing](https://robotameri.ca/blog/?q=writing)
+
+Toast this post

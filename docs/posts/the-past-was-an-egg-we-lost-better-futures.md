@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-past-was-an-egg-we-lost-better-futures/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -18,3 +18,5 @@ the past was an %%yellow%%egg%%, we lost better futures. collective action was s
 ---
 
 🙋🏽‍♂️ on a personal and lighter note, i am so very much looking forward to the summer. workshops galore, a bit of work, a bit of gardening, a bit of printmaking, harvesting honey, making fun fermented things. ah, living the dream betwixt nightmarish flashes of our global realities. let's make the summer of 2026 a revolutionary one spent weaving and strengthening family and community ties. getting out there and being present. singing songs, drinking drinks, eating eats, and feeling the feels ... here we go.
+
+Toast this post

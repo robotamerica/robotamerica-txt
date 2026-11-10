@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conscious-media-consumption/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -24,3 +24,5 @@ now i understand that doomscrolling and endless browsing increase underlying str
 i have added my media logger to my homepage. you can also check it out [here](https://robotamerica.github.io/media-log/), or below.
 
 ---
+
+Toast this post

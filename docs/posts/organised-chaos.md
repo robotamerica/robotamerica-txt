@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/organised-chaos/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -20,3 +20,5 @@ well, one word is right in that sentiment: %%red%%chaos%%. but there is %%blue%%
 even when i use the tools and systems i have built for myself, i wonder %%cyan%%are they even effective for me?%% %%yellow%%or am i just trying to look organised?%%
 
 this year, i have probably been the most dramatic change in my habits. i am getting better at using my tools and systems. but for some reason, %%red%%i keep feeling imposter syndrome%%. maybe organised me isn't really me? %%purple%%maybe i should just accept the chaos%%. or do i keep this struggle against myself well and alive? %%green%%i think i will struggle to build and keep these habits healthy%%. but it is tough!
+
+Toast this post

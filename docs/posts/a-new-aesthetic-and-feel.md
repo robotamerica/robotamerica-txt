@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-new-aesthetic-and-feel/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -62,3 +62,5 @@ this all really just felt like the right call. robotamerica will feel a little m
 *running proudly on [bear blog](https://bearblog.dev). font: jetbrains mono. theme: onedark.nvim. no analytics, no tracking, no javascript that isn't earning its keep.*
 
 ---
+
+Toast this post

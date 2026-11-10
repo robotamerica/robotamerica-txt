@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-techno-animist/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -55,3 +55,5 @@ this is robotamerica: technology isn't what we need to fear. it is the bastard m
 [#digital ecology](https://robotameri.ca/blog/?q=digital%20ecology)
 [#ecology](https://robotameri.ca/blog/?q=ecology)
 [#technology](https://robotameri.ca/blog/?q=technology)
+
+Toast this post

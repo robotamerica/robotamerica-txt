@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/no-digital-masters-no-digital-gods/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -22,3 +22,5 @@ i like felsenstein's declaration of artificial stupidity while acknowledging the
 ai is not exactly a tool for conviviality (**yet**), considering [illich's](https://monoskop.org/images/3/3e/Illich_Ivan_Tools_for_Conviviality_1975.pdf) definition (ai has quickly moved into its second watershed moment, a radical monopoly of dispossession); however, that does not mean it can't be used convivially. perhaps we will see a third watershed moment as smaller digital communities reclaim the tool?
 
 [ai can be a convivial tool](https://andrereichel.de/2019/05/20/artificial-intelligence-convivial-technology/), but not in the hands of capitalists. to reclaim could mean decentralisation, localisation, and small model tools ... but whichever way we have it, we will need to steal it back. it's pipes and meters, compute and inference, stupid!
+
+Toast this post

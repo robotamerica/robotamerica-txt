@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/list-archive-index-but-do-so-publicly/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -20,3 +20,5 @@ i don't know what it is about lists, but i love reading them almost as much as i
 listing, archiving, and indexing are techniques i use to build a second-brain ... these are spaces where i seed information into my digital garden(s) that i can go back to later. the fun part, is making them public. sure, not many folk come across them, but i hope these lists might be able to inspire others ... or at the very least, provide insight into my thinking and creative process. if you don't keep lists, give it a try and see if it's something that can help organise your thoughts, improve your creativity, assist in memory recall, or whatever. i also encourage you to make your lists public. blog them out, create a git page or small website or app. have fun and share! that is what we are all here online for, no?
 
 here is the solarpunk almanac (in mobile view), in case you didn't want to follow the link:
+
+Toast this post

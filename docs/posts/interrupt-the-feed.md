@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/interrupt-the-feed/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -32,3 +32,5 @@ try it sometime. open something, follow a thread, skip the homepage, read the th
 i've been thinking about what it would mean to write for multiple entry points instead of publication dates. less queue, more like a labyrinth. less of a newspaper, more like a field guide.
 
 the internet doesn't have to be a conveyor belt, it can be a choose your own adventure book. you just have to get used to making your own decisions. strangely, that takes some practice.
+
+Toast this post

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -40,3 +40,5 @@ termux works for me because it’s quiet. it’s less flashy, so there’s less 
 working and playing from the cli also keeps me calm and learning. i get to investigate how .zsh scripts can improve workflows and shape my experience, technical or aesthetic, in termux (or any cli). it slows things down in a good way. i can focus on the task in front of me without the anxious urge to click away or scroll into nowhere.
 
 i haven’t said goodbye to social media. i’m just not addicted to doomscrolling anymore. now i can use it on and off for what it should actually be for: keeping up with friends, making new ones, and sharing a bit of myself with them. no more sick dopamine loops trying to hook me. just my terminal, a shell, and a few tools and toys when i want to stay engaged.
+
+Toast this post

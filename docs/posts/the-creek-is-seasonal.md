@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-creek-is-seasonal/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -16,3 +16,5 @@ come june, the rainy season has truly arrived. the creek flows. we can hear the 
 %%yellow%%the creek is seasonal%%, but this is something we love. it gives life a rhythm. it forces us to be conscious of and live within the water cycle. nothing taken for granted. we work for our water, we conserve our water, we cherish our water, we celebrate it. on the weekend, we hiked up to some rock pools and swam in the mineral rich red waters which will soon turn clear as the dirt and minerals are deposited in the valley below.
 
 today, thunderstorms, more rain. we cherish these times and we are unsure how long they will last. every year a little different. %%red%%the climate has changed, it is no longer as predictable%%. so we plan ahead, we collect water. we plan for eight to ten months of drought. but we hope the rains will stay through until october. %%blue%%we keep doing our little rain dances, always knowing that the creek is seasonal%%.
+
+Toast this post

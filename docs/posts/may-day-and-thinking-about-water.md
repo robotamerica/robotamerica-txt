@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/may-day-and-thinking-about-water/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -18,3 +18,5 @@ This summer, we will have finished building our dry composting toilet and fixed 
 the idea was to invest a bit more in our janky diy solar, but we feel %%blue%%water is more important%% at this moment. building a sustainable life is costly, so we just need to be careful when and where we invest the little money we have. %%blue%%water first%%, %%yellow%%solar second%%.
 
 %%green%%i am less nervous about working in the solar industry than last year%%. things seem to be settling. so hopefully i have steady work for the next five years and we can invest everything we have into the land here.
+
+Toast this post

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-joy-and-intimacy-of-journaling-with-neovim/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -30,3 +30,5 @@ it got me thinking about how journaling via zettlemind has improved my recall of
 this is a part of the joy of it all. seeing the world is seeing yourself.
 
 ![zettlemind](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/zettlemind.webp)
+
+Toast this post

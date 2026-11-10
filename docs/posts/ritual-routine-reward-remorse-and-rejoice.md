@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -32,3 +32,5 @@ getting to the good, simple life is a struggle. it is a ton of work. i have star
 so take it as you will, this is just a bit of folk philosophy ... but ritual and routine do lead to reward, let's just rejoice in the fact we have made it this far ... no remorse, it is two steps forward and then two more, not one step forward and two steps back. enjoy and embrace each moment, make the little routines in your life even smaller rituals. find yourself a slice of the good, simple life and celebrate in the ways you know how.
 
 i ain't a religious fellow, but i do believe ritual can cleanse you of that empty feeling you get when you just drift through life. yep, go get you some.
+
+Toast this post

@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarsocial/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -135,3 +135,5 @@ it’s not just for disruption. it’s for **re-rooting**.
 [#solar energy](https://robotameri.ca/blog/?q=solar%20energy)
 [#solarpunk](https://robotameri.ca/blog/?q=solarpunk)
 [#solarsocial](https://robotameri.ca/blog/?q=solarsocial)
+
+Toast this post

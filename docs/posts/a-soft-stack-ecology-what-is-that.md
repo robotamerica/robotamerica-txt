@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-soft-stack-ecology-what-is-that/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -28,3 +28,5 @@ sse is an approach to making and creativity that respects the tension between th
 sse celebrates cultures of making that widen people’s options. tools that improve livelihoods. systems that support care, access, and dignity. technologies that people can understand, refuse, repair, and carry forward together. it aims for sustainability without purity, and conviviality without naïveté. build what helps, don’t build what harms ... and when the line is blurry, we need to slow down, name the tradeoff, and (re)design for the most vulnerable first.
 
 soft stack ecology is how i want to build things: not as products or pipelines, but as little ecosystems that swirl with potential and foster care and reciprocity. it is just an idea and the philsophical approach i take as a maker, but hopefully it can help to set a standard that is always grounded in systems of care ... systems that question, support, and help to make positive and sustainable change in the ways we make, consume, and relate to things.
+
+Toast this post

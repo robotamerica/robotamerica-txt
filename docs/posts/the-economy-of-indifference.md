@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-economy-of-indifference/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -20,3 +20,5 @@ we try not to go to centro anymore, because it is overrun. we can't afford the i
 %%green%%so we have begun creating our own economies of care%%, background sharing and gift economies, sliding scale "secret" pricing in restaurants and bars, hosting friends and family more than going out, and promoting local activity away from tourist hot spots. our old hangouts and spaces have slowly been disneyfied and sucked clearly of their spirit: once important and culturally relevant places are now celebrated on instagram and tik tok as fashionably cool.
 
 but these influencers and tourists have no stake in the game here. they take advantage of the community and the city, and will until it too becomes too unaffordable to them ... then they will leave. well, tons of hard feelings gringo. that is why you should go home sooner than later. we will pick up where we left off, with our economies of care.
+
+Toast this post

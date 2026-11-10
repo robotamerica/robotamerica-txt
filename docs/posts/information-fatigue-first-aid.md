@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/information-fatigue-first-aid/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -24,3 +24,5 @@ you don't have to know everything, don't let the fomo get to you. when you find 
 **the firehose will always be there. you don't have to stand in front of and drink from it.**
 
 these are my seven bandages, but your first-aid kit may vary.
+
+Toast this post

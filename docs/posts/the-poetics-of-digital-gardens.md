@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-digital-gardens/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -67,3 +67,5 @@ the web can be wild and poetic again. but it takes intention and the patience of
 [#digital gardens](https://robotameri.ca/blog/?q=digital%20gardens)
 [#poetry](https://robotameri.ca/blog/?q=poetry)
 [#post-social media](https://robotameri.ca/blog/?q=post-social%20media)
+
+Toast this post

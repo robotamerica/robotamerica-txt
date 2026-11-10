@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/diaryland-memories/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -26,3 +26,5 @@ some folk are embarrassed by their younger writing and blogs. i suppose i am not
 > I would like to see a new direction in filmmaking with mannerisms that respect the audience and the subject matter at hand. I would like to create responsible and respectable films.
 
 embarrassed, no! in fact, i feel nearly the same sentiments: docutainment is bs. also robotamerica is more than 22 years old. i wish i had more. also also, fun note: before robotamerica, my handle was flying\_ape\_fetus 🤣
+
+Toast this post

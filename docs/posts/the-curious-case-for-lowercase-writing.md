@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-curious-case-for-lowercase-writing/
-- generated: 2026-11-09 15:32 UTC
+- generated: 2026-11-10 14:31 UTC
 
 ---
 
@@ -34,3 +34,5 @@ many of us choose to write in lowercase. we have our reasons. i won't argue that
 📝 i am not gen z (who are apperently popularising lowercase typing in this epoch). also, before the pandemic, i worked as an english and geography teacher for over a decade. funnily enough, i am also a letterpress printer. in that practice, i of course use both upper and lowercase letters when working with clients. oh, guess where those words (uppercase and lowercase) came from? printing of course. i promise you, my type cases are well sorted and organised. but digitally, and on here i will always remain a lowercase warrior.
 
 ![A_Typesetters_Sorting_Case](https://bear-images.sfo2.cdn.digitaloceanspaces.com/robotamerica/a_typesetters_sorting_case.webp)
+
+Toast this post

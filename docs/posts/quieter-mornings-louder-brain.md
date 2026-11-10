@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/quieter-mornings-louder-brain/
-- generated: 2026-11-09 15:31 UTC
+- generated: 2026-11-10 14:30 UTC
 
 ---
 
@@ -16,3 +16,5 @@ to try and alleviate this, i push myself for training in dax for powerbi. i am t
 %%red%%quieter mornings mean louder brain%%. finding coping mechanisms within the work environment isn't always easy, but i am surviving. it makes me think about why my brain thrives in chaos, and why i can't just relax. oh adhd, you are a silly beast.
 
 %%green%%the silver lining is that i also have time to stretch%%! i recently found out that due to multiple shoulder dislocations, i now have bicep tendinitis. so i need time to stretch, exercise, and work on healing it gently. the beauty of getting older i suppose. wait, is that even a silver lining? maybe ... i suppose any chance to be standing and active during a workday feels like a silver lining moment.
+
+Toast this post
