@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/
-- generated: 2026-11-11 13:45 UTC
+- generated: 2026-11-12 14:49 UTC
 
 ---
 
