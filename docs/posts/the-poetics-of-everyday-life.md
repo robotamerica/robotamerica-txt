@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-everyday-life/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 

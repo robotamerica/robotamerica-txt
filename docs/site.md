@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 This is a machine-generated Markdown mirror of robotameri.ca.
 
@@ -16,7 +16,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/archive/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -275,7 +275,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/links/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -305,7 +305,7 @@ This is a machine-generated Markdown mirror of robotameri.ca.
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tools/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -564,7 +564,7 @@ instead i’m maintaining a **small, intentional computing ecology** where each 
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/manifesto/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -641,7 +641,7 @@ everything can be stripped down to the bare essentials. [here](https://robotamer
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/forty-four/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -667,7 +667,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/scrap-language-part-2/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -701,7 +701,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/scrap-language-part-one/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -737,7 +737,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/redesign-to-write/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -759,7 +759,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/i-can-adh-do-it/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -787,7 +787,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/suddenly-anxious-causing-clumsy-moments/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -817,7 +817,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/crickets-carry-a-lovely-sound/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -843,7 +843,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/just-an-update/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -867,7 +867,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/black-snow/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -893,7 +893,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-short-reading-list/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -920,7 +920,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/just-living-over-here/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -950,7 +950,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/regressive-transhumanism-or-how-the-algorithms-shape-us/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -976,7 +976,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/cat-catching-birds/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:07 UTC
 
 ---
 
@@ -1000,7 +1000,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/quieter-mornings-louder-brain/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1026,7 +1026,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/uninspired-photowalk-inspiring-changes/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1054,7 +1054,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/little-tasks/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1080,7 +1080,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/myth-building-in-100-posts/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1107,7 +1107,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/do-i-miss-cereal/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1131,7 +1131,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/ebb-and-flow/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1163,7 +1163,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/leaks/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1187,7 +1187,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/sprouts/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1213,7 +1213,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-creek-is-seasonal/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1239,7 +1239,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/weekend-blur/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1265,7 +1265,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/when-waiting-is-more-than-waiting/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1289,7 +1289,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/my-bear-blog-evolution/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1379,7 +1379,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-less-online-a-little-more-living/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1403,7 +1403,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-past-was-an-egg-we-lost-better-futures/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1431,7 +1431,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/quick-and-non-fickle-pickles/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1455,7 +1455,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-dog-under-the-bed/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1481,7 +1481,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-economy-of-indifference/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1511,7 +1511,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/crickets/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1541,7 +1541,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/happy-tired/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1563,7 +1563,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/ick-mode/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1587,7 +1587,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/rain-rain-rain/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1611,7 +1611,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/antigallery/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1641,7 +1641,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-cicada-hunter/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1669,7 +1669,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/snack-the-planet/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1703,7 +1703,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/standard-weekly-meals/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1755,7 +1755,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-slop-for-thought/
-- generated: 2026-11-12 14:48 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1785,7 +1785,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/snapping-photos/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1809,7 +1809,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/el-sabado-feedo-reado/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1833,7 +1833,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/music/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1868,7 +1868,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/cheese/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1894,7 +1894,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/exercises-in-living/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1922,7 +1922,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/care-as-outlaw-behaviour/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1950,7 +1950,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/may-day-and-thinking-about-water/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -1978,7 +1978,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-month-of-poetry/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2002,7 +2002,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/what-is-robotamerica/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2040,7 +2040,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/my-colour-scheme/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2124,7 +2124,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-thoughts-on-minimalism-by-pinewind/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2158,7 +2158,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/whoami-a-mostly-unfancy-bio/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2192,7 +2192,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/vibing-on-the-open-web/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2227,7 +2227,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/springtime-feels/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2274,7 +2274,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-everyday-life/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2316,7 +2316,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-jot-ecology/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2352,7 +2352,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/routine-and-place/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2385,7 +2385,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/organised-chaos/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2415,7 +2415,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-text-cursor-zoo/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2525,7 +2525,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/preparing-for-a-real-garden/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2572,7 +2572,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/toastless-test/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2596,7 +2596,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/busy-bodies-being-busybodies/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2624,7 +2624,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/four-meditations-on-slowness-and-speed-for-a-time-obsessed-with-speed/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2658,7 +2658,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/putter-mode/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2688,7 +2688,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/new-things-i-dont-really-want/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2716,7 +2716,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/morning-treats/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2751,7 +2751,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/internet-gibberish/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2794,7 +2794,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/50-logsposts-on-bear-blog/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2818,7 +2818,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarpunkifying-our-home/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2859,7 +2859,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/robobestiary/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2901,7 +2901,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/no-digital-masters-no-digital-gods/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2933,7 +2933,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/busy-week-short-list/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -2977,7 +2977,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tired-body-tired-mind/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3005,7 +3005,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/new-post/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3067,7 +3067,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/rssprint-re-i-print-my-websites/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3114,7 +3114,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/my-work-based-toolkit/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3179,7 +3179,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/robotamerica-abridged/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3218,7 +3218,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/why-lists-well-why-not/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3313,7 +3313,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/morning-folk/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3345,7 +3345,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-techno-animist/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3410,7 +3410,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-carrier-bag/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3481,7 +3481,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-craft/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3535,7 +3535,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-plot/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3584,7 +3584,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-new-aesthetic-and-feel/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3656,7 +3656,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/html-poetics/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3699,7 +3699,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/diaryland-memories/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3735,7 +3735,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/information-fatigue-first-aid/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3769,7 +3769,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-guestbook-experiment/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3791,7 +3791,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/interrupt-the-feed/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3833,7 +3833,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/i-made-a-digital-garden/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3888,7 +3888,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/how-termux-saved-me-from-my-doomscrolling-addiction/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3938,7 +3938,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-craft-or-how-i-set-my-type-by-hand-but-also-use-ai/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -3998,7 +3998,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/on-not-knowing/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4039,7 +4039,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/tool-farming/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4231,7 +4231,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/iamai/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4283,7 +4283,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/ritual-routine-reward-remorse-and-rejoice/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4325,7 +4325,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/analogue-love/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4388,7 +4388,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-soft-stack-ecology-what-is-that/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4426,7 +4426,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-revised-solarpunk-ai-manifesto/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4602,7 +4602,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-joy-and-intimacy-of-journaling-with-neovim/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4642,7 +4642,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-curious-case-for-lowercase-writing/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4686,7 +4686,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/list-archive-index-but-do-so-publicly/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4716,7 +4716,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conscious-media-consumption/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -4750,7 +4750,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-little-bash-wrapper-for-mpv-or-conscious-media-consumption-part-1/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5288,7 +5288,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/re-my-blogging-workflow/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5361,7 +5361,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/specialfish/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5395,7 +5395,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/folk-the-system-caring-for-one-another-in-hard-times/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5500,7 +5500,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/conceptual-coding-and-the-dev-derive-a-philosophical-distancing-from-vibe-coding-yep-in-that-pejorative-sense/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5573,7 +5573,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-internet-is-becoming-a-digital-desert/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5597,7 +5597,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/intermittent-posting/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5631,7 +5631,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/experimental-blogging/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5698,7 +5698,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/digital-ecologies/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5756,7 +5756,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-first-grove/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -5986,7 +5986,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solar-punk-ai-manifesto/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -6167,7 +6167,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/solarsocial/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -6312,7 +6312,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-poetics-of-digital-gardens/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
@@ -6389,7 +6389,7 @@ Toast this post
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/a-poet-technologist/
-- generated: 2026-11-12 14:49 UTC
+- generated: 2026-11-13 14:08 UTC
 
 ---
 
