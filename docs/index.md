@@ -2,7 +2,7 @@
 
 - seed (posts): https://robotameri.ca/archive/
 - seed (pages): https://robotameri.ca/
-- generated: 2026-11-18 15:17 UTC
+- generated: 2026-11-19 15:24 UTC
 
 ---
 
@@ -13,6 +13,7 @@
 - [manifesto.md](pages/manifesto.md) — https://robotameri.ca/manifesto/
 
 ## posts
+- [a-quick-trip.md](posts/a-quick-trip.md) — https://robotameri.ca/a-quick-trip/
 - [forty-four.md](posts/forty-four.md) — https://robotameri.ca/forty-four/
 - [scrap-language-part-2.md](posts/scrap-language-part-2.md) — https://robotameri.ca/scrap-language-part-2/
 - [scrap-language-part-one.md](posts/scrap-language-part-one.md) — https://robotameri.ca/scrap-language-part-one/
