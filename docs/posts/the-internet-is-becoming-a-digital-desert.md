@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/the-internet-is-becoming-a-digital-desert/
-- generated: 2026-11-19 15:25 UTC
+- generated: 2026-11-20 15:02 UTC
 
 ---
 
