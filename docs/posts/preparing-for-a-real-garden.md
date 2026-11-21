@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/preparing-for-a-real-garden/
-- generated: 2026-11-20 15:01 UTC
+- generated: 2026-11-21 14:23 UTC
 
 ---
 
