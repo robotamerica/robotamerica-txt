@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/care-as-outlaw-behaviour/
-- generated: 2026-11-21 14:23 UTC
+- generated: 2026-11-22 14:15 UTC
 
 ---
 
