@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/myth-building-in-100-posts/
-- generated: 2026-11-22 14:15 UTC
+- generated: 2026-11-23 17:37 UTC
 
 ---
 
