@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/information-fatigue-first-aid/
-- generated: 2026-11-24 17:09 UTC
+- generated: 2026-11-25 16:56 UTC
 
 ---
 

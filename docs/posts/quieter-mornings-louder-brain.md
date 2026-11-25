@@ -1,7 +1,7 @@
 # robotamerica — text mirror
 
 - source: https://robotameri.ca/quieter-mornings-louder-brain/
-- generated: 2026-11-24 17:08 UTC
+- generated: 2026-11-25 16:55 UTC
 
 ---
 
